@@ -77,5 +77,23 @@ Tell the user what was stored: episode title, count of recommendations, and a qu
 `ticker / stance / horizon`. Then suggest running **track-performance** (immediately for old
 episodes; later, once horizons elapse, for recent ones).
 
-> Batch tip: to ingest a show's recent episodes, `podwise drill <podcast-url> --latest N --json`
-> to list them, then loop steps 1–4. Consider spawning extraction subagents in parallel.
+## Batch ingest (a show's recent episodes)
+
+`podwise drill <podcast-url> --latest N --json` lists episodes (`--latest` is **days**, not a
+count). Then:
+
+> **Podwise free tier rate-limits bursts.** Do NOT spawn many extraction subagents that each
+> call `podwise get` — e.g. 20 subagents × 3 calls = a 60-call burst will exhaust the quota
+> and leave subagents fabricating placeholder summaries. Instead **decouple fetch from extract**:
+>
+> 1. **Fetch serially in the main loop** to local files (`podwise get transcript/summary/keywords`
+>    for each episode, with a short `sleep` between, bailing if you see `rate limit exceeded`).
+>    Save to e.g. `/tmp/<show>_fetch/{transcript,summary,keywords}_<id>.txt`.
+> 2. **Then spawn extraction subagents that read those local files** — zero API calls, so they
+>    can run in parallel with no rate-limit risk.
+>
+> Episodes that return `episode has not been processed yet` need `podwise process` (costs a
+> credit) — collect them and confirm with the user rather than processing silently.
+
+After extraction, store each JSON (step 4), then run **track-performance** and **`just export`**
+to refresh the git-tracked snapshot.
