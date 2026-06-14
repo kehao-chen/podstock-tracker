@@ -1,0 +1,52 @@
+{
+  "episode": {
+    "episode_id": "8130265",
+    "episode_url": "https://podwise.ai/dashboard/episodes/8130265",
+    "podcast_name": "游庭皓的財經皓角",
+    "title": "2026/6/3(三)比特幣告急 費半卻漲瘋了!谷歌發債又增資 追價潮剛開始?【早晨財經速解讀】",
+    "publish_date": "2026-06-03",
+    "language": "Traditional-Chinese",
+    "summary": "AI 產業的資本支出與市場資金輪動是當前全球金融市場的核心驅動力。費城半導體指數與科技巨頭的強勢表現，反映了市場對「賣鏟子」企業的高度青睞，即便股價處於高位，投資人仍將其視為 AI 時代不可或缺的基礎建設。然而，科技巨頭如 Google 的大規模募資計畫引發了對資本回報率的謹慎情緒。與此同時，美國勞工薪資成長停滯與初階職位消失，顯示 AI 帶來的生產力提升並未均勻分配，經濟結構呈現「掛牌企業獲利強勁，實體經濟相對疲軟」的兩極化現象。投資人應密切關注企業現金流與資本支出的合理性，並透過龍頭股配置與靈活的資金調度，應對快速變遷的產業趨勢。",
+    "keywords": [
+      "費半 (費城半導體指數)",
+      "本益比",
+      "乖離率",
+      "庫藏股 (股票回購)",
+      "HBM (高頻寬記憶體)",
+      "台積電 ADR",
+      "資本支出",
+      "Gemini",
+      "Anthropic",
+      "SpaceX"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "NVDA",
+      "company_name": "輝達 (NVIDIA)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "主持人明確表示不會賣輝達，理由是其本益比正在從 46 倍壓縮至 43 倍，獲利成長速度超越股價漲幅，實際上比關稅戰前還便宜，屬於「賣鏟子」企業受益於 AI 資本支出潮。",
+      "target_price": null,
+      "evidence_quote": "那我也先賣 Google，我肯定不會賣輝達。賣肺斑，相關概念股。因為你們是賣鏟子的嘛。",
+      "evidence_timestamp": "05:40",
+      "speaker": "游庭皓"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet (Google)",
+      "market": "US",
+      "stance": "avoid",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "Google 宣布 800 億美元大規模募資計畫（含發債、增資）蓋資料中心，市場擔憂資本支出以幾何級數擴張卻難以確認獲利回收，股價當日重挫 4%，主持人暗示資金應優先配置到「賣鏟子」的硬體股而非 Google 此類「買產值」的雲端業者。",
+      "target_price": null,
+      "evidence_quote": "大型科技股層面 Google 母公司 Alphabet 宣佈大規模的募資計畫反而重挫了 4%。看起來，市場上也不是全面性的樂觀。一直在看，你花這麼多錢，Google 你要怎麼收回來？這次居然因為大規模的募資計畫，決定要撒更多的錢，投資更多資金，結果反而股價受到顯著的承壓。",
+      "evidence_timestamp": "00:46",
+      "speaker": "游庭皓"
+    }
+  ]
+}

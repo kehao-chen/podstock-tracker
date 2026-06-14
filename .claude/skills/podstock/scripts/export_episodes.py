@@ -30,10 +30,16 @@ REC_COLS = ["ticker", "company_name", "market", "stance", "horizon", "conviction
             "rationale", "target_price", "evidence_quote", "evidence_timestamp", "speaker"]
 
 
-def slug(episode_id: str, title: str) -> str:
-    """Stable, human-readable filename: the EP number if present, else the episode id."""
+def slug(episode_id: str, title: str, publish_date: str | None) -> str:
+    """Stable, human-readable filename: the EP number if present (股癌-style), else the air
+    date (daily shows without numbering), else the episode id. Collisions are disambiguated
+    with the episode id by the caller."""
     m = re.search(r"EP\d+", title or "")
-    return m.group(0) if m else f"ep_{episode_id}"
+    if m:
+        return m.group(0)
+    if publish_date:
+        return str(publish_date)            # YYYY-MM-DD
+    return f"ep_{episode_id}"
 
 
 def podcast_dir(podcast_name: str) -> str:
@@ -55,6 +61,7 @@ def main() -> None:
     ).fetchall()
 
     written = 0
+    used: set[str] = set()                 # paths claimed this run, to catch same-day collisions
     for row in episodes:
         ep = dict(zip(EP_COLS, row))
         if ep["publish_date"] is not None:
@@ -73,7 +80,11 @@ def main() -> None:
 
         show = OUT / podcast_dir(ep["podcast_name"])
         show.mkdir(parents=True, exist_ok=True)
-        path = show / f"{slug(ep['episode_id'], ep['title'])}.json"
+        name = slug(ep["episode_id"], ep["title"], ep["publish_date"])
+        path = show / f"{name}.json"
+        if str(path) in used:                                     # two episodes → same slug this run
+            path = show / f"{name}_{ep['episode_id']}.json"
+        used.add(str(path))
         with open(path, "w", encoding="utf-8") as f:
             json.dump(obj, f, ensure_ascii=False, indent=2)
             f.write("\n")                                          # trailing newline = clean git diffs
