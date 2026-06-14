@@ -15,7 +15,7 @@ default:
 dash:
     uv run --with-requirements requirements.txt \
       streamlit run {{skill}}/dashboard/app.py \
-      --server.port {{port}} --server.address localhost
+      --server.port {{port}} --server.address localhost --server.headless true
 
 # store an extracted episode JSON into DuckDB (write — stop the dashboard first)
 store file:
