@@ -1,0 +1,133 @@
+{
+  "episode": {
+    "episode_id": "6764687",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6764687",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP626 | 🕷️",
+    "publish_date": "2026-01-10",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要圍繞市場分析和聽眾提問展開。首先，孟恭分享了他近期對股市的看法，建議聽眾在市場瘋狂時保持警惕，可適當減碼或設置停損點，同時強調記憶體板塊的重要性。接著，他回答了多位聽眾的提問，包括光通訊類股的選擇、對群聯競爭對手的看法，以及對面板廠轉型和設備廠估值的思考。此外，節目中還穿插了一些生活感悟，如分享了自己對育兒的體會，強調陪伴的重要性，以及對歐洲旅行安全問題的提醒。",
+    "keywords": [
+      "ETF",
+      "Trading Stop",
+      "D4/D5",
+      "Applied Materials",
+      "ASML",
+      "KLA",
+      "Fabs",
+      "Clean room",
+      "三無半導體",
+      "穩懋",
+      "聯亞",
+      "NVIDIA ICMS",
+      "獵魔女團"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MU",
+      "company_name": "Micron Technology",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "medium",
+      "conviction": "high",
+      "rationale": "謝孟恭明確表示仍持有 D5 美光，認為記憶體超級週期尚未結束，報價持續上漲；其他原廠也無簽長約鎖價意圖，意味市場仍偏多。",
+      "target_price": null,
+      "evidence_quote": "你說 D5 的美光我都抱著，可是 D4 的華邦我自己就已經是賣得差不多了，很早就賣掉了。",
+      "evidence_timestamp": "13:38",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "8299.TWO",
+      "company_name": "群聯電子 Phison Electronics",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "謝孟恭明確偏好群聯勝過競爭對手慧榮，強調群聯手握大量 NAND 顆粒庫存（三四百億），在漲價週期中佔優；且與公司高層熟識後持續追蹤。",
+      "target_price": null,
+      "evidence_quote": "在這一波的漲價，那不是 controller 在飆喔，你講的 CMO 是做 controller，那不是 controller 飆，他其實是你要有顆粒餒，你要夠多庫存餒，潘董手上下不到三四百億的庫存餒，所以還是有差啦。",
+      "evidence_timestamp": "37:15",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2330.TW",
+      "company_name": "台灣積體電路製造 TSMC",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "謝孟恭看好台積電持續擴廠（買新土地）帶動整條廠務供應鏈；預期法說會展望若不令人失望將加碼布局，目前仍有部位。",
+      "target_price": null,
+      "evidence_quote": "當然大家相信在過去的幾天都有看到臺積電又要去買新的土地了嘛。那我比較選擇的不會是美股的那些設備，因為美股那些設備真的比較瘋狂，臺股的一些設備，臺股的一些產物，往這個方向去。",
+      "evidence_timestamp": "18:17",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA Corporation",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "謝孟恭表示在極低位買入 NVIDIA（約十分之一現價），仍持有；AI 算力需求旺盛、晶圓廠持續擴產支撐基本面，維持多頭看法。",
+      "target_price": null,
+      "evidence_quote": "像 NVIDIA 我在買最低的時候差不多下了十分之一的價格。那你下在這個地方為什麼可以加碼？是因為我們都是聚焦在未來。",
+      "evidence_timestamp": "26:16",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "3323.TW",
+      "company_name": "聖暉工程 (盛輝, 無塵室)",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "謝孟恭明確點名「Cleanroom 的話，那就盛輝」，作為台積電擴廠後無塵室需求受惠股；Yahoo Finance 未能確認對應代碼。",
+      "target_price": null,
+      "evidence_quote": "我就直接跟你講了，覺得 Cleanroom 的話，那就盛輝啊，如果今天是水的話，那就趙連嘛。趙連的二次配，姓洪嘛，再來如果是氣的話，何松嘛，何松的二次配，瑞哲，類似這樣。",
+      "evidence_timestamp": "32:49",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "3105.TWO",
+      "company_name": "穩懋半導體 WIN Semiconductors",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "short",
+      "conviction": "low",
+      "rationale": "謝孟恭觀察穩懋在光通訊題材中已大幅上漲，屬三無半導體之一，但暗示已是強勢股而非進場點；知情人士早已布局，數字出後可能不再漲。",
+      "target_price": null,
+      "evidence_quote": "你看穩懋，穩懋也是直接就射出去了。聯亞的話，當然它也算是一個，怎麼講，在這個族羣裡面是很核心，但它一向就是偏貴。",
+      "evidence_timestamp": "31:36",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "LITE",
+      "company_name": "Lumentum Holdings",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "謝孟恭提到 Lumentum 是市場壓光通訊的共識標的，但警告集中持有可能如臺灣熱門概念股一樣「後面烙賽」，建議留意風險。",
+      "target_price": null,
+      "evidence_quote": "各個光通的話也是以美股為主，就是 Lumentum 跟 Coherent，這也算是一個蠻大的共識，就是很多市場的前陣子都堆在這邊，要壓光通的人很多都買這個，那所以不排除也有可能會像前面一些那種臺灣人熱門概念股一樣，後面烙賽，大家自己要小心。",
+      "evidence_timestamp": "30:59",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "COHR",
+      "company_name": "Coherent Corp.",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "謝孟恭將 Coherent 與 Lumentum 並列為光通訊共識多頭標的，同樣警告集中持有風險，需留意是否有類似臺股概念股炒完即下的風險。",
+      "target_price": null,
+      "evidence_quote": "各個光通的話也是以美股為主，就是 Lumentum 跟 Coherent，這也算是一個蠻大的共識，就是很多市場的前陣子都堆在這邊，要壓光通的人很多都買這個，那所以不排除也有可能會像前面一些那種臺灣人熱門概念股一樣，後面烙賽，大家自己要小心。",
+      "evidence_timestamp": "31:01",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

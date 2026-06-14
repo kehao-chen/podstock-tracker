@@ -1,0 +1,91 @@
+{
+  "episode": {
+    "episode_id": "7093319",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7093319",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP633 | 🪢",
+    "publish_date": "2026-02-04",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要圍繞聽眾提問展開，謝孟恭分享了他對教育、投資及產業趨勢的看法。他提到在教育方面，每個家庭的需求不同，不應一概而論，快樂成長和體育的重要性不亞於學業。針對投資，他建議大家應謹慎應對市場波動，可關注低軌衛星及散熱產業的機會。謝孟恭還分析了 AI 對軟體業的影響，認為部分公司可將 AI 轉嫁為額外收益，並看好 Agentic AI 的發展。此外，他還分享了與 Lisa 在育兒上的經驗，以及對臺灣遊戲產業的樂觀態度。",
+    "keywords": [
+      "股癌傳送門",
+      "快樂寶貝",
+      "帝國衛星",
+      "E-Book",
+      "MCL",
+      "CloudBot",
+      "Genie",
+      "Agentic AI",
+      "Prompt Engineering",
+      "SoundOn"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "2330.TW",
+      "company_name": "臺積電",
+      "market": "TW",
+      "stance": "sell",
+      "horizon": "short",
+      "conviction": "medium",
+      "rationale": "謝孟恭以臺積電法說會議作為設備/產物的 checkpoint，法說後臺積電未明確表態，因此他賣出了大量相關股票，轉往其他機會。",
+      "target_price": null,
+      "evidence_quote": "我把臺積電的法說視為設備跟產物的一個 checkpoint，那在之後沒有表態，所以基本上相關的股票都被我賣了蠻多的，所以就是我賣了之後才會漲，那不客氣。",
+      "evidence_timestamp": "33:15",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "6669.TW",
+      "company_name": "緯穎科技 (偽創)",
+      "market": "TW",
+      "stance": "avoid",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "緯穎（偽創）原有的 NVIDIA 伺服器組裝合作計畫（推進至 L10 再售出）已因供應鏈反彈而遞延，原始多頭論述已不成立，謝孟恭表示故事基礎已瓦解。",
+      "target_price": null,
+      "evidence_quote": "因為過去有在傳說 NVIDIA，它要去在伺服器的組裝上面去捏得更緊。所以它確實本來是打算說就是它自己一路推到 L 10 之後再賣別人。那它的合作夥伴就是兩家，一個就是偽創。……只是呢在近期發現說在供應鏈這邊有出現一些反彈的狀態啦。所以這個計畫是有稍微的遞延，也就是說它本來的故事，其實是已經不成立了。",
+      "evidence_timestamp": "34:45",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "蘋果 Q1 財報優於預期，毛利率維持 48–49%，即便記憶體成本大漲仍控管得宜，中國營收創十季高，iPhone 銷售強勁，謝孟恭對其整體表現給予正面評價。",
+      "target_price": null,
+      "evidence_quote": "他講記憶體影響他 Q1 不多，然後到 Q2 開始有影響，可是呢，他預測他的 gross margin 還是在 48 到 49，所以說，其實真的控得非常漂亮啦。……中國這邊的營收創了 10 高，印度也不錯，整體都還蠻好的。",
+      "evidence_timestamp": "29:13",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2308.TW",
+      "company_name": "臺達電",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "謝孟恭在談論未來三到五年電力重要性時，明確指出臺達電仍在非常好的方向，看好其在 AI 時代電力供應鏈中的地位。",
+      "target_price": null,
+      "evidence_quote": "我們現在講的 Power 不只是像過去聊 Delta，當然 Delta、臺達電都還是在很好的一個方向，我現在講的 Power 是直接回到電廠那邊去了。",
+      "evidence_timestamp": "50:46",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "3017.TW",
+      "company_name": "奇鋐科技 (建策，散熱之王)",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "謝孟恭提到「散熱之王建策」即便 MCL 方案遞延，其 stiffener 加兩片 spreader 替代方案的 ASP 同樣很高，市場不確定性消除後資金可望湧入，散熱族群出現突破。",
+      "target_price": null,
+      "evidence_quote": "像這個過往的臺股的散熱之王建策的話，大家就發現說，他就算沒有走 MCL，雖然 MCL 的價格很漂亮，ASP 很好，……可是他暫時拿出來的一個替代方案，像是 stiffener 加兩片 spreader 的這樣一個解方呢，他的 ASP 的價格也是很高，所以市場可能就是……這個故事是一直都在那邊，那可能現在就是確定下來了，所以當市場去把一些不確定性給消除掉之後，那可能就有些資金要兌進去。",
+      "evidence_timestamp": "20:01",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

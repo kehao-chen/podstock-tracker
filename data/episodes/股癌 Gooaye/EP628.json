@@ -1,0 +1,54 @@
+{
+  "episode": {
+    "episode_id": "6861390",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6861390",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP628 | 🍑",
+    "publish_date": "2026-01-17",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要討論了台灣關稅議題及台積電法說會的影響，並回答了聽眾提問。謝孟恭認為，台灣在關稅方面取得超乎預期的勝利，與主要競爭對手站在同一起跑線，有助於未來發展。針對台積電法說會，他指出資本支出上修將帶動相關產業鏈營收，並分享了個人操作策略。在聽眾提問環節，謝孟恭回答了關於如何擺脫人生倦怠、情侶間遊戲相處之道、以及投資決策等問題，並以自身經驗給予建議，鼓勵聽眾探索生活中的樂趣，並找到適合自己的投資方式。",
+    "keywords": [
+      "臺積電 (TSMC)",
+      "CAPEX (資本支出)",
+      "232 最惠國待遇",
+      "N2",
+      "被動元件",
+      "TLVR 電感",
+      "尼姬 (Nikke)",
+      "不知火舞",
+      "二 B",
+      "瑪莉 (Nikke角色)",
+      "Pure Storage",
+      "Radiohead"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "high",
+      "rationale": "台積電法說會資本支出上修至52-56B美元，遠超市場預期，謝孟恭本身是台積電股東，計劃在殺人K高點突破後進行加碼。",
+      "target_price": null,
+      "evidence_quote": "我講說這個地方設為一個 Checkpoint 就是我本來是打算在 15 號他開完法說之後，那如果數字是超過我的預期的話，假設股價轉強，我就要再去做更大程度的一個加碼。",
+      "evidence_timestamp": "23:50",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "5347.TW",
+      "company_name": "世界先進",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "台積電釋出8吋產能，世界先進作為台積電子公司是最大受益者，可接收最多釋出產能。",
+      "target_price": null,
+      "evidence_quote": "八寸的產能放出去，最大受惠者是世界先進，一定是 Viz 連電的話，可能有些人會想像他也有機會分到一些東西，但其實是以世界先進為主。臺積電的兒子有可能可以拿到他最多丟出去的一些產能。",
+      "evidence_timestamp": "20:55",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

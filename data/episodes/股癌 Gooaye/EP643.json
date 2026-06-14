@@ -1,0 +1,66 @@
+{
+  "episode": {
+    "episode_id": "7473051",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7473051",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP643",
+    "publish_date": "2026-03-11",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要分享了謝孟恭近期對於投資操作的反思與市場觀察。他提到自己因擔憂地緣政治風險而在股市大跌時做出了一些不理想的賣出決策，但也強調從錯誤中學習的重要性。謝孟恭分享了他關掉電腦風扇後，生活品質大幅提升的個人體驗，並鼓勵聽眾檢視生活中習以為常卻可能造成壓力的細節。此外，他還分析了記憶體產業的市場動態，以及 NVIDIA 可能推出的 LPU 對供應鏈的影響，並提醒投資者在當前市場環境下保持警覺，維持適當的現金水位。在 Q&A 環節，他回答了聽眾關於英文取名、槓桿操作、職涯規劃等問題，並分享了自己對育兒和生活的新體悟。\n\nTakeaways:\n1. 移除不必要的電腦風扇後，生活品質能獲得顯著提升，許多人並未意識到噪音對日常的負面影響。\n2. 投資決策不應僅基於單一指標，而應綜合考量多重因素，如 VIX 波動率與原油價格。\n3. 即使過去的操作策略有效，仍需根據市場變化及時調整，避免過度自信導致的損失。\n4. 個性會影響投資風格，樂觀者傾向於相信公司的發展潛力，而悲觀者則更關注風險。\n5. 融資餘額的判斷應使用百分比而非絕對數字，以適應股市點數變高的現況。\n6. 即使斬首伊朗最高領導人，中東地區的不確定性依然存在，投資者需保持警覺。\n7. 蘋果公司通常在技術成熟後才進入市場，並推出體驗極佳的產品。\n8. 記憶體市場供應緊張，各大廠仍在測試市場風向，可能出現超額預訂的狀態。\n9. 聲音敏感的人應檢視居家環境，排除潛在的噪音來源，以提升生活品質。\n10. 孩子出生後夫妻關係可能緊張，應互相提醒彼此是盟友，共同面對育兒挑戰。",
+    "keywords": [
+      "5090 顯卡",
+      "VIX 波動率",
+      "台積電 (TSMC)",
+      "GTC (NVIDIA GPU Technology Conference)",
+      "LPU",
+      "海灣戰爭",
+      "川普 (Donald Trump)",
+      "《絕命毒師》(Breaking Bad)",
+      "柯格魔 (Kog'Maw)",
+      "十四代",
+      "化妝舞孃"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MU",
+      "company_name": "美光",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "short",
+      "conviction": "low",
+      "rationale": "市場傳言美光下季毛利率將創新高，高於市場預估的七十幾趴；記憶體漲價趨勢持續，主持人雖未直接推薦買入，但以正面態度分享此訊息。",
+      "target_price": null,
+      "evidence_quote": "我在講說美光的這個毛利率呢是準備要再去撞一個新高，而且這個新高是高於市場 forecast 的可能七十幾趴，就比這個數字再更高，有聽到這樣子的一個說法啦。",
+      "evidence_timestamp": "20:05",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "主持人認為 NVIDIA 是 AI 絕對領導者，但目前估值只有約 4 倍本益比，非常便宜；即使 GTC 大會出現市場不喜歡的消息，下方空間也不大。",
+      "target_price": null,
+      "evidence_quote": "以 NVIDIA 的估值來講，它是一個 AI 的絕對 leader，然後現在它卻在一個 4P，就是算真的很便宜的位置。所以我是覺得就算可能 GTC 可能出一些東西，然後市場不喜歡要殺它，我猜啦，下面的肉應該也不會太多吧，除非說 AI 有出什麼大問題。",
+      "evidence_timestamp": "23:27",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "short",
+      "conviction": "low",
+      "rationale": "傳言 NVIDIA LPU 第四代將改由台積電以 N3+CoWoS-R 製程生產（原本市場預期是三星的題材），若屬實將帶動臺系 LPU 概念股；主持人並未直接點名買進台積電，但指出此為潛在催化劑。",
+      "target_price": null,
+      "evidence_quote": "只是現在瞭解，這個 V4 應該有機會也是會在臺積電那邊去做生產。所以有點像是說這種餘量情節的感覺…一樣的道理在這個 LPU 第四代，目前是傳說可能在臺積電這裡，他會是走一個 N3 再搭配 QoS R 的一個做法。",
+      "evidence_timestamp": "22:05",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "episode": {
+    "episode_id": "7790393",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7790393",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP654",
+    "publish_date": "2026-04-18",
+    "language": "Traditional-Chinese",
+    "summary": "本集節目圍繞市場趨勢分析與聽眾疑難雜症解答展開。美股與台股近期表現強勢，台積電資本支出與 AI 需求帶動相關產業鏈，特別是 CPU 缺貨議題可能成為市場下一個催化劑。針對 AI 應用，市場論述正從單純的算力消耗轉向檢視實際財務回報與產品產出，盲目追求 AI 技術卻缺乏具體成果的公司將面臨淘汰風險。此外，節目透過回應聽眾私訊，探討了人生成功定義的轉變，強調健康與家庭陪伴的重要性，並針對資產配置與退休規劃提供建議。整體而言，在行情強勁的環境下，應保持對市場機會的敏銳度，同時在追求財富增長之餘，維持對生活體驗與個人健康的關注。\n\nTakeaways:\n1. 投資成功的核心定義已從單純的資產累積轉向對生命韌性、健康狀態及家庭關係的經營，財富僅是達成這些目標的工具而非終點。\n2. 市場多頭行情中，與其預測高點或擔憂崩盤，不如識別修正時的介入機會，並在行情強勁時盡可能把握獲利空間。\n3. AI 應用的市場論述正從「消耗多少 Token」的燒錢階段，轉向檢視「實際產出結果（Result-based）」與財務績效的價值驗證期。\n4. 企業若僅是為了符合 KPI 而進行無意義的 AI Token 消耗（Tokenmaxxing），最終將因缺乏實際產品 shipment 而面臨市場淘汰。\n5. CPU 缺貨可能成為 AI 基礎設施中被低估的關鍵瓶頸，因其與 GPU 存在競價效應，進而帶動周邊測試設備與元件的漲價需求。\n6. 投資決策應基於機會成本與市場動能，而非固守單一產業，當特定族羣資金過度擁擠時，應靈活轉向具備成長潛力的新標的。\n7. 退休配置的關鍵在於釐清個人的物慾水平，若資產配置能產生穩定現金流且足以覆蓋生活開支，即具備退休條件，無需過度追求極端報酬。\n8. 職場生涯後期，無論專業背景為何，最終都將轉化為銷售（Sales）角色，需具備推銷產品、管理團隊或籌資的綜合能力。\n9. 真正的高手在於精準控制交易節奏，而非頻繁進出市場，投資心態的成熟度與對自身財務狀況的掌控力，決定了長期的生存能力。",
+    "keywords": [
+      "台積電",
+      "國巨",
+      "資本支出",
+      "MLCC",
+      "AI Token",
+      "Tokenmaxxing",
+      "Agentic AI",
+      "CSP",
+      "SMT",
+      "ABF載板",
+      "林哲瑄",
+      "薩姆·阿特曼"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "法說會資本支出給到上緣顯示管理層信心，訂單未取消的前提下台積電價格可對應指數突破四萬點；多頭格局確立，拉回即為進場機會。",
+      "target_price": null,
+      "evidence_quote": "以臺股來講，因為你就是臺積電的形狀嘛，所以臺積電你現在可以算到他多少錢，只要他訂單沒有被 cancel 什麼的，那基本上就是他就會到那個位置，那他到那個位置就可以對應說指數就是會到那個位置，就是破四萬點以上。",
+      "evidence_timestamp": "09:30",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2327.TW",
+      "company_name": "國巨",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "全球被動元件同業（日本、美國Vishay、Eton）已大幅飆漲，國巨在還原權息後亦在歷史高位，MLCC供需有改善跡象；但公司法說態度保守，漲速落後國際同業，值得持續觀察。",
+      "target_price": null,
+      "evidence_quote": "像臺灣的這個龍頭國巨呢，他已經在新高位置，他還原權息他其實是新高位置，他只是可能爬的是比這些國際上的 player 來得稍微的慢一點。",
+      "evidence_timestamp": "14:07",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2404.TW",
+      "company_name": "漢唐集成",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "漢唐在近期選擇特殊時間點做出市場表態，主持人認為時機有趣，後續可再關注；但未給出明確買賣方向，僅屬觀察性提示。",
+      "target_price": null,
+      "evidence_quote": "但注意到像漢唐在這陣子去做表態還蠻屌的，怎麼會挑這個時間點呢？蠻有趣的，或許後面也可以再來看看。",
+      "evidence_timestamp": "12:19",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "INTC",
+      "company_name": "Intel",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "short",
+      "conviction": "low",
+      "rationale": "CPU缺貨情況可能比記憶體更嚴峻（有價無市），若短缺成真則Intel漲幅仍有空間；但主持人以條件句表述，尚未確認。",
+      "target_price": null,
+      "evidence_quote": "雖然你現在看到 intel 跟 AMD 可能它漲幅是落在 20% 以下，但後面如果說真的是屌缺的話，那這個數字就有可能會再往上拉。因為基本上就是你要買也買不到嘛，那大家就會去做漲價。",
+      "evidence_timestamp": "17:02",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "AMD",
+      "company_name": "AMD",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "short",
+      "conviction": "low",
+      "rationale": "與Intel同受CPU缺貨主題推動，Agentic AI帶動CPU需求增長超預期；主持人同樣以條件句評論，非明確買入建議。",
+      "target_price": null,
+      "evidence_quote": "雖然你現在看到 intel 跟 AMD 可能它漲幅是落在 20% 以下，但後面如果說真的是屌缺的話，那這個數字就有可能會再往上拉。",
+      "evidence_timestamp": "17:02",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "3515.TW",
+      "company_name": "軍華電子",
+      "market": "TW",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "主持人自述持有，認為CPU測試設備是值得關注的方向，但因股價已大漲不願公開推薦以免聽眾追高，屬隱含持有而非主動買入建議。",
+      "target_price": null,
+      "evidence_quote": "像我自己手上我蠻喜歡就軍華，自貿，萬輪。因為他真的漲太多，所以我不願意去聊他，因為聊了之後大家一堆人都埋在山上跑來幹幹叫。",
+      "evidence_timestamp": "46:26",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

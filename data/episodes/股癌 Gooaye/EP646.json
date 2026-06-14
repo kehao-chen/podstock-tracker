@@ -1,0 +1,44 @@
+{
+  "episode": {
+    "episode_id": "7567023",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7567023",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP646",
+    "publish_date": "2026-03-21",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要分享了謝孟恭近期參與投資公司聚會的心得，並探討了美股盤勢及記憶體產業的現況。聚會中，大家討論了美國 Data Center 缺電問題，以及 SMR 小型核反應爐的發展。謝孟恭提到，光通訊是 AI 的 2.0，資金明顯匯聚於此，並分享了自己對美股和台股的投資策略，強調在市場情緒不穩定的情況下，仍應專注於基本面。此外，針對記憶體產業，他指出 NAND 的需求強勁，並提醒投資者注意報價上漲是需求驅動還是成本導致。在 Q&A 環節，謝孟恭回答了聽眾關於鴻海 PCB、RO 遊戲心得、育兒經驗等問題，並分享了自己對特斯拉異音的處理經驗。\n\nTakeaways:\n1. 投資市場沒有絕對，保持彈性至關重要，許多機會出現在大家不相信的時候。\n2. 高估值的股票能維持高估值，往往是因為不斷出現的新利好消息支持其估值上修。\n3. 在記憶體價格上漲預期被充分反應後，資金可能會重新流向其他報價上漲的類股。\n4. 選擇股票時，需求驅動的漲價優於供給或成本導致的漲價，前者在市場上的表現通常更好。\n5. 敢於擴廠、配合客戶、相信「這次不一樣」的廠商，更有可能成為 AI 趨勢下的最大受益者。\n6. 美股市場若出現破底，且 CTA（商品交易顧問）觸發停損潮，可能是一個極佳的買入時機。\n7. 矽谷圈的共識是，OpenAI 之所以能快速發展，在於其敢於大膽押注算力需求。\n8. 遊戲設計的平衡在於提供花錢和花時間兩種路徑，讓不同玩家都能達到目標。\n9. 避免情緒極端化的有效方法是離開現場，從而避免做出後悔的決定。",
+    "keywords": [
+      "NordVPN",
+      "Bloomberg Energy",
+      "SMR (小型核反應爐)",
+      "TAM (Total Addressable Market)",
+      "Immersion Cooling (浸沒式冷卻)",
+      "元太 (E Ink)",
+      "光通 (Optical Communication)",
+      "Plugable",
+      "美光 (Micron)",
+      "CTA (Commodity Trading Advisor)",
+      "解放日",
+      "NAND",
+      "DRAM",
+      "RO (仙境傳說)",
+      "MissAV"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MU",
+      "company_name": "美光",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "謝孟恭持有美光，認為記憶體今年基本面依然好，但財報雖超強（毛利 70% 以上）卻低於市場過高預期（喊到 84%），導致股價下跌；他認為利多沒有帶動大漲是需留意的訊號，但整體基本面仍偏正向，傾向繼續持有觀察。",
+      "target_price": null,
+      "evidence_quote": "記憶體的話在臺股我是已經完全沒有，但是我有美光。那我們也討論到美光的數字，本來在投資圈這邊真的是喊到毛利要 80 以上，最後面是開一個 70 幾，那還是一個超級變態的數字，只是沒有想到投資圈的數字真的估的非常高。",
+      "evidence_timestamp": "05:53",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

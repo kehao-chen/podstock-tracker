@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+# secrets
+.env
+# data / generated — the DuckDB is a rebuildable cache; only the authored
+# snapshot (data/episodes/*.json) is tracked, and `just rebuild` regenerates the rest.
+data/*
+!data/episodes/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.streamlit/secrets.toml

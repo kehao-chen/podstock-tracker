@@ -1,0 +1,81 @@
+{
+  "episode": {
+    "episode_id": "7595956",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7595956",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP647",
+    "publish_date": "2026-03-25",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要探討了 AI 工具在不同領域的應用與影響，以及對市場的看法。首先，講者分享了 AI 在台股和美股的應用差異，指出 AI 在台股能如虎添翼，但在美股盤勢不佳時效果有限。接著，討論了 AI 對 Coding 環境的改善，認為雖然提升了 Coding 速度，但好的產品成功不僅僅依賴 Coding 速度。此外，還分析了 Sora 被喊停對市場的影響，以及馬斯克 TeraFab 的目標與挑戰，強調成本和機會成本是關鍵考量。最後，回答了聽眾關於股票操作、儲值股停損、AI Agent 投資等問題，並分享了對人生和死亡的看法。\n\nTakeaways:\n1. AI 導入工作流程是一個漸進式的轉變，它會加強現有工作、產生新的工作，並淘汰部分舊工作。\n2. AI 幻覺程度降低，且能串接個人資料後，AI 工具可立即成為極佳助力，但成果展現仍取決於市場環境。\n3. AI 主要改善的是 Coding 環境，讓程式設計師能快速完成 Coding，但做出好的產品，並非僅靠 Coding 速度提升就能達成。\n4. 除非有人私下開發出 AGI 並獨自使用，否則在大家都可輕易取得 AI 工具的情況下，超額報酬將難以實現。\n5. Sora 被喊停不代表儲存需求會下降，因中國的紋身癮等發展仍在蓬勃進行，OpenAI 只是將資源聚焦在更直接產生收益的項目。\n6. 馬斯克積極壓低 AI 晶片價格，並傾向與三星合作，反映其欲打造如 IDM 般的垂直整合供應鏈體系。\n7. 儘管 AI 在影片生成方面有發展潛力，但要擊敗院線片等大成本製作仍有難度，因為觀眾追求的是娛樂性及對導演、演員的口碑信任。\n8. 處置股不宜設定絕對價格停損，因易受少量股票大幅影響價格波動，宜觀察其區間邏輯，或避開不熟悉的賽道。\n9. 亞股目前優於美股，操作策略上，可將較弱的股票減碼，轉往光通訊、CPU 等新題材靠攏。",
+    "keywords": [
+      "AI Doomsday Porn",
+      "Agentic AI",
+      "Perplexity Computer",
+      "玻璃基板",
+      "Coding 仔",
+      "Sora",
+      "Seedance",
+      "TeraFab",
+      "IDM",
+      "川普",
+      "Cloudflare",
+      "Palantir",
+      "儲值股"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "NET",
+      "company_name": "Cloudflare",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "AI Agent 爬蟲行為都會通過 Cloudflare 的收費牆，隨著 AI Agent 大量湧現，Cloudflare 已在各處架好收費站，是 AI Agent 浪潮最實質的受益股之一。",
+      "target_price": null,
+      "evidence_quote": "那可能比較偏向是像 Cloudflare 它就是 AI Agent 我覺得最實質的受惠股之一。因為這些 Agent 要去 Chrome 要去爬人家的東西，每個都會去經過 Cloudflare 的一個收費牆。所以我覺得它已經在各處都架好收費站了。只要越來越多這種 AI 的 Agent 上去幫你搜尋爬蟲的行為，對它來講就是很大的一個收益。",
+      "evidence_timestamp": "35:18",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "在 2B 的 AI Agent 應用上做得非常好，已拿到大量政府標案，未來收益已有相當保障，是 AI Agent 領域明確的贏家之一。",
+      "target_price": null,
+      "evidence_quote": "再來我認為說 Palantir 也可以算是一個，雖然它不是 2C 的，可是在 2B 的應用已經是做得非常好，拿到很多政府的標案，所以已經 secure 好，未來的一段時間我覺得都會很不錯。",
+      "evidence_timestamp": "35:44",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "AMD",
+      "company_name": "AMD",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "推論應用對 CPU 需求備受關注，AMD 已開始鎖定產線，短中期 CPU 題材有機會帶出一波表現，但主持人未明確點名買入。",
+      "target_price": null,
+      "evidence_quote": "像 AMD 這邊我們就有注意到他就把一些產線都包起來了，所以在接下來的一段時間，可能 CPU 也是有機會可以帶出一波表現的。",
+      "evidence_timestamp": "31:45",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": null,
+      "company_name": "SpaceX",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "主持人表示 SpaceX 上市後不管估值一定會先買，起始倉位約 1-2%，看對再加碼，唯 TeraFab 燒錢風險需留意。",
+      "target_price": null,
+      "evidence_quote": "那說我會不會買，我一定會買，他上市我一定會買，而且我是不管估價怎麼樣，我就會先買。那會買多少，不知道，最多就一兩趴吧，先買個一兩趴，那一樣就看對再加碼。",
+      "evidence_timestamp": "47:15",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "episode": {
+    "episode_id": "7923174",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7923174",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP659",
+    "publish_date": "2026-05-06",
+    "language": "Traditional-Chinese",
+    "summary": "市場焦點集中在 AI 產業鏈的結構性成長，CPU、ASIC 與被動元件的供需緊繃，顯示 AI 伺服器需求正帶動相關零組件價值重估。投資策略應保持彈性，在行情過熱時透過降槓桿與汰弱留強應對波動，並強調基本面研究與財務數據驗證的重要性，而非盲目追逐熱點。此外，個人減重健身帶來的身體掌控感，亦是維持長期投資紀律的關鍵。面對稅務與資產配置，應尋求專業會計師協助，將稅務成本視為必要的保護費。在 AI 內容氾濫的時代，精準的數據應用與產品實質獲利能力，才是企業脫穎而出的核心競爭力。\n\nTakeaways:\n1. 企業應用 AI 的核心門檻在於過濾「AI Slop」（低品質生成內容），唯有確保數據精準度與邏輯嚴密，才能將 AI 轉化為具備商業價值的生產力工具。\n2. 市場對 AI 基礎設施（如 CPU、ASIC、被動元件）的預期已高度反映在估值中，當前操作應採取「且戰且走」策略，並透過觀察尾盤資金流向來識別類股輪動的節奏。\n3. 功能性訓練透過髖關節發力與全身協調性優化，能顯著提升對肢體的掌控度，其對身體機能的改善效果優於單純追求肌肥大的傳統重訓。\n4. 投資部位從短線轉向長線是資金規模擴大後的必然趨勢，隨著資產增加，透過淨值走勢追蹤部位而非頻繁盯盤，是維持長期績效的關鍵心態。\n5. 追求極致卓越的過程中，完美的「工作與生活平衡」難以存在，但透過明確的時間切割（如固定家庭時間）能有效防止氣力耗盡，維持長期戰鬥力。\n6. 市場行情熱絡時容易導致價值觀偏差，將獲利視為理所當然，此時應警惕券商收傘訊號，並將稅務成本視為富人必要的保護費。\n7. AI 工具的普及使得技術開發門檻大幅降低，真正的商業競爭力在於產品能否持續獲利與營運，而非僅僅是利用 AI 生成功能。\n8. 人生最快樂的階段往往是從無到有的奮鬥過程，而非達成目標後的富足狀態，學會感知當下的點滴比追逐未來的願景更具意義。",
+    "keywords": [
+      "Ozempic/Mounjaro",
+      "AI Slop",
+      "ASIC",
+      "MLCC",
+      "Palantir",
+      "功能性訓練",
+      "基本面",
+      "TRX"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "AMD",
+      "company_name": "AMD",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "法說會上修 Server CPU TAM 至 120B（年增>35%），並宣稱有信心拿下 server CPU 超過 50% market share；AI data center 2027 年營收將達 tens of billions，能見度高。",
+      "target_price": null,
+      "evidence_quote": "AMD 這邊在法說會有一些重大的訊號啦，包含說他們去上修了 Server CPU Temp，從原本的一個估算調到 2023 年他們是估 120B，年增是大於 35%，這個速度是很快的，同時他們也講出說他們有信心可以拿下 server CPU 超過 50% 的一個 market share。這個我是覺得機率是還蠻高的。",
+      "evidence_timestamp": "12:47",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "3443.TW",
+      "company_name": "GUC（全球聯訊）",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "高度綁定 Google ASIC 供應鏈，當 Google Chain 啟動時已提早表態，是主持人持倉標的之一；相比 LCHIP，GUC 手上的 Google 題材更受市場關注。",
+      "target_price": null,
+      "evidence_quote": "大概前面像是這個 GUC 3443 那個算是大家都已經知道，因為他跟 Google 高度相關嘛。當 Google 在動，Google Chain 在動起來的時候，它已經提早動起來。",
+      "evidence_timestamp": "13:33",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "3661.TW",
+      "company_name": "LCHIP（樂晶）",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "short",
+      "conviction": "medium",
+      "rationale": "高度綁定 Amazon Trainium ASIC，當日漲停；主持人明確表示看到尾盤轉強後直接買入卡位，並承認之前說過不買 Amazon 概念股但最終還是買了。",
+      "target_price": null,
+      "evidence_quote": "像今天我們也看到了 LCHIP，就是 3661 也是直接漲停的。那 3661 的故事是比較綁定，應該說高度綁定 Amazon 的 Trenium。……Amazon 的概念股再買我就一條狗之類的，但我現在就我直接開始學狗叫，因為我還是買啦。就是看到這個股價有表態，就還是會找東西去把它追回來。",
+      "evidence_timestamp": "13:43",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "6173.TW",
+      "company_name": "信昌電（信昌電陶）",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "出貨交期拉長公告引發漲停，代表後續有漲價可能性；被動元件供需持續收緊，高階 MLCC 尤甚，是前期判斷的驗證，但主持人未明說自己有持倉。",
+      "target_price": null,
+      "evidence_quote": "今天也看到信倉店有一個這個出貨交期拉長的通知性，它並不是一個漲價性，可是市場就很買單，就直接給它一個漲停。但出貨的交期拉長，當然就可能代表說後面就有機會會看到一些漲價的可能性。",
+      "evidence_timestamp": "10:20",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2454.TW",
+      "company_name": "聯發科",
+      "market": "TW",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "主持人認為聯發科漲至三千多塊後已充分反映市場預期，如同 NVIDIA 上升段時一樣把估值打滿，不會再加大部位，只是放著觀察市場能瘋到什麼程度。",
+      "target_price": null,
+      "evidence_quote": "MediaTek 一次反應到三千多塊去的話，不知道，在我心中就會覺得說，它算是非常充分的已經先去預期後面的一些狀態了，所以呢，它會變成有點類似之前的像是 NVIDIA 那樣的一個情形……就我自己不會想要再去加大部位啦，可能就是放著，然後去觀察說到底這個市場可以瘋狂到什麼樣的一個程度。",
+      "evidence_timestamp": "15:09",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "5347.TW",
+      "company_name": "世界先進",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "成熟製程廠房尚未蓋好但產品已售罄，產能利用率極高；主持人視之為「二均」（次要優先標的），待「一均」主力股拉回或橫盤時才會考慮轉進。",
+      "target_price": null,
+      "evidence_quote": "另外一個我覺得也蠻意外的是 Vanguard，世界先進，最近對外的說法也是顯示了，它一些成熟製程的廠房可能還沒有蓋好，東西都賣掉了，它的利用率也是超級高的。那雖然這個其實大概在幾個月前就看得到，但它就是不會是一個首選啦。",
+      "evidence_timestamp": "27:42",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

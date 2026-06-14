@@ -1,0 +1,53 @@
+{
+  "episode": {
+    "episode_id": "7047025",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7047025",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP632 | ❄️",
+    "publish_date": "2026-01-31",
+    "language": "Traditional-Chinese",
+    "summary": "本期節目主要圍繞聽眾提問展開，謝孟恭分享了對近期生活、投資策略及產業趨勢的看法。他談到在股市回檔時的減碼操作，強調不應過度依賴歷史經驗，並以台積電法說會為例，說明如何利用關鍵事件作為交易檢查點。針對特斯拉，他認為交車數據並非估值重點，自駕技術與機器人發展才是核心，並分析了 Model S 與 X 停產可能代表的意義。此外，謝孟恭也回應了關於 MBTI、姐弟戀、職涯選擇等個人問題，並分享了自身在投資及人際關係上的經驗與體悟，強調大方與格局的重要性。",
+    "keywords": [
+      "Yahoo 天氣",
+      "Windy",
+      "Occupados (非法佔屋者)",
+      "台積電 (TSMC)",
+      "ASML",
+      "特斯拉 (Tesla)",
+      "CyberCab",
+      "Optimus",
+      "DRAM",
+      "NAND Flash",
+      "MBTI"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "謝孟恭認為特斯拉停產 Model S 與 X 代表馬斯克已看到自駕車（CyberCab）明確未來，是正面訊號；若連熱銷車種也停產，則是「全力做多」訊號。估值核心在自駕與 Optimus 機器人，而非交車數據。",
+      "target_price": null,
+      "evidence_quote": "把 Model X 跟 Model X 停掉，甚至未來假設停掉 Model 3，我自己都會覺得某個程度上可能是一種利多。那可是他現在敢去把一些車種給停掉……代表說可能我們看到那個自駕是在更近的地方。所以未來如果他就算把其他的車種都停掉，那是那種熱銷車種的話，反而你要全力做多，因為就代表說奇異點已經快到了。",
+      "evidence_timestamp": "16:44",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "ASML",
+      "company_name": "ASML Holding",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "ASML 法說後股價衝高後回落，謝孟恭認為市場已部分反應長期利多（記憶體先進製程需求），建議以股價表現作為輔助工具（左側操作），不宜全力重押。",
+      "target_price": null,
+      "evidence_quote": "在 ASML 開出來之後，你就注意到在這個美國走勢上，就直接是往上走，然後接著就掉下來，所以應該某程度上是以反應……像它可能當大家都已經覺得說都是好消息的時候，那如果股價沒有繼續作動的話，這就是為什麼我們會看著股價做事情，那可能就會稍微的停看停一下，就是不會選擇去把所有的部位都打在這個地方。",
+      "evidence_timestamp": "14:12",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

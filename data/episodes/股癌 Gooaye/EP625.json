@@ -1,0 +1,64 @@
+{
+  "episode": {
+    "episode_id": "6731737",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6731737",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP625 | 🧸",
+    "publish_date": "2026-01-07",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要圍繞聽眾提問展開，謝孟恭分享了他對市場現象和個人生活選擇的看法。針對記憶體產業分析報告，他強調深入了解產業最新應用及對既有產業的影響，而非僅關注報價和財務資訊。對於人生選擇，謝孟恭認為福禍相倚，當下難以判斷好壞，並強調直覺的重要性，但會根據過往經驗修正言論以避免不必要的麻煩。此外，他還回答了關於夫妻間細節記憶、投資策略、睡眠品質等問題，並分享了個人經驗和建議。",
+    "keywords": [
+      "活俠傳",
+      "CES",
+      "NVIDIA Inference Context Memory Platform (ICMS)",
+      "Bluefield DPU",
+      "Pseudo-SLC (PSLC)",
+      "HBM (High Bandwidth Memory)",
+      "羣聯 (Phison)",
+      "0050 ETF",
+      "正二"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "8299.TW",
+      "company_name": "群聯電子",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "群聯的SSD控制器出現在NVIDIA CES展示的SwitchTrade左下角，暗示其已切入NVIDIA的ICMS存儲伺服器生態系；主持人認為這是「非常大的力度」，後續可能成為NVIDIA DPU Storage Server的供應商之一。",
+      "target_price": null,
+      "evidence_quote": "羣聯的 Controller 怎麼會出現在 NVIDIA 的 SwitchTrade 裡面呢？這個就讓大家感覺到非常好奇啊。那當然我們也去做了一點點的挖掘啦，那這個 Controller 就是由羣聯所出貨啦，那當然這個對羣聯來說就是一個非常大的力度啦，就代表說它自己已經做進去 NVIDIA 裡面了嘛。",
+      "evidence_timestamp": "12:39",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "主持人對NVIDIA高度看好，認為其透過ICMS（Bluefield DPU驅動的存儲節點）搶先解決Agentic AI時代的上下文記憶體瓶頸，並持續從Compute擴張到Switch、Storage，生態系護城河極深。",
+      "target_price": null,
+      "evidence_quote": "在我的角度看來，其實 NVIDIA 跟 Jensen 他們是蠻變態的，就他們真的是領先別人數步不止，就當大家發現了一個痛點之後呢，然後可能他早就已經去針對這個痛點做準備了，所以當你發現痛點，然後又推出新的東西。",
+      "evidence_timestamp": "15:44",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "5211.TW",
+      "company_name": "孟田",
+      "market": "TW",
+      "stance": "avoid",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "主持人對孟田（賣翻譯筆）持懷疑態度，認為在手機已能取代翻譯筆的時代，這類公司成長邏輯薄弱，買進邏輯類似數位相機股或錄音筆股，屬於避開的對象。",
+      "target_price": null,
+      "evidence_quote": "在我的角度，有點像是跑去買數位相機股、錄音筆股一樣，因為我手機都可以做到這些東西。當然我不是倡外這家公司，我的意思是說在邏輯上有點神奇，因為一般我們會想買的東西是說，我知道這個東西成長性極好，然後我纔去買。而不是說，欸這個東西，媽的，現在外面這麼慘，它竟然沒死，我來買它好了。",
+      "evidence_timestamp": "40:57",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

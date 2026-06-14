@@ -1,0 +1,70 @@
+{
+  "episode": {
+    "episode_id": "7722213",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7722213",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP651",
+    "publish_date": "2026-04-08",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要探討了近期股市的動態與投資策略，並回答了聽眾的提問。謝孟恭分析了美伊停火對市場的影響，以及在選舉年川普可能採取的策略，建議關注油價作為投資參考。他提到 Tesla 與 Intel 合作案，認為對 Intel 是利多，但對 Tesla 影響中性，並提醒投資者注意手機市場的砍單潮。在回答聽眾提問時，謝孟恭分享了多元興趣的重要性，以及槓桿操作的時機，強調在有獲利時纔加碼，並配合大盤走勢。此外，他還以中探針為例，說明股市題材的多元解讀，以及基本面故事的重要性。\n\nTakeaways:\n1. 孩子在運動場上被眾人加油的經驗，以及運動員所承受的巨大壓力，是身為父親的謝孟恭認為運動員很帥氣的原因。\n2. 抓周結果反映孩子未來發展的準確性不高，但父母可從中感受到孩子對特定事物的偏好。\n3. 對於沒有自信的人來說，來自家人的肯定非常重要，能讓人感受到被需要和被認可。\n4. 參與林哲瑄引退儀式讓謝孟恭體會到，自己無意中可能幫助到了一些人，而這些人的回饋也反過來幫助了他。\n5. 股票市場中，不要輕易空手，因為追高買回的時機往往會再次遭受打擊。\n6. Tesla 與 Intel 和 Samsung 的合作，對 Intel 和 Samsung 來說是利多，但對 Tesla 而言，可能是一個中性事件，甚至是不樂見的，因為這代表需要投入大量資金且初期良率可能不高。\n7. 蘋果公司在記憶體高成本的環境下，選擇接受漲價並擴大經營，以犧牲毛利換取市佔率，是「趁你病要你命」的策略。\n8. 股市中，題材的重要性在於它能吸引其他人進場抬轎，因此選擇有故事的股票，某種程度上是進可攻退可守。\n9. 槓桿的使用時機應配合大盤走勢，但更重要的是，槓桿通常只在已有獲利的部位上增加，且在波動放大時應降低槓桿，以避免在低檔被斷頭。\n10. 社群媒體上的討論往往來自不同高度的人，過度在意反而會影響心情，遠離社群能發現現實世界並非如此糟糕。",
+    "keywords": [
+      "eSIM",
+      "林哲瑄",
+      "範國宸",
+      "006208",
+      "台積電",
+      "特斯拉(Tesla)",
+      "英特爾(Intel)",
+      "三星(Samsung)",
+      "Agentic AI",
+      "CPU",
+      "ASIC",
+      "NVIDIA",
+      "Marvell",
+      "Pogo Pin",
+      "Kyber"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "INTC",
+      "company_name": "Intel",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "Tesla 的 TerraFab 計畫將帶來高毛利的授權或顧問費用，若馬斯克計畫卡關則更需仰賴 Intel 技術，晶圓代工訂單與封裝（EMIB）使用案例可望增加。",
+      "target_price": null,
+      "evidence_quote": "它對於 Intel 或是說 Samsung，我覺得認為算是一個利多啦。可是如果今天是在 Tesla 這邊的話，它算是一個中性的事件。……如果說可以對馬斯克去做收費的話，那大家就知道錢怎麼跑了。",
+      "evidence_timestamp": "16:25",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "market": "US",
+      "stance": "avoid",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "TerraFab 計畫需要大量資金投入晶圓製造，初期良率風險高，Tesla 股東實為買單方，股價可能持續偏弱，這是不樂見的事件。",
+      "target_price": null,
+      "evidence_quote": "如果今天是在 Tesla 這邊的話，它算是一個中性的事件。就是它並沒有辦法去改變什麼事情，就我們對它的擔憂都還是存在，包含說因為它要拿出大量的錢去搞，這個晶圓生產製造……那所以這個可能是我們心中會比較覺得是不樂見的事情啦。",
+      "evidence_timestamp": "16:32",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "MRVL",
+      "company_name": "Marvell Technology",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "主持人已買入 Marvell，並預期某 ASIC 廠商將找 Marvell 設計晶片的消息尚未公開，上新聞後市場資金會跟進，故提前佈局。",
+      "target_price": null,
+      "evidence_quote": "再隨便舉一個例子，為什麼我自己會跑去買一些 Marvell，雖然可能看到這個 NVIDIA 的入股，那時候我就很坦白跟大家講說我不是買這個股市，但後面大家會看到的是，反正就是某 ASIC 那可能要找他來設計晶片，那這個可能還沒有上過新聞，可是我就知道說上新聞之後你們可能就會衝進來買。",
+      "evidence_timestamp": "37:44",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

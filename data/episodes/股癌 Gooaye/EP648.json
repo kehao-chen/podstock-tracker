@@ -1,0 +1,57 @@
+{
+  "episode": {
+    "episode_id": "7647940",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7647940",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP648",
+    "publish_date": "2026-03-28",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌由謝孟恭主持，內容涵蓋美妝產品推薦、個人健康管理及金融市場分析。首先，謝孟恭推薦修麗可 AGE 極效賦活緊緻精華，強調其膠原結構重塑科技。接著，他分享了自己因膽固醇和血壓問題開始服藥及調整生活習慣的經歷，並意外嘗試了瘦瘦針，效果卻不如預期。在金融市場分析方面，謝孟恭指出美股的險峻，建議聽眾關注蘋果公司的中低價筆電和手機策略，並分析了玻璃基板在產業中的應用前景，儘管他認為實際放量可能要等到 2027 年。最後，他回答了聽眾關於職場人際關係和投資的提問，並分享了自己對家庭和健康的感悟。\n\nTakeaways:\n1. 輪廓漸漸不明顯、法令紋開始出現、臉頰有點鬆的人適合使用修麗可電波 V 臉瓶。\n2. 膽固醇過高、有脂蛋白問題的人，除了打針外，可能還需要靠喫藥協助控制。\n3. 蘋果在 AI 時代的角色類似 Cloudflare，可透過掌握大量用戶和切入中低價市場收取過路費。\n4. 市場分析師就像父母一樣，總是會擔心各種狀況，不管是好是壞。\n5. all in 一支標的並賺錢有機會是賽到的，透過反覆執行驗證期望值為正，才能證明策略可行。\n6. 懷孕後，對孩子的愛會超越對伴侶的愛，在危急時刻會毫無疑問地選擇犧牲自己保護孩子。\n7. 玻璃基板的應用預計在 2027 年左右開始放量，2028 年才會大量出現。\n8. Google 的 Cavicash 壓縮技術不太可能對記憶體需求造成很大影響，市場通殺記憶體股是過度反應。\n9. 懷有能力或美麗的人容易被忌妒，被他人說嘴代表真正有料。\n10. 選擇與快樂的人相處，能使人生更快樂。",
+    "keywords": [
+      "修麗可AGE極效賦活緊緻精華",
+      "Legville",
+      "受咒針",
+      "NQ",
+      "Cloudflare",
+      "七雄 (Magnificent Seven)",
+      "Liberation Day",
+      "AlphaGo",
+      "Glass Core Substrate (GCS)",
+      "Through Glass Via (TGV)",
+      "eMIB",
+      "COAS",
+      "GB200",
+      "結紋式悖論 (Jevons paradox)",
+      "LLM (Large Language Model)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "謝孟恭認為蘋果切入中低價筆電與手機市場是很棒的策略，在 AI 時代扮演類似 Cloudflare 的過路費角色，且相對其他七雄 CapEx 較低而股價走勢較強，因此持續加大部位。",
+      "target_price": null,
+      "evidence_quote": "大概在幾天前有跟大家規劃，就是我覺得說蘋果去切這些中低價的筆電跟手機，我認為是很棒的一個策略，所以像我自己會想要去加大蘋果的一些部位，所以就在持續的觀察下去吧。",
+      "evidence_timestamp": "13:43",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "MRVL",
+      "company_name": "Marvell Technology",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "謝孟恭明確表示已買入大量 Marvell，因為其技術線型在美股中是少數仍走強的科技股，且預期後續將有所表現，雖是第三次嘗試。",
+      "target_price": null,
+      "evidence_quote": "我可能反而跑去買，像我就買了蠻多 Marvelle，因為其實前面有跟大家講，就 Marvelle 在後面應該會有一些展過，雖然這是我大概第三次挑戰他吧。前面兩次挑戰他都是鯊魚而歸，都沒有成功，但他現在算是可能在美股的技術線型還長得還蠻不錯的東西，已經是很少了。",
+      "evidence_timestamp": "16:37",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

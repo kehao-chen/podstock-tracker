@@ -1,0 +1,104 @@
+{
+  "episode": {
+    "episode_id": "7968547",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7968547",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP661",
+    "publish_date": "2026-05-13",
+    "language": "Traditional-Chinese",
+    "summary": "市場分析聚焦於被動元件與記憶體產業的供給排擠效應，隨著 AI 基礎建設需求擴大，MLCC 與鋁電容等零組件面臨交期拉長與漲價壓力，儘管市場對擴產容易度存有疑慮，但實際需求仍支撐產業向上。投資策略建議在盤面震盪加劇時，應避開過度追逐高估值動能股，轉而關注具備實質成長性或估值合理的標的，並保持部位彈性。此外，個人生活層面分享了對房地產市場的觀察，以及透過建立樣本與價格排序探索紅酒文化的過程，強調投資與生活皆需培養獨立判斷能力，避免盲從市場迷因或評分，應以個人味蕾與邏輯為最終決策依據。\n\nTakeaways:\n1. 被動元件產業的缺貨邏輯並非單純的產能不足，而是高階產品換代引發的「排擠效應」，導致標準品與低階料件同步出現交期拉長與漲價壓力。\n2. 臺中建築品質普遍較佳的隱性原因在於土地開挖後的土壤具備商業價值，建商能將此收益回饋至建築設計，與北部紅土無法變現的成本結構形成鮮明對比。\n3. 當市場交易邏輯出現高度同質化，即多數投資人同時追逐相同標的時，往往是行情即將進入震盪或修正的前兆，此時反向預判群眾行為比單純追逐動能更為關鍵。\n4. 以價格排序作為研究新領域（如紅酒）的切入點，是一種將股票市場「強勢股分析」邏輯遷移至生活興趣的有效方法，能快速篩選出具備歷史意義或市場共識的標的。\n5. 成熟製程與消費性電子零組件目前的漲價現象，多屬於「成本推動型」而非「需求拉動型」，顯示終端消費市場尚未全面復甦，產業復甦呈現高度分化狀態。\n6. 具備衝動與高好奇心的性格特質雖能驅動工作上的爆發力與創新思維，但必須透過外部環境的馴化與校正，才能在維持高效產出的同時兼顧社會化適應。\n7. 市場上的 speculative reports（小作文）不應被視為事實依據，而應作為觀察市場情緒與資金流向的指標，熟練的投資人甚至會將其視為反向操作的訊號。",
+    "keywords": [
+      "MLCC (積層陶瓷電容)",
+      "被動元件",
+      "HBM (高頻寬記憶體)",
+      "成熟製程",
+      "小作文",
+      "DRC (羅曼尼康帝)",
+      "Amarone (阿瑪羅尼)",
+      "鋁電容",
+      "散熱",
+      "Baby Shark"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "5347.TW",
+      "company_name": "世界先進",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "成熟製程中屬於需求驅動型漲價，臺積電授權特殊製程使其具備差異化，法說會已揭露新加坡新廠產能全數被包走，主持人認為「沒有問題」。",
+      "target_price": null,
+      "evidence_quote": "但事業先進是因為它有很多臺積電的授權，一些特殊製程的授權或什麼的。所以世界限定這邊，特別是他們自己在法說會就有跟大家講說這個是產能是被包走的，在新加坡的新廠是直接整個被包掉，所以這種我們覺得沒有問題，這個就是 demand 去驅動的",
+      "evidence_timestamp": "22:45",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "4919.TW",
+      "company_name": "新唐",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "主持人認同聽眾持續加碼新唐的邏輯：MCU 業績改善確實重要，兩年前節目即曾提到進入 Google 與微軟供應鏈的故事，此次真正兌現。",
+      "target_price": null,
+      "evidence_quote": "那新唐的話最好笑，新唐的話就是，可能兩年前的節目就有跟大家說，那時候要做進去 Google 跟微軟，然後大家現在要把一樣的故事再拿出來炒，然後這次就上去了。所以這個 MCU 的業績改善確實是蠻重要的。",
+      "evidence_timestamp": "37:33",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電",
+      "market": "TW",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "主持人自述已將部分部位調整至台積電，作為盤面震盪時的防守性配置；屬個人操作揭露，非主動推薦，帶有防禦色彩。",
+      "target_price": null,
+      "evidence_quote": "像我自己也是把一些部位都放到臺積跟發哥去，在過去一陣子都有去做這樣子的調整。",
+      "evidence_timestamp": "38:04",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2454.TW",
+      "company_name": "聯發科",
+      "market": "TW",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "主持人自述同樣將部分部位移至聯發科（「發哥」）作防守；並提及聯發科與高通之間的相對強弱比較，持倉揭露而非主動喊買。",
+      "target_price": null,
+      "evidence_quote": "像我自己也是把一些部位都放到臺積跟發哥去，在過去一陣子都有去做這樣子的調整。",
+      "evidence_timestamp": "38:04",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2327.TW",
+      "company_name": "國巨",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "主持人確認國巨為台灣被動元件領頭羊且已有相當漲幅，但明確提醒一般人「盡量不要再噴出表態一段」，不建議追高，屬帶狀追蹤性質。",
+      "target_price": null,
+      "evidence_quote": "臺灣的不管是領頭羊，像是國巨、華新科。後面的一些比較小支的 MLC，像是信昌，或者是利隆電，或者是像電容我剛剛舉的這幾家，其實他們本身現在都是有跟到國際的情勢……那我覺得一般人最好就是把自己的手綁起來，就是盡量不要再噴出表態一段",
+      "evidence_timestamp": "16:19",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2492.TW",
+      "company_name": "華新科",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "與國巨並列為台灣被動元件雙領頭羊，主持人確認已跟上國際走勢，但同步警示不宜追高，定性為持續關注而非積極進場。",
+      "target_price": null,
+      "evidence_quote": "臺灣的不管是領頭羊，像是國巨、華新科。後面的一些比較小支的 MLC，像是信昌，或者是利隆電，或者是像電容我剛剛舉的這幾家，其實他們本身現在都是有跟到國際的情勢……那我覺得一般人最好就是把自己的手綁起來，就是盡量不要再噴出表態一段",
+      "evidence_timestamp": "16:23",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "episode": {
+    "episode_id": "7689277",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7689277",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP650",
+    "publish_date": "2026-04-04",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要圍繞聽眾提問展開，謝孟恭分享了他對市場趨勢、投資策略以及生活態度的看法。他深入分析了 AI 時代 CPU 的重要性，指出隨著 Agentic AI 的發展，CPU 在推理和任務執行中的作用日益凸顯，並探討了鋁價上漲對相關供應鏈的潛在影響，提醒投資者需關注 MLCC 等替代方案帶來的長期風險。此外，謝孟恭也分享了個人生活經驗，包括如何應對孩子戒尿布、如何看待物質慾望與幸福感，以及在職場中如何調整心態等，強調在追求目標的同時，保持內心的平靜與平衡。\n\nTakeaways:\n1. 美國先發制人打擊潛在敵國，是為了避免該國在遭受攻擊後，無差別地報復，甚至攻擊盟友或重要設施，若該國持有核武，後果不堪設想。\n2. 在 Agentic AI 時代，CPU 的重要性提升，其發揮的作用甚至可能超過 GPU，因為 Agentic AI 需要大量的推理、輸入輸出以及程式碼執行。\n3. 股票仔常過度美化題材，但技術或論述正確不代表股價會漲，可能是因為看得太早，或放量時間未到。\n4. 投資股票，猜對未來並非重點，重點在於事件發生後如何應對，以及如何判斷市場的供需變化。\n5. 羨慕和嫉妒是快樂的竊賊，會破壞內心的平靜和平衡，應專注於自身擁有的美好。\n6. 工作的主要目的是為了換取生活所需，若目前的工作能滿足交屋等重要需求，即使有不如意也應先忍耐。\n7. 股市中做多的期望值通常優於做空，因為做多的潛在收益是無限的，而做空的最大收益僅為 100%。\n8. 判斷標的能否買進，可從公司派的說法來確認趨勢是否正確，以及檢視公司在產業鏈中的位置和潛在營收增長幅度。\n9. 股市投資沒有人知道你買進的理由，所以要為自己的每一筆交易負責，並在投資前想清楚投資的理由。\n10. 遇到被取不喜歡的綽號時，最佳應對方式是不予理會，因為反抗或申訴反而可能使情況更糟。",
+    "keywords": [
+      "KINYO 吱吱叫電擊式捕蚊燈",
+      "瘦瘦針",
+      "Pizza Tracker",
+      "Joe Rogan",
+      "Bill Ackman",
+      "真主黨",
+      "Agentic AI",
+      "GPU",
+      "CPU",
+      "HBM",
+      "ESSD",
+      "MLCC",
+      "NVIDIA",
+      "ARM",
+      "Michael Burry"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "AMD",
+      "company_name": "AMD",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "Agentic AI 時代 CPU 需求大增，AMD 持續蠶食 Intel 市佔，CEO Lisa Su 確認 AI Agent 工作流大量依賴傳統 CPU 任務，主持人已開始建倉並計劃持續加碼。",
+      "target_price": null,
+      "evidence_quote": "如果說我持續地看到 Intel 跟 AMD，往上走的話，那可能就是在建倉之後會再去做更多的一個加碼，那估值方面可能不會是我考慮的一個重點，先以題材這方面去做一個佈局",
+      "evidence_timestamp": "18:46",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "INTC",
+      "company_name": "Intel",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "Intel CFO 表示錯估 CPU 需求，Xeon 6 產能 absolutely constrained（供不應求），且在 NVIDIA DGX 系統中有採用，兩家應同步受惠於 Agentic AI 帶動的 Server CPU 需求。主持人視為組合中次要選擇，AMD 成長性略優。",
+      "target_price": null,
+      "evidence_quote": "在 Intel 的 CFO 這邊有看到他講說 misjudge the pace of demand，也就是說他們錯估了 CPU 的一個需求，那 Xeon 6 目前的產能是 absolutely constrained，就是是掉缺的。",
+      "evidence_timestamp": "16:07",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "ARM",
+      "company_name": "Arm Holdings",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "ARM 伺服器市佔從 2018 年低於 5% 升至 2025 年 20-25%，HyperScaler 佔比達 50%，AWS/Google/Azure 等均採用自研 ARM CPU，NVIDIA 新平台也使用 ARM 架構，估值難算但趨勢明確。主持人列為觀察標的但未明確說建倉。",
+      "target_price": null,
+      "evidence_quote": "再來呢，ARM 可能也是一個。在市場上大家可以去注意的一個標的，那首先我們先不去談它的估值，因為這個估值絕對是非常難算的，但同時我們知道，ARM 的伺服器市佔率從大概 2018 年的時候是低於 5 %，到現在 2025 年是已經跑到 20 % 到 25 %",
+      "evidence_timestamp": "18:07",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "3533.TW",
+      "company_name": "嘉澤端子",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "與 CPU Sockets 高度相關的臺股標的，在主持人觀察的美股 CPU 族群走強的背景下，此股相對強勢，有題材支撐。主持人以「可以注意」的語氣帶過，但較 AMD/Intel 更輕描淡寫。",
+      "target_price": null,
+      "evidence_quote": "或是說如果你今天轉頭看一下臺灣的話，你看一下 3533，它就是跟 CPU Sockets 高度相關的一個標的。那這些東西都算是相對強勢",
+      "evidence_timestamp": "10:42",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

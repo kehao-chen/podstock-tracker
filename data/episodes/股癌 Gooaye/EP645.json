@@ -1,0 +1,78 @@
+{
+  "episode": {
+    "episode_id": "7544621",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7544621",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP645",
+    "publish_date": "2026-03-18",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要圍繞聽眾提問展開，謝孟恭分享了他對投資、產業趨勢及個人生活的一些看法。他談到 NVIDIA 的 GTC 大會，指出市場對其 CPU 產品的反應不如預期，並分析了 ASIC 產業的競爭格局，提到 Meta 和 Microsoft 在 ASIC 發展上遇到的挑戰。針對聽眾關於 OpenAI 投資的問題，他建議可考慮持股較多的 Microsoft 或相關基金。此外，他也分享了對無本當沖等高風險投資行為的看法，並鼓勵聽眾探索個人興趣，即使是看似不務正業的行為，也可能帶來意想不到的收穫。最後，他還溫暖地回應了一些聽眾的個人困境，分享了自己的人生觀和價值觀。\n\nTakeaways:\n1. 臺灣人對金錢的喜愛程度超乎預期，使得財經節目在排行榜上名列前茅。\n2. 多數 sell side 報告往往在股票上漲後才上修，反映出公司內部對研究資源分配的效率考量。\n3. 許多美好的發展在當下難以預見，事後檢討往往帶有理所當然的態度。\n4. 獲得產業知識後，投資策略最終仍需回歸基本面，並結合市場情緒進行調整。\n5. 成功的關鍵在於將自己置於勝率較高的一方，長期下來自然會有所改善。\n6. 機會往往留給準備好的人，許多意想不到的發展都源於當下的努力。\n7. NVIDIA 正轉型為全方位的 AI 解決方案供應商，提供從晶片到數據中心的完整服務。\n8. 市場上對 SRAM 的炒作存在誤解，許多標的實際上是 pseudo SRAM。\n9. Meta 在 ASIC 發展上遇到挑戰，反映出 AI 技術發展並非一帆風順。",
+    "keywords": [
+      "善存葉黃素",
+      "TSM",
+      "NVIDIA",
+      "GTC",
+      "AI",
+      "ASIC",
+      "Meta",
+      "Broadcom",
+      "OpenAI",
+      "0050"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "謝孟恭認為 NVIDIA 已從單純晶片廠轉型為全方位 AI Factory 解決方案供應商，提供從 GPU、LPU 到 Data Center 的完整服務；雖然 GTC 發表沒有超乎預期，且估值需等降息才能再次推升，但長線仍看好其在 AI 基礎建設的主導地位。",
+      "target_price": null,
+      "evidence_quote": "我覺得以後就甚至可以想像成說，反正你就是去跟 NVIDIA 講說你要什麼樣的一個東西，那其實他就是把一個 Data Center 裡面所需要的東西直接就一套就給你。所以越來越看越喜歡這家公司啦。",
+      "evidence_timestamp": "16:39",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "謝孟恭指出若要參與 LPU/SRAM on-chip 記憶體題材，正規管道就是台積電（與三星），因為相關 on-chip memory 是由晶圓廠直接代工生產，不需要另找其他 SRAM 標的。",
+      "target_price": null,
+      "evidence_quote": "你要去賭這個題材，就直接買像什麼三星或是臺積電就好，因為那個是 on chip 的 memory，所以那個就是他們直接就幫你做了。",
+      "evidence_timestamp": "22:04",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "聽眾問如何投資 OpenAI，謝孟恭提到 Microsoft 持有 OpenAI 大量股份，不算擦邊球，是較直接的代理標的，但同時指出近期表現不佳，態度保留。",
+      "target_price": null,
+      "evidence_quote": "Microsoft 應該嚴格上來說不是擦邊球啦，它的持股不是還蠻多的嗎？……你今天是去壓出 OpenAI 題材的話，然後會跑去買 Microsoft 的話，在過去一陣子其實表現也不是太好，所以未必啦。",
+      "evidence_timestamp": "29:20",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "0050.TW",
+      "company_name": "元大台灣50 ETF",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "針對資金有限、正在從事高風險無本當沖的聽眾，謝孟恭明確建議應改存 0050，認為這是適合小資族的穩健長期投資策略。",
+      "target_price": null,
+      "evidence_quote": "那是不是像他這樣的最好投資策略就是不喫晚餐然後存 0050 就好？……去存 0050，我覺得存 0050 就是一個蠻不錯的概念啦。",
+      "evidence_timestamp": "38:33",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

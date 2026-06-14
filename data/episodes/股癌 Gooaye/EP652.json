@@ -1,0 +1,121 @@
+{
+  "episode": {
+    "episode_id": "7739826",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7739826",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP652",
+    "publish_date": "2026-04-11",
+    "language": "Traditional-Chinese",
+    "summary": "本期股癌主要探討了投資策略之外的生活平衡與市場趨勢。首先，分享了戒菸的新方法，強調深呼吸而非尼古丁是關鍵，並提倡節制成癮物。接著分析了 AI 時代下，年輕一代的生活態度與工作觀，他們更重視生活品質與自我實現。在市場分析方面，除了持續看好光通訊產業外，也提到了 CPU 在 AI 領域的重要性，以及被動元件因 AI 需求而出現的漲價趨勢。最後，回答了聽眾關於股票操作、家庭關係及生活習慣等問題，分享了個人經驗與建議，內容涵蓋投資心態、親子關係及人際交往等方面。\n\nTakeaways:\n1. 戒菸的過程，除了尼古丁的戒斷，更重要的是找到深呼吸帶來的放鬆與平靜感，取代抽菸的習慣。\n2. 新一代年輕人更注重活出自我，不輕易受傳統工作模式或社交禮儀的束縛，這也體現在他們對菸酒的低接受度上。\n3. 在 AI 時代，生產力不再是稀缺資源，年輕一代提前適應了這種變化，不再執著於傳統的工作觀念，更看重生活品質與個人時間。\n4. 股價創新高是股票達到目標價或更高市值的起點，因此判斷股票線型好壞，應著重於未來的成長空間，而非過去的漲幅。\n5. 維持家庭和諧的關鍵在於劃清界線，優先經營好核心家庭（夫妻與子女），避免過度干涉或協調原生家庭事務，以減少摩擦。\n6. 與人溝通時，應先設身處地理解對方的立場與感受，建立同隊意識，而非一味強調自身觀點或使用高壓手段，才能有效達成共識。\n7. 臺股操作的精髓在於動能交易，透過嚴格的停損來控制風險，避免長期深套，即使錯失後續漲幅也在所不惜。\n8. AI 模型供應商為了維持高成長，可能過度誇大產品能力，例如將 AI 生成內容描述為具有自主意識，這是一種行銷策略。\n9. Anthropic 推遲 Mythos 發布，並非因為技術過於危險，而是因為算力不足，無法支持大規模使用，公開後可能導致用戶體驗不佳。\n10. 光通訊產業需求強勁，促使部分廠商透過租用既有 SMT 產線或 LED 打件廠的方式擴充產能，這可能成為臺股投資的新趨勢。",
+    "keywords": [
+      "股癌",
+      "馬卡 (Maca)",
+      "尼古丁",
+      "RISC-V",
+      "ASIC (特定應用積體電路)",
+      "AWS (亞馬遜雲端服務)",
+      "GPU (圖形處理器)",
+      "CPU (中央處理器)",
+      "光通",
+      "Anthropic",
+      "Mythos",
+      "MLCC (積層陶瓷電容)",
+      "SMT (表面黏著技術)",
+      "特斯拉 (Tesla)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "2327.TW",
+      "company_name": "國巨",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "short",
+      "conviction": "medium",
+      "rationale": "被動元件漲價趨勢確立，電容出現缺貨，MLCC 供應緊俏；主持人已重新介入並考慮加大部位，並預期下週三法說會內容將全面正面。",
+      "target_price": null,
+      "evidence_quote": "現在就在思考說要不要把這個部位放到很大，那下個禮拜會有一個比較重大的事情，就禮拜三國際要開法說會，那沒有意外的話，法說會的內容應該是會全面性的正面…很多的被動元件都開始出現 lead time 是往上拉的一個狀態。",
+      "evidence_timestamp": "21:19",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "MRVL",
+      "company_name": "Marvell Technology",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "主持人已實際進場配置 Marvell，視為 CPU 相關族群受惠 AI 時代 agentic 算力需求的核心標的，近期走勢良好且被列為線型好的示範。",
+      "target_price": null,
+      "evidence_quote": "把錢丟到像是 CPU 或是說 Marvel，或是像最近的高速傳輸其實也重新的復活，光通又再一次的創新高。所以已經是非常有效的在資金的調動之下，持續的去攻新高了…你看一下 CP，或是看一下 Marvell，那在臺股的話，就一堆股票其實都線型長得非常好。",
+      "evidence_timestamp": "10:41",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "NET",
+      "company_name": "Cloudflare",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "主持人視為長期持股，雖被 Anthropic 新品發布引發的 AI 替代恐慌壓低，但認為資金回流時仍可向上；目前選擇繼續持有等待下一波進攻機會。",
+      "target_price": null,
+      "evidence_quote": "那市場裡面的泛軟體股其實在過去有一些比較強勢的重新爬回去，像是 Cloudflare 或是 Palantir 或是 Cloudstrike，他們都曾經是爬到臨走附近的…那我就覺得蠻靠北的，因為我自己也是長期持有這些標的，所以就會覺得市場的這些 FUD 的情緒，我自己覺得有點煩躁。",
+      "evidence_timestamp": "16:23",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "主持人長期持有，與 Cloudflare 同屬泛軟體/SaaS 族群，每次 AI 大廠發布新品均遭資金出走打壓，短期沒有積極加碼意圖，等待市場情緒冷靜後再觀察介入時機。",
+      "target_price": null,
+      "evidence_quote": "像是 Cloudflare 或是 Palantir 或是 Cloudstrike，他們都曾經是爬到臨走附近的，就等於說是今年沒有跌。可是像這一波他們釋出新產品，然後再一次的把這些東西再打回去徹底一次，那我就覺得蠻靠北的，因為我自己也是長期持有這些標的。",
+      "evidence_timestamp": "16:23",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "CRWD",
+      "company_name": "CrowdStrike Holdings",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "主持人長期持有，與 Cloudflare、Palantir 同批被 AI 競爭情緒打壓的軟體股，短期繼續持有，觀望資金何時回流此族群。",
+      "target_price": null,
+      "evidence_quote": "像是 Cloudflare 或是 Palantir 或是 Cloudstrike，他們都曾經是爬到臨走附近的，就等於說是今年沒有跌。可是像這一波他們釋出新產品，然後再一次的把這些東西再打回去徹底一次，那我就覺得蠻靠北的，因為我自己也是長期持有這些標的。",
+      "evidence_timestamp": "16:23",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "主持人長期持有但線型走弱，TerraFab 投資恐成大錢坑，短期基本面壓力大；希望特斯拉能早日復活，但目前不積極加碼。",
+      "target_price": null,
+      "evidence_quote": "希望特斯拉可以早日復活，因為他也是我的長期持股，我也是蠻喜歡的。像前面已經跟大家提到，他現在要去搞 TerraFab，所以有機會會變成一個蠻大的錢坑，就看市場何時會消化完這個情緒。",
+      "evidence_timestamp": "36:10",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "主持人認為 NVIDIA 基本面絕對好，但目前股價尚未突破新高，所以暫時沒有興趣；遵循動能策略，等過新高再介入。",
+      "target_price": null,
+      "evidence_quote": "NVIDIA 好不好？絕對好啊，可是 NVIDIA 它沒有過新高前，可能我暫時都沒有興趣了。",
+      "evidence_timestamp": "30:54",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

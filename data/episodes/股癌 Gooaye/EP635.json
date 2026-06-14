@@ -1,0 +1,72 @@
+{
+  "episode": {
+    "episode_id": "7157093",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7157093",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP635 | 🌴",
+    "publish_date": "2026-02-11",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要圍繞著謝孟恭的個人經歷、市場觀察以及聽眾互動展開。首先，分享了兒子生病期間的許願與還願經歷，以及對耶穌與麥可傑克森這類具備強大影響力人物的敬畏。接著，深入探討了記憶體市場的傳言，強調不應過度交易短期情緒變化，並分析了 MACO 上修 HDI PCP 展望的事件，指出衛星題材的真實性。此外，節目還討論了 Google 可能開發 DRAM RACK 以取代 HBM 的傳言，強調不應輕易相信取代說法。在盤面分析方面，分享了抄底後的槓桿部位調節策略，並提醒聽眾投資應理性。最後，節目回答了多位聽眾的提問，內容涵蓋投資策略、產業趨勢、以及生活感悟。\n\nTakeaways:\n1. 寧願犧牲自身財物也要換取孩子健康，是為人父母的核心願望。\n2. 過年持股部位不應隨意調整，長期持有待在市場裡是較好的策略。\n3. 記憶體市場中，DDR5 的獲利能力有時可能超越 HBM，短期現象會隨市場變化。\n4. 評估公司基本面時，掌握度高於股價掌握度，基本面掌握有助於判斷投資標的。\n5. 投資選股應基於對產業的中心思想與信念，而非盲目聽從市場消息或技術指標。\n6. Google 嘗試開發 DRAM RACK 是為降低成本與避免受供應商控制，並非要完全取代 HBM。\n7. 臺灣難以從外表判斷有錢人，他們可能穿著 Uniqlo 或拖鞋，但開法拉利。\n8. 頸線判斷不需參考過長時間的 K 線圖，通常短時間的 K 線即可判斷。\n9. 貸款買房是可行的，不應害怕欠銀行錢的觀念，應勇於承擔房貸。\n10. 臺灣企業二代接手普遍是好事，重點在於守成而非過度創新。",
+    "keywords": [
+      "迷宮飯",
+      "黑獸",
+      "Bamino Jesu",
+      "KOL (Key Opinion Leader)",
+      "Influencer",
+      "DRAM RACK",
+      "HBM (High Bandwidth Memory)",
+      "DDR5",
+      "SpaceX",
+      "Starlink",
+      "ASIC (Application-Specific Integrated Circuit)",
+      "NVIDIA",
+      "Bluefield",
+      "MPU (Memory Process Unit)",
+      "TPU (Tensor Processing Unit)",
+      "AirLab",
+      "Gupi"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "ANET",
+      "company_name": "Arista Networks",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "財報數字非常好，正透過交換器業務拓展客戶（降低對Amazon的依賴），主持人認為公司走勢仍在不錯的方向。儘管盤前大跌18%，主持人仍視其為一家很好的公司。",
+      "target_price": null,
+      "evidence_quote": "這個財報我剛剛看了一下，非常好，是一個很好的數字，也重申了就是在過去，因為他是高度的仰賴 Amazon，他現在想要去透過在交換器這邊的努力，可以獲得更多的客戶，目前看他的這些數字都是有所斬獲的。這檔也算非常意外，我本來以為自己會套到深處無怨尤，結果他直接谷底屌反彈一路要殺到兩百塊去。這個財報者我剛剛看盤前又大跌十八，其實老實講這檔的走勢我自己是有一點看不懂的，但覺得他都在蠻不錯的一個方向，我覺得是一個還蠻好的公司。",
+      "evidence_timestamp": "29:50",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "主持人上次於280美元附近抄底後持有，個人看法偏多，但因部位已足夠，除非股價再度突破上行否則不會再追買。",
+      "target_price": null,
+      "evidence_quote": "特斯拉我上次抄底就是兩百多塊那一次啦，就是三百多到兩百八那段有做抄底，然後後來就再也沒有再買進這一檔標的了，就是因為部位夠了啦，除非他再上去我會再追啦。但我個人是蠻看好的啦，那至於會不會在 2030 年返北也不知道，這種事情太難講了。",
+      "evidence_timestamp": "48:38",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "MRVL",
+      "company_name": "Marvell Technology",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "Google的DRAM RACK方案可能由Marvell製造MPU，主持人觀察Marvell股價線型「不像要出事情」，用技術面佐證好消息尚未完全反映。",
+      "target_price": null,
+      "evidence_quote": "只是老實講，因為我現在看那個 Marvell 的股價，我覺得他不像要出事情。有時候我們還是會把一些技術面的東西，雖然這樣聽起來好像是那種耗子老人家，可是我覺得技術面有時候還是蠻好用的。就如果說真的有好消息的話，你要知道你絕對不會是第一棒。如果你是第一棒的話，那可能有問題。就如果這東西真的很好的話，那他們的公司派或這些知情人士一定都先買爆了，所以一定會反映在線圖裡面。",
+      "evidence_timestamp": "22:25",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

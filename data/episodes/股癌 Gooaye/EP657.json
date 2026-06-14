@@ -1,0 +1,91 @@
+{
+  "episode": {
+    "episode_id": "7873907",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7873907",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP657",
+    "publish_date": "2026-04-29",
+    "language": "Traditional-Chinese",
+    "summary": "台股市場近期呈現「拉積盤」格局，台積電受外資賣壓影響未能順利突破，導致中小股資金遭排擠。記憶體族群如旺宏因產品漲價轉強，被動元件亦見表態。產業面觀察，Intel 在 EMIB 後段封裝良率已達 90%，具備量產能力，有望緩解產能壓力。針對投資策略，主動型 ETF 雖熱門，但長期績效難以超越大盤，建議投資人應以 0050、006208 或 VOO、VTI 等指數化產品為核心，並保留資金彈性以應對震盪。此外，槓桿操作需審慎，應設定明確停損點，避免在市場反轉時陷入被動。整體而言，市場進入混沌期，資金輪動快速，投資人應專注於基本面，並在分散配置的前提下，根據市場資金流向進行靈活調整。\n\nTakeaways:\n1. 當台積電強勢拉升時，市場資金會被高度集中吸走導致中小型股下跌，而當台積電進入橫盤整理，中小型股則會出現補漲行情。\n2. 英特爾在後段封裝（EMIB）的良率已提升至 90%，這使其具備量產競爭力，市場應重新評估其在封裝代工領域的潛在財務貢獻。\n3. 長期擊敗大盤極為困難，對於大多數投資人而言，配置 70-80% 的大盤指數型基金，並將剩餘資金用於選股實驗，是兼顧風險與報酬的穩健策略。\n4. 記憶體族群（DRAM、NAND、NOR）與被動元件在經過長時間整理後，受惠於漲價效應與伺服器需求排擠，已進入集體表態的復甦階段。\n5. 使用槓桿操作時，心理壓力與資金控管是勝負關鍵，若無法在行情反轉時果斷停損，槓桿將成為加速資產虧損的工具。\n6. AI 伺服器對 CPU 的強勁需求正帶動相關供應鏈成長，且消費級與伺服器級產品線的產能排擠效應，為相關零組件帶來漲價動能。\n7. 投資決策應具備戰略彈性，不應過度執著於單一技術指標（如五日線）的機械式停損，而應根據個股基本面故事與市場環境動態調整出場策略。",
+    "keywords": [
+      "血緣詛咒 (Bloodborne)",
+      "英特爾 (Intel)",
+      "E-MIB",
+      "Graviton5",
+      "高頻寬記憶體 (HBM)",
+      "AI PIN",
+      "0050 (元大台灣50)",
+      "仙境傳說 (RO)",
+      "《家有中學生的解憂之書》",
+      "Bully"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "0050.TW",
+      "company_name": "元大台灣50 ETF",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "主持人長期核心主張：對大多數無法長期打敗大盤的投資人，建議以 0050 等指數型 ETF 為核心配置，搭配少量選股實驗，確保至少賺到市場平均報酬。",
+      "target_price": null,
+      "evidence_quote": "所以樸實無華的 0050 跟 00608 跟 VOOVTI，這個是我一向對絕大多數可能沒有花太多心力在市場，或是說其實已經花很多心力，然後發現自己幹不贏大盤的，我都推薦你去買這樣簡單的產品，我覺得這個是我自己比較喜歡的中心思想。",
+      "evidence_timestamp": "31:30",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "006208.TW",
+      "company_name": "富邦台灣50 ETF",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "與 0050 並列推薦為台股核心指數型配置，適合大多數無法長期打敗大盤的投資人。",
+      "target_price": null,
+      "evidence_quote": "你可以先去配個可能七八成的大盤，然後一兩成去做選股，那當你發現你選股很強，你再把這個部位加大。最終你就不會空手而回，至少會賺到市場的平均報酬。",
+      "evidence_timestamp": "49:00",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "VOO",
+      "company_name": "Vanguard S&P 500 ETF",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "主持人明確推薦 VOO/VTI 作為美股大盤指數核心配置，適合無法長期跑贏大盤的投資人。",
+      "target_price": null,
+      "evidence_quote": "所以樸實無華的 0050 跟 00608 跟 VOOVTI，這個是我一向對絕大多數可能沒有花太多心力在市場，或是說其實已經花很多心力，然後發現自己幹不贏大盤的，我都推薦你去買這樣簡單的產品，我覺得這個是我自己比較喜歡的中心思想。",
+      "evidence_timestamp": "31:30",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "VTI",
+      "company_name": "Vanguard Total Stock Market ETF",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "與 VOO 並列推薦為美股核心指數型配置，同一段落一同提及。",
+      "target_price": null,
+      "evidence_quote": "所以樸實無華的 0050 跟 00608 跟 VOOVTI，這個是我一向對絕大多數可能沒有花太多心力在市場，或是說其實已經花很多心力，然後發現自己幹不贏大盤的，我都推薦你去買這樣簡單的產品，我覺得這個是我自己比較喜歡的中心思想。",
+      "evidence_timestamp": "31:30",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2337.TW",
+      "company_name": "旺宏電子",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "旺宏老闆法說會上轉為極度樂觀（草薙），MLC NOR Flash 漲價動能明顯，但主持人提醒市場可能已反應、不確定是否已到高點，建議繼續觀察。",
+      "target_price": null,
+      "evidence_quote": "前面軟掉非常久的記憶體，然後在這陣子直接集體表態了，然後在旺宏的法書上面，基本上老闆是直接轉為草薙。超級利多，這個我們之前跟大家分享過，旺宏的老闆蠻有趣的，像前面大家一直說他很好的時候，他自己都不敢講很好，可是他現在終於出來說他自己很好了，那有些人可能會把這個當為說，他既然敢講自己很好，那會不會就變成說已經算是已反應之類的，這我們不曉得啦，因為以我們目前的角度去看的話，旺宏的產品線確實蠻多是有很漂亮的漲價，特別是 MLCnet 的這一塊，那 Nord 的價格也是還蠻不錯的。那所以就可以再觀察看看。",
+      "evidence_timestamp": "11:33",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

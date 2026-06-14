@@ -1,0 +1,78 @@
+{
+  "episode": {
+    "episode_id": "8131165",
+    "episode_url": "https://podwise.ai/dashboard/episodes/8131165",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP667",
+    "publish_date": "2026-06-03",
+    "language": "Traditional-Chinese",
+    "summary": "Computex 2024 揭示了 AI 基礎設施的演進趨勢，NVIDIA 與 Marvell 等大廠強調光通訊在資料中心的重要性，並逐步轉向提供全方位解決方案。儘管雲端 AI 運算仍是主流，但地端 AIPC 的發展潛力有望降低傳輸成本與延遲，成為未來硬體市場的關鍵變數。市場策略方面，面對大盤震盪，應保持長期視野，並在技術題材切換中尋找機會，而非盲目追逐短期波動。此外，職涯發展建議採取「先模仿再內化」的態度，勇於面對挑戰。生活層面則提倡透過「慢下來」的練習與品酒體驗，在快節奏的環境中尋求心靈平衡，並強調在投資與生活中保持彈性與獨立思考的重要性。\n\nTakeaways:\n1. AI 基礎設施的競爭已從單一元件（如 GPU）轉向「整體解決方案」（Total Solution），光通訊技術成為資料中心擴展與傳輸效率的關鍵基礎。\n2. 地端（Edge）AI 模型的成熟有望改變雲端運算的依賴結構，透過離線執行模型降低傳輸成本與 Token 費用，使 AIPC 具備實質的商業應用價值。\n3. 當前市場的強勁漲勢主要源於估值擴張（Valuation Expansion）與充沛的流動性，而非技術層面的重大突破，這意味著市場對新動能的依賴度極高。\n4. 投資組合的再平衡應具備明確的「目的性」，例如為了騰出資金配置新標的，而非單純基於時間週期進行機械式的部位調整。\n5. 學習品味與感官分析的過程如同習得一門語言，透過建立具體的描述系統，能將主觀的「好壞」感受轉化為可識別的客觀特徵，進而提升決策的精準度。\n6. 「Fake it till you make it」的核心並非虛假偽裝，而是一種透過模仿來縮短能力差距的學習策略，藉由預設目標情境來驅動個人行為的調整。\n7. 面對職場或生活中的惡意阻礙，將憤怒轉化為持續前進的動力是一種修煉，但最有效的長期策略是透過累積資源來提升層次，並主動避開低質量的社交環境。",
+    "keywords": [
+      "Computex",
+      "ASIC",
+      "AIPC",
+      "Snowflake",
+      "LLM (大型語言模型)",
+      "《秒速五公分》",
+      "Vera Rubin",
+      "戴維斯雙擊",
+      "《勝利女神: 妮姬》",
+      "Data Lake (資料湖)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "謝孟恭觀察到台積電型態明顯轉強，且監管機構開放投信調整公發數後，後續機構資金有望流入支撐股價。",
+      "target_price": null,
+      "evidence_quote": "TSMC 很明顯的在轉強。然後搭配前面因為監管會開了一個大門嘛，那這些投信公司他們是必須要去改他們的公發數之類的，那差不多就是在這一兩個月會完成，所以搞不好後面投信的資金進來之後就有機會會把它推上去，那當然我們也不確定是怎麼樣，只是最近 TSMC 的型態確實是有變強，那 NVIDIA 也是有突破再往上去走了，所以確實是有機會的。",
+      "evidence_timestamp": "29:38",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "NVIDIA",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "謝孟恭認為 NVIDIA 與台積電雖然是 AI 生態中最重要的龍頭，但目前交易在相對便宜的位置，市場資金偏好小標股輪動，但可能出現補漲行情。",
+      "target_price": null,
+      "evidence_quote": "以現在整體的 AI Peer 來講，其實我覺得他跟 TSM 有點像，就是市場中的大龍頭，一個是代工的龍頭，那另外一個算是晶片跟 AI 的一個大龍頭，但他們其實都，不知道為什麼，就交易在一個相對便宜的位置啦。我自己甚至是在想說，會不會就是他們會擔綱最後一棒之類的。",
+      "evidence_timestamp": "20:23",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "ON",
+      "company_name": "ON Semiconductor",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "謝孟恭認同聽眾提問，指出功率半導體基本面有明顯改善，有機會成為下一波題材匯聚點，但目前尚未看到全面缺貨現象，需等電源相關拉貨訊號確認。",
+      "target_price": null,
+      "evidence_quote": "我覺得這位兄弟他的敏感度非常好，就是我覺得功率元件或者是功率半導體相關的一些公司，其實我們都注意到他的基本面有蠻顯著的在改善中。所以他確實有可能是下一波題材的一個匯聚點，可是他的光芒沒有像 CPU 或者是被動元件那樣的全面，因為現在市場上非常喜歡那種類似戴維斯雙極的東西。",
+      "evidence_timestamp": "28:50",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "ADI",
+      "company_name": "Analog Devices",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "與 ON Semiconductor 同一段討論中被提及，謝孟恭認為功率半導體/PMIC 基本面改善，是潛在下一波題材，但缺貨尚未全面化。",
+      "target_price": null,
+      "evidence_quote": "那另外下一波的漲價題材是否有可能會延伸到功率半導體 IDM 如 ON 跟 PMIC 如 ADI。我覺得這位兄弟他的敏感度非常好，就是我覺得功率元件或者是功率半導體相關的一些公司，其實我們都注意到他的基本面有蠻顯著的在改善中。",
+      "evidence_timestamp": "28:44",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

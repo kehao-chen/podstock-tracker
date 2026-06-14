@@ -1,0 +1,97 @@
+{
+  "episode": {
+    "episode_id": "7375736",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7375736",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP641 | 💥",
+    "publish_date": "2026-03-04",
+    "language": "Traditional-Chinese",
+    "summary": "本期股癌主要分析了近期股市的震盪與投資策略。孟恭指出，市場在經歷前期上漲後出現回調，投資者應保持冷靜，不宜恐慌性拋售，可考慮對沖策略。他提到韓國股市的暴跌可能與加密貨幣市場的資金流動有關，並提醒投資者注意槓桿風險。針對聽眾提問，孟恭分享了對光通訊產業的看法，認為光通訊可能是下一波主流，並建議關注相關個股。同時，他也提醒投資者不要盲目追逐漲價題材，應關注基本面和長期趨勢。最後，孟恭也分享了生活感悟，鼓勵大家珍惜當下，做出不後悔的決定。\n\nTakeaways:\n1. 臺股千點的跌幅在三萬多點的高位來看，百分比影響並不大，更大的場面終究會到來，投資者應以此為鑑。\n2. 市場上過多投資者只想知道股票漲跌，暗示市場存在鬆動跡象，通常隨後會出現懲罰性下跌。\n3. 投資決策不應受情緒影響，保持冷靜、多睡覺有助於做出更明智的判斷。\n4. 儘管基本面良好，但若股票無法成為下一波趨勢的焦點，其漲勢可能受限。\n5. 消息面利空出盡後若市場不跌，通常是買入的好時機，但需持續觀察不確定性是否比預期更持久。\n6. 在不確定性高的市場中，降低槓桿比例至關重要，同時尋找下跌或跌不下去的機會進行嘗試。\n7. 選擇股票時，與其追問為何某支股票不漲，不如將資金轉向表現更佳的標的。\n8. 投資不應只看重眼前的收益，更應關注長遠發展和個人生活品質的平衡。\n9. 過濾雜訊、簡化生活有助於投資決策，當今世界雜訊過多，純粹的信息反而更為重要。\n10. 應避免將個人快樂建立在外部效應之上，不干擾他人是成熟投資者的表現。",
+    "keywords": [
+      "Discord",
+      "TSM",
+      "COSPI",
+      "川普",
+      "FII",
+      "航運股",
+      "光通",
+      "AI",
+      "NVIDIA",
+      "EARNINGS",
+      "GUIDANCE",
+      "OEM",
+      "ODM",
+      "Starlink",
+      "FSD",
+      "劍來"
+    ],
+    "duration_sec": 3083
+  },
+  "recommendations": [
+    {
+      "ticker": "LITE",
+      "company_name": "Lumentum",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "孟恭去年起在美股光通訊類股佈局，認為這些公司他看得懂客戶、用途與出貨量，屬於他長期看好的光通主軸。",
+      "target_price": null,
+      "evidence_quote": "像是 LUMENTAN,COHERENT 在節目中有跟大家聊過，或是 AXTI 就是它的上游，",
+      "evidence_timestamp": "20:33",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "COHR",
+      "company_name": "Coherent",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "與 Lumentum 同屬孟恭在美股的光通訊佈局，他表示對這些公司的客戶、用途與量都看得懂，是長期看好的標的。",
+      "target_price": null,
+      "evidence_quote": "像是 LUMENTAN,COHERENT 在節目中有跟大家聊過，或是 AXTI 就是它的上游，",
+      "evidence_timestamp": "20:33",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "AXTI",
+      "company_name": "AXT (砷化鎵基板上游)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "孟恭把 AXTI 視為光通訊上游（砷化鎵原材料基板），是其美股光通佈局的一環。",
+      "target_price": null,
+      "evidence_quote": "零化銀的一個原材料基板。",
+      "evidence_timestamp": "20:38",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "孟恭認為若要買光通訊題材但什麼都不懂，台積電是純度最高、最簡單的光通標的，AI 光通最終都指向台積電。",
+      "target_price": null,
+      "evidence_quote": "好像說不管怎麼樣，AI 光通什麼都是 TSM，那扣除掉 TSM 以外，",
+      "evidence_timestamp": "21:53",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "ASTS",
+      "company_name": "ASTS（手機直連衛星）",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "聽眾問手機直連衛星題材，孟恭指臺灣相關標的較難，但美股的 ASTS 正在做這個且技術不錯。",
+      "target_price": null,
+      "evidence_quote": "那在美國的話，就那個 ASTS 啊，他就在做這個，而且他技術是還蠻不錯的。",
+      "evidence_timestamp": "48:59",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "episode": {
+    "episode_id": "8077949",
+    "episode_url": "https://podwise.ai/dashboard/episodes/8077949",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP665",
+    "publish_date": "2026-05-27",
+    "language": "Traditional-Chinese",
+    "summary": "市場近期對被動元件需求強勁，國巨產能利用率提升反映產業趨勢，而 SpaceX 的 IPO 與 Starlink 結合 AI 運算，展現出未來衛星資料中心的潛力。投資決策應基於對產業趨勢的判斷，而非單純的短線博弈，應避免過度槓桿並學會接受市場波動帶來的損失。個人生活方面，透過陪伴孩子成長與運動，體會到專注細節帶來的充實感。面對投資與人生，應保持正向心態，習慣失去並專注於長期價值，而非糾結於短期的勝負。這種心態調整不僅能提升生活品質，也是長期在市場中生存的關鍵。\n\nTakeaways:\n1. 投資市場的長期勝率建立在反向操作的心理素質上，即在市場悲觀時買入、熱絡時賣出，並嚴格避免使用槓桿工具，以確保在波動中存活。\n2. SpaceX 的商業價值正從單純的衛星通訊轉向「太空雲端運算（NeoCloud）」平台，未來透過太空中的無線能源與散熱技術進行算力出租，將成為估值成長的關鍵動能。\n3. 透過將日常生活中的瑣碎細節（如喝咖啡、洗手）刻意放慢並專注執行，能有效提升生活的充實感，並緩解因頻繁更換興趣而產生的倦怠與空虛。\n4. 識別孩子天生的感官敏感度（如對聲音的辨識力）並給予適度引導，能讓教育從「強迫灌輸」轉向「天賦開發」，在不給予過高期待的前提下發掘潛能。\n5. 判斷產業趨勢是否具備結構性成長，應透過比較全球同業的產能利用率與供需數據進行驗證，而非僅依賴單一市場的短期缺貨炒作。\n6. 技術分析的進出場策略（如跌破十日線賣出）本質上是機率的取捨，重點在於維持交易系統的一致性，而非糾結於賣出後股價是否繼續上漲的「錯失恐懼」。\n7. 追求長期的體能或專業成長，關鍵在於從「拼命做到死」的極端心態，轉向具備身體覺察與自我照顧的節奏，唯有維持身心平衡才能確保長期的持續性。\n8. 投資新興題材時，應關注營收佔比雖低但具備高成長潛力的領域，這類標的在題材發酵後的估值溢價空間遠大於已成熟的產業。",
+    "keywords": [
+      "寶可夢 Mezastar",
+      "BB Ratio",
+      "SpaceX",
+      "Starlink",
+      "Palantir",
+      "Optimus",
+      "《Dark》",
+      "MLCC",
+      "《秒速五公分》",
+      "TQQQ / SQQQ"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": null,
+      "company_name": "SpaceX",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "主持人明確表示 SpaceX IPO 無論估值如何都一定先卡位，看好其 Starlink 印鈔機獲利基礎以及未來發展衛星 AI 運算（NeoCloud）算力出租的龐大潛力。",
+      "target_price": null,
+      "evidence_quote": "那以我自己的看法就是，反正不管你估出來的價格怎麼樣，我都一定會先上車一點。然後先上車一點去插旗之後，接下來再看說要怎麼樣去調整。類似說那時候 Palantir 上的時候也是直接先買再說。",
+      "evidence_timestamp": "14:15",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "market": "US",
+      "stance": "sell",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "主持人計畫降低 Tesla 持股，將資金轉移至 SpaceX，認為壓住馬斯克故事的最佳載體已從 Tesla 轉向 SpaceX。",
+      "target_price": null,
+      "evidence_quote": "應該就是去增加他的持股，那同時會去降低一點，可能像 Tesla 的持股，因為對我來講，反正我就是壓住馬斯克的一個故事嘛。",
+      "evidence_timestamp": "14:45",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2327.TW",
+      "company_name": "國巨",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "主持人討論國巨 BB Ratio 改善、產能利用率提升（特規品 90%、標準品 80%+），並以 2018 年為類比框架測算目標價，但態度謹慎，未明確喊買。",
+      "target_price": null,
+      "evidence_quote": "在今天的國劇的一個對外的說明上面是有提到說他們的 BB Ratio 的數字是拉上去了。然後現在在一些特規品的品項好像是拉到 90% 的一個駕動率，然後在標準品也是 80 幾% 的一個駕動率。那所以呢，就代表說他的數字是越來越好。",
+      "evidence_timestamp": "11:30",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

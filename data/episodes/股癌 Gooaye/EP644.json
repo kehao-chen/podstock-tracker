@@ -1,0 +1,108 @@
+{
+  "episode": {
+    "episode_id": "7516717",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7516717",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP644",
+    "publish_date": "2026-03-14",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要探討了市場的錯誤定價以及如何在主動投資中識別這些錯誤。孟恭分享了他對美股的看法，認為儘管短期內可能再次探底，但長期來看仍具潛力，並建議聽眾保持流動性，以便在市場修正時進行採購。他強調了在 AI 時代，投資者應區分不同軟體和硬體公司的價值，避免一概而論，並指出社群媒體和 AI 可能會放大市場波動。此外，孟恭也回答了聽眾關於投資策略、生活平衡和個人選擇的問題，分享了他對痛苦與快樂、育兒和人際關係的看法，並以輕鬆幽默的風格與聽眾互動。\n\nTakeaways:\n1. 醫美應及早投入，負利效果越明顯，可全面改善臉部狀態。\n2. 短期市場容易犯錯，主動投資者應識別市場錯誤，從預期落差中獲利。\n3. 長期來看，市場會對所有事物進行正確定價，但短期內市場常出錯，主動投資即是相信市場存在錯誤定價。\n4. 痛苦與挫折是人生的常態，習慣它並明白好事來臨前通常需要等待。\n5. 在 AI 時代，投資方面的重要學習是識別機會，情緒會被放大，需區分被取代與被加持的軟體公司。\n6. 戰鬥週期間，風控能力提升使主持人能兼顧家庭，與孩子同樂。\n7. 國際情勢多變，隨時準備好面對波動，調整心態至關重要。\n8. 投資決策不應受當下現象扭轉，需對自身判斷具備信心，並長期堆疊經驗。\n9. 應從公司訂單狀態由下往上反推實際狀況，而非僅看市場反應。\n10. 軟體股並非一概而論，AI 加持下，部分軟體公司反而變得更強大。",
+    "keywords": [
+      "鳳凰電波",
+      "海芙音波",
+      "皮秒雷射",
+      "Pokopia",
+      "Carry Trade",
+      "EMMC",
+      "MLC NAND",
+      "GTC",
+      "Robotaxi",
+      "Palantir",
+      "Cloudflare",
+      "Cloudstrike",
+      "Perplexity Computer",
+      "Overlord"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "2337.TW",
+      "company_name": "旺宏電子",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "short",
+      "conviction": "medium",
+      "rationale": "EMMC 及 NOR Flash 報價持續走強，AI 伺服器大廠轉去做先進產能導致 MLC NAND 供給減少，旺宏成最大受益者；凱基目標價上修至 300 元是市場關注催化劑。",
+      "target_price": 300.0,
+      "evidence_quote": "這個禮拜在市場上最火熱的東西又再一次的回到記憶體…現在可能又再一次的回到 EMMC, MLC,NAND，然後會說 NO FLASH，也就是旺宏，旺宏變成是市場的一個焦點，那當然他會出現，那個漲停跟凱基發了一個三百塊的報告，有很大的一個關聯性。",
+      "evidence_timestamp": "10:21",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "供應鏈訂單數字非常強勁，馬斯克持續追加訂單，主持人認為外界看空的壞消息不符合供應鏈實況；但估值難以計算，僅在股價下跌時考慮買進。",
+      "target_price": null,
+      "evidence_quote": "反正你今天如果掉下來我就會去買，我只要知道你的狀況不錯，我就會去買你。",
+      "evidence_timestamp": "16:50",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "TER",
+      "company_name": "Teradyne",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "半導體測試設備類股中走勢相對強勢，主持人列為近期觀察標的之一。",
+      "target_price": null,
+      "evidence_quote": "像最近就是在看 Teradine，然後跟 Adventest，就是在日本的股票，然後跟 Keysight，就是他怎麼講說他們都是在整個供應鏈上算是有些地方是競爭，有些地方算是互補，環節不太一樣。反正這些相關的類股，我最近有在注意，因為他可能是相對的強勢有走出去的，就會去看他。",
+      "evidence_timestamp": "26:08",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "6857.T",
+      "company_name": "Advantest",
+      "market": "JP",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "半導體測試設備類股中走勢相對強勢，與 Teradyne、Keysight 同列為近期觀察標的。",
+      "target_price": null,
+      "evidence_quote": "像最近就是在看 Teradine，然後跟 Adventest，就是在日本的股票，然後跟 Keysight，就是他怎麼講說他們都是在整個供應鏈上算是有些地方是競爭，有些地方算是互補，環節不太一樣。反正這些相關的類股，我最近有在注意，因為他可能是相對的強勢有走出去的，就會去看他。",
+      "evidence_timestamp": "26:08",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "KEYS",
+      "company_name": "Keysight Technologies",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "半導體測試設備類股中走勢相對強勢，與 Teradyne、Advantest 同列為近期觀察標的。",
+      "target_price": null,
+      "evidence_quote": "像最近就是在看 Teradine，然後跟 Adventest，就是在日本的股票，然後跟 Keysight，就是他怎麼講說他們都是在整個供應鏈上算是有些地方是競爭，有些地方算是互補，環節不太一樣。反正這些相關的類股，我最近有在注意，因為他可能是相對的強勢有走出去的，就會去看他。",
+      "evidence_timestamp": "26:08",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "主持人前期在低點有做抄底買進，但表示若持續走弱不會加碼，只會往已走強的標的加碼。",
+      "target_price": null,
+      "evidence_quote": "持續軟弱的東西，像 Microsoft 的話，前面我是有去做一些抄底。如果是持續軟的話，我就不會去加他。加碼一定都是要往可能已經走出去，然後比較強的東西衝。",
+      "evidence_timestamp": "26:36",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

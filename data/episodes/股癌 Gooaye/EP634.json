@@ -1,0 +1,83 @@
+{
+  "episode": {
+    "episode_id": "7127976",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7127976",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP634 | 👻",
+    "publish_date": "2026-02-07",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要圍繞聽眾提問展開，謝孟恭分享了他對教育選擇、投資策略以及生活態度的看法。針對孩子的教育，他強調給予孩子選擇的權利，並分享了自己蒐集聽眾建議，考慮不同教育方案的過程。在投資方面，他提到在股市恐慌時會適度抄底，並分享了對美股科技巨頭 CapEx 增加的看法，以及對供應鏈的投資策略。此外，謝孟恭也談及了家庭生活，包括與家人的相處之道，以及對婆媳關係的看法，並穿插分享了個人生活感悟。",
+    "keywords": [
+      "CashBack 返多多",
+      "Shopline",
+      "臺北的歐洲學校/美國學校",
+      "森林小學",
+      "Fake it till you make it",
+      "川普 (Donald Trump)",
+      "Hyperscalers/CSP (Cloud Service Providers)",
+      "CAPEX (Capital Expenditure)",
+      "AWS Chain",
+      "Lumentum",
+      "Maya",
+      "G.I. Joe",
+      "巧虎",
+      "《絕命律師》",
+      "《哈利波特》"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "AMZN",
+      "company_name": "Amazon",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Amazon announced $200B CapEx for 2025, signalling high confidence in AI and infrastructure build-out. Host views market's negative reaction as a buying opportunity, noting that every prior pullback in Amazon's long-term chart was ultimately a buy.",
+      "target_price": null,
+      "evidence_quote": "亞馬遜開出了一個超級恨天高的 CapEx 數字，盤後都跌 18，所以我覺得蠻屌的。現在可能大家會講說，你就是把你的現金都喫光，你就是要去死了。可是搞不好一段時間之後大家又會換說法，就是你去把亞馬遜的線圖拉開來看，長年的走勢，每次下去的時候，大家都會看壞。",
+      "evidence_timestamp": "14:38",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet (Google)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Google announced $185B CapEx; host sees the market's negative reaction as misguided and views pullbacks as an opportunity to accumulate, consistent with his bullish long-term view on Hyperscalers investing heavily in AI.",
+      "target_price": null,
+      "evidence_quote": "那如果說你覺得你有更好的想法，那當然就歡迎往更好的想法去。無論如何我還是會覺得說這些美股的巨頭，各種拉回的時候，我自己會想要去找介入的機會。",
+      "evidence_timestamp": "16:12",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "Microsoft",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "Microsoft is aggressively pushing its Maya AI accelerator chip, and if Maya succeeds it could drive a new wave of supply chain performance. Host is monitoring for a potential breakout.",
+      "target_price": null,
+      "evidence_quote": "Microsoft 其實最近在 Maya 這邊⋯⋯要去趕他。那我們還是蠻期待說這個 Maya 後面可不可以去帶來一些表現。那可能在 Microsoft 這邊的相關的 supply chain 就可以去注意。",
+      "evidence_timestamp": "20:13",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "LITE",
+      "company_name": "Lumentum Holdings",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "Lumentum supplies MEMS-based optical circuit switching (OCS) solutions to Google, making it a key Google-camp beneficiary; it has been trending up against a weak broader market, confirming strength after a long consolidation period.",
+      "target_price": null,
+      "evidence_quote": "因為 Google 的 OCS，那它是使用像是這個 Lumentum 的 MEMS 的解方，類這樣的一個解方⋯⋯所以這邊可能就是會以這個 Lumentum 作為一個可能就是比較偏向是 Google 陣營的一個相關的概念股。那最近的走勢也是蠻不錯的，特別是當大盤的表現沒有這麼好的時候，它是逆勢的往上。",
+      "evidence_timestamp": "19:01",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

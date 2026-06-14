@@ -1,0 +1,107 @@
+{
+  "episode": {
+    "episode_id": "6935997",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6935997",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP630 | ⭐",
+    "publish_date": "2026-01-24",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要分享了謝孟恭近期在歐洲的生活點滴與投資心得，並回答了聽眾提問。他談到小舅子和小姨子幫忙照顧孩子，讓他在歐洲行程中感到輕鬆，並分享了對小朋友成長快速的感觸。在投資方面，他分析了衛星相關股票的市場熱度，提醒大家注意馬斯克公司推動的 Non-China, Non-Taiwan 供應鏈政策。此外，他還討論了聯發科漲停的原因，以及記憶體市場的持續漲價情形，並提醒聽眾在投資景氣循環股時要謹慎，不要盲目相信市場消息。最後，他回答了關於未上市股票估值、家庭與事業選擇等問題，並分享了育兒經驗。\n\nTakeaways:\n1. 儘管效率市場假說存在，但資訊領先者仍能在市場中找到超額利潤，因為市場反應存在時間差，領先的資訊未必能立即轉化為利潤。\n2. 馬斯克在供應鏈管理上推動「非中國、非臺灣」政策，反映其對地緣政治風險的考量，並可能影響相關供應商的產能佈局。\n3. 聯發科股價上漲，可能反映市場對其晶片放量或良率提升的預期，而非僅僅是補漲或單一部門分拆的傳言。\n4. 投資決策不應僅依賴公司派或業內人士的觀點，市場派的想像力與前瞻性有時能更早洞察供需變化。\n5. 景氣循環股的股價往往領先營收數月甚至一年，因此在高檔時，老闆的說法往往過於樂觀，投資者應謹慎。\n6. 記憶體產業雖持續漲價，但歷史經驗顯示，過度相信「這次不一樣」可能導致在高點被套牢，需警惕風險。\n7. 選擇陪伴家人而非追求事業上的極致成就，是個人價值觀的取捨，並非所有人都認同為了提升物質生活而犧牲家庭時間。\n8. 評估未上市股票的價值，不能單純以殖利率或現金流折現，公司內部的交易價格可能更反映其真實價值。",
+    "keywords": [
+      "NordVPN",
+      "Apiani",
+      "Starlink",
+      "聲達科",
+      "聯發科",
+      "TPU",
+      "NCNT (Non-China, Non-Taiwan)",
+      "記憶體",
+      "《神隱少女》",
+      "Luca",
+      "Siri",
+      "愛爾登法環",
+      "屍山血海"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "ASTS",
+      "company_name": "AST SpaceMobile",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "市場熱烈期待 Tesla 持有或 SpaceX 上市帶動衛星通訊相關股上漲，ASTS 近期表現非常好，為衛星通訊主要上市標的。",
+      "target_price": null,
+      "evidence_quote": "在美國的話，大家都非常期待，Tesla 有可能後面會變成是持有 SpaceX 的一個主體，或者說後面會有 SpaceX 的上市。當然相關的一些股票，像美國的衛星通訊，什麼 ASTS，其實在最近的表現都非常好。",
+      "evidence_timestamp": "11:22",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "6534.TW",
+      "company_name": "聲達科技",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "ASTS 主要台灣供應商，低軌衛星營收佔比近 70%，股價已從兩三百元衝上千元，是衛星供應鏈最先受惠者，主持人表示自己沒有做到但認為此波上漲合理。",
+      "target_price": null,
+      "evidence_quote": "ASTS 的其中一個下單的對象，就是臺灣的供應鏈的聲達科已經去摸一千塊了。這很難想像，以前我記得聲達科是幾百塊的股票，一兩百兩三百左右。那一直在這附近徘徊，感覺蠻久了，可是一瞬間一看他已經是上了一千塊。那這個其實我覺得是，也算是可以預期啦，但自己沒有做到。",
+      "evidence_timestamp": "11:31",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2313.TW",
+      "company_name": "華通電腦",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "衛星地面板供應商，天上板佔比約 20%，後續也將有斬獲，隨衛星題材跟著上漲。",
+      "target_price": null,
+      "evidence_quote": "最近其他東西也跟著上來了，像是華通。華通的話，他其實最主要是聚焦在地面板的部分比較多。天上板的話，就我們理解後面也會有所斬獲，目前在整個公司的營收方面大概是一個 20% 左右的營收佔比。",
+      "evidence_timestamp": "12:04",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2454.TW",
+      "company_name": "聯發科",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "股價出現漲停，主持人認為可能反映晶片（含 Google TPU V7E IO 代工）開始放量、良率提升的預期；市場廣度打開，過去未漲的大型股現在補漲；TPU spin-off 傳言主持人認為機率低，主要看晶片放量邏輯。",
+      "target_price": null,
+      "evidence_quote": "那我們稍微的聊一下聯發科，因為聯發科出了一個漲停，那這樣的一個大牛車突然間的漲停，那到底代表的意涵是什麼？……有可能是這樣的一個單純的事情，那也有可能市場上有在傳一個 rumor……聯發科的 TPU 的部門可能會 spin off，然後可能要跟 Google 去做一個結合。那這個假設用我自己的角度去猜的話，我覺得機率是很低啦。",
+      "evidence_timestamp": "21:54",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "PSTG",
+      "company_name": "Pure Storage",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "NAND 漲價壓縮毛利率導致近期股價承壓，需等價格平緩後才有機會；長期 AI 存儲需求仍有利，但目前題材被壓抑。",
+      "target_price": null,
+      "evidence_quote": "PSTG 跟 NetApp 的表現都不太好。……我認為現在的一個主因應該是跟 NAND 的價格上升有關係，這應該是有影響到。所以這兩個去幫忙大家不算力存儲的公司，在近期的表現都有受到壓抑。但也不是說很差啦，就只是沒有漲。所以可能要等到價格稍微的平緩一點之後再看有沒有機會了。",
+      "evidence_timestamp": "43:25",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "NTAP",
+      "company_name": "NetApp",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "與 PSTG 相同邏輯：NAND 漲價壓縮毛利率，近期股價承壓，等 NAND 價格平緩後再評估機會。",
+      "target_price": null,
+      "evidence_quote": "PSTG 跟 NetApp 的表現都不太好。……我認為現在的一個主因應該是跟 NAND 的價格上升有關係，這應該是有影響到。所以這兩個去幫忙大家不算力存儲的公司，在近期的表現都有受到壓抑。但也不是說很差啦，就只是沒有漲。所以可能要等到價格稍微的平緩一點之後再看有沒有機會了。",
+      "evidence_timestamp": "43:25",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

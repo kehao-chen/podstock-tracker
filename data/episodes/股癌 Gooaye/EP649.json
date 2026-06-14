@@ -1,0 +1,65 @@
+{
+  "episode": {
+    "episode_id": "7670867",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7670867",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP649",
+    "publish_date": "2026-04-01",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要分析了近期股市的反彈現象，並分享了對於 NVIDIA 投資 Marvell 的看法。孟恭指出，台股表現強勁，可能是多頭回檔格局，而美股的反彈則可能只是死貓跳。他提醒聽眾關注油價和 VIX 指數，不宜過度槓桿操作。針對 NVIDIA 投資 Marvell，孟恭認為這主要是 NVIDIA 現金過多，尋找投資標的，並非完全為了補齊戰略拼圖，主要目標可能是 Broadcom。此外，節目還回答了聽眾關於個人生活、投資策略和產業趨勢的問題，並分享了育兒經驗和生活感悟，內容涵蓋了對市場的謹慎態度和對生活細節的體會。\n\nTakeaways:\n1. 瘦瘦針的效用不僅在於生理上的食慾抑制，更在於心理上給予減肥方案一個認真看待的「提示」，從而更自覺地調整生活習慣。\n2. 股價波動放大時，即使看好後市，也應適度降低部位，保留現金以應對潛在的廉價買入機會。\n3. 油價維持高檔和 VIX 指數高位震盪是潛在的市場風險指標，應避免在此情況下過度使用槓桿。\n4. NVIDIA 投資 Marvell，戰略意圖在於擴大其在 ASIC 市場的影響力，通過 NVLink Fusion 等技術與 Broadcom 競爭，並非單純補齊自身拼圖。\n5. 市場對個股的反應速度極快，可能在公司營收或獲利尚未顯現時就提前拉抬股價。\n6. 科技巨頭分散配置策略下，NVIDIA 正試圖通過提供 XPU 周邊的解決方案，如 CPU、光通訊等，在客戶的數據中心中佔據一席之地。\n7. 投資決策不應僅基於對公司戰略意圖的猜測，更應關注其現金流和實際業務發展。\n8. 類股輪動是常態，應關注在市場回檔和反彈後，哪些族群表現出更強的韌性。\n9. 保持在市場中的時間越長越好，儘量避免試圖預測和躲避市場崩盤，因為錯過回補機會的代價可能更高。\n10. 隨著年齡增長和社會經驗的積累，人們對弱勢群體和動物的同理心會增加，這可能促使他們參與志願活動或捐款。",
+    "keywords": [
+      "NordVPN",
+      "瘦瘦針",
+      "NVLink Fusion",
+      "ASIC",
+      "Broadcom",
+      "VIX",
+      "Marvell",
+      "Astera Labs",
+      "Tony 瀑之無華",
+      "房迷"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MRVL",
+      "company_name": "Marvell Technology",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "主持人已持有 Marvell，原因是 Google 下單晶片及對交換機業務前景樂觀。NVIDIA 投資 Marvell 的消息出來後，他認為屬宣示意涵而非大力度利多，且 Jim Cramer 跟進看好令他有點顧慮，目前選擇繼續觀察而非加碼。",
+      "target_price": null,
+      "evidence_quote": "我自己押注的理由也在前面有跟大家分享，最主要就是我知道它在 Google 做進去幾顆晶片。然後外加其實，我覺得我對他未來在交換機這邊的發展，也是覺得還蠻樂觀看待的。所以因為這樣去做了一個投資。",
+      "evidence_timestamp": "14:29",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "MRVL",
+      "company_name": "Marvell Technology",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "就現有股東而言，主持人認為 NVIDIA 投資 Marvell 的消息不算大力度催化劑，反而 Jim Cramer 宣稱要 all in Marvell 讓他擔心反向指標出現，傾向等待觀察。",
+      "target_price": null,
+      "evidence_quote": "特別是今天假設你是 Marvell 的股東，我是覺得這個東西，它其實不太算是一個極大的力度啦。我會覺得它不是一個極大的力度啦，它只是一個比較偏向宣示意味的東西。然後特別是現在 Jim Cramer 又跟你講說他要 all in Marvell，所以我自己是覺得搞不好渣男這一次還是會上大家的心頭，有可能，但反正就 well see，再稍微的觀察一下。",
+      "evidence_timestamp": "21:06",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "ALAB",
+      "company_name": "Astera Labs",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "主持人仍持有 Astera Labs，認為其產品（Leo）與 Marvell Structera 分屬不同層級（一個在 GPU side，一個在 host side），可以共生，NVIDIA 投資 Marvell 並不直接打擊其需求。但承認現在是「落難中」，市場資金追光通訊而冷落傳統高速傳輸股。",
+      "target_price": null,
+      "evidence_quote": "包含像我自己的話，我到現在都還是有 AdLabs 的業務，所以他們就有點像是說現在是落難中，所以什麼東西就可以拿來講它。但實際上，嚴格上來說的話，它們並不是打在同一個賽道上面。",
+      "evidence_timestamp": "29:00",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

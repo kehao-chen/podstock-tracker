@@ -1,0 +1,92 @@
+{
+  "episode": {
+    "episode_id": "6658539",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6658539",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP624 | 🎥",
+    "publish_date": "2026-01-03",
+    "language": "Traditional-Chinese",
+    "summary": "本集節目由如邑堂贊助，主持人謝孟恭（孟恭）首先介紹了三款如邑堂的春節限定太陽餅口味。接著，他分享了近期與投資團隊考察一家台灣 MR 公司的經驗，並對 MR 技術的未來發展進行了展望，同時也提到了蘋果摺疊機和 AR 產品的最新進展。在財經方面，孟恭分析了台積電的股價走勢，並提醒聽眾注意市場上關於 AI 砍單的雜音。最後，在 Q&A 環節，孟恭回答了聽眾關於個股、生活、投資等問題，並提供建議與祝福。",
+    "keywords": [
+      "MR (Mixed Reality)",
+      "HoloLens",
+      "GTA (Grand Theft Auto)",
+      "Neuralink",
+      "Interstellar",
+      "台積電 (TSMC)",
+      "AI 懷疑論者",
+      "CAPEX (Capital Expenditure)",
+      "SRAM (Static Random-Access Memory)",
+      "DRAM (Dynamic Random-Access Memory)",
+      "《Clannad》"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "high",
+      "rationale": "以2027年的Forward PER推算，台積電摸到2000元是非常容易的事。台積電身為AI晶片製造龍頭，CAPEX有望上修至500億美元以上，持續帶領大盤向前衝。",
+      "target_price": 2000.0,
+      "evidence_quote": "可是在短期內的東西呢，就是我們去看可能 27 年的一個 Ford PER 去推的話，臺積電摸到 2000 我覺得是非常容易的事情啦。那只是在摸到 2000 的過程之中會發生什麼事情我們不知道，說不定先震盪一下，說不定有一些國際事件或怎麼樣，反正就是總之就是先往那個方向去看。",
+      "evidence_timestamp": "09:05",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2344.TW",
+      "company_name": "華邦電",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "short",
+      "conviction": "medium",
+      "rationale": "華邦電的Qube產品可視為SRAM-like（L3 cache應用），市場已往此方向想像且股價相對強勢，但其客戶主要為Edge Device而非Data Center。",
+      "target_price": null,
+      "evidence_quote": "那愛普終於是脫離他的一個盤整區間，所以這個確實就是我們工作在做的事情。你看本來前面只是一個猜想跟想像，那甚至那時候的想像如果讓一些人聽到他會覺得說你在那邊亂想，可是你看市場就真的這樣子想。因為我們在裡面待久了，我們大概知道別人會怎麼想了。",
+      "evidence_timestamp": "17:50",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "6531.TWO",
+      "company_name": "愛普",
+      "market": "TW",
+      "stance": "watch",
+      "horizon": "short",
+      "conviction": "medium",
+      "rationale": "愛普的VHM（Wave on Wave）技術可視為SRAM-like的L3 Cache解決方案，股價已脫離盤整區間，市場往SRAM概念股方向炒作，但其應用仍以Edge Device為主。",
+      "target_price": null,
+      "evidence_quote": "除了華邦以外，像是艾普，之前 Q&A 聽眾在最後一題有提到的，我覺得他那個時間點抓得蠻好的，不知道是不是先知人士。他提到的這個 VHM，其實這個 Web on Web 的技術也是可以把它視為是某種程度上的一個 LC，就是 L3 Cache 來做使用。所以其實我不會覺得市場是在瞎吵這些題材啦。",
+      "evidence_timestamp": "17:26",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "2327.TW",
+      "company_name": "國巨",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "short",
+      "conviction": "medium",
+      "rationale": "國巨作為台灣被動元件龍頭，近期又在做新一波產品漲價，同時受惠於Data Center對電容電感用量直線上升的趨勢。",
+      "target_price": null,
+      "evidence_quote": "就是我們的國巨。國巨那時候我們也是提早就知道說有一些漲價的狀態，因為供應鏈裡面大家都有一些考察能力，當然他們最近又在去做新一波的某些產品的漲價。那我就跟他講說這支跟那支，因為他可能是在之後的 data center 裡面，我們知道說電容跟電感可能在後面要用到的數量都會直線的上升。所以我覺得這幾隻特別好。",
+      "evidence_timestamp": "19:13",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "0056.TW",
+      "company_name": "元大高股息ETF",
+      "market": "TW",
+      "stance": "avoid",
+      "horizon": "unspecified",
+      "conviction": "high",
+      "rationale": "謝孟恭直接表示0056不是一個好產品，不鼓勵用房子增貸買入此ETF。",
+      "target_price": null,
+      "evidence_quote": "那只是 0056 真的不是一個好產品，這個我講到爛掉了，那就不再去多做一個贅述。",
+      "evidence_timestamp": "42:22",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

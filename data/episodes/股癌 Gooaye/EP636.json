@@ -1,0 +1,56 @@
+{
+  "episode": {
+    "episode_id": "7182063",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7182063",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP636 | 🐚",
+    "publish_date": "2026-02-14",
+    "language": "Traditional-Chinese",
+    "summary": "本期股癌主要討論了投資策略和市場觀察。首先分析了應用材料的財報，強調業績指引的重要性，並點出無塵室是目前市場的瓶頸。接著，針對 Michael Burry 對 Palantir 的做空報告提出質疑，認為其分析帶有主觀偏見，並分享了對 AI 模型商品化的看法，以及 AI 如何影響軟體產業的觀點，認為隨插即用的軟體最容易被取代。在聽眾問答環節，回答了關於裝修爭議、神明還願、關稅對車價的影響，以及如何應對家人對工作選擇的質疑等問題，並分享了對指數投資的看法。\n\nTakeaways:\n1. 財報最重要的不是看過去一季的表現，而是其對未來業績的展望指引。\n2. 投資不應只看後照鏡（過去的數據），更重要的是對未來業績的展望，即便這帶有賭的成分。\n3. 無塵室的建設速度是目前市場擴張的瓶頸，其加速有助於設備和產物廠商更快實現營收。\n4. Michael Burry 近期的分析帶有過強的主觀意圖，為了支持其論點而選擇性地採用證據，不夠客觀。\n5. AI 模型正趨向商品化，使用者體驗可能比底層模型本身更重要。\n6. AI 更可能取代的是那些隨插即用的軟體，而非需要深度客製化和整合的應用。\n7. 選擇軟體股時，可參考硬體供應鏈的邏輯：競爭者少的、客製化程度高的、與客戶有信賴關係的，更具投資價值。\n8. 裝修工程容易產生爭議，原因在於項目繁多、資訊不對稱，以及人們傾向於比較單一項目價格，忽略整體價值。\n9. 結婚的關鍵在於雙方意願一致，其他人的意見（如岳母）並非決定性因素。\n10. 技術分析可交由 AI 輔助，但基本面分析因涉及主觀判斷和最新資訊，AI 目前仍難以取代人工。",
+    "keywords": [
+      "NordVPN",
+      "AstroBot",
+      "Neil deGrasse Tyson",
+      "Bulgari",
+      "Four Seasons",
+      "HBM",
+      "CMP",
+      "Glass Substrate",
+      "Palantir",
+      "Michael Burry",
+      "Commodity",
+      "Ontology",
+      "關稅",
+      "0050"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "AMAT",
+      "company_name": "Applied Materials (應用材料)",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "應用材料財報確認無塵室是目前市場擴張瓶頸，HBM 層數增加（12層到20層）對設備/材料廠是大利多；主持人在臺積電法說後將此題材刪除，但看完應材財報後決定放回觀察名單，等待技術面止跌訊號再切入。",
+      "target_price": null,
+      "evidence_quote": "視我的話就會觀察一下接下來的這個無城市的標的會不會開始打底。因為前面你真的不知道它在跌什麼，老實講我真的是看不懂。……本來這個題材在臺積電法說之後，看到那個股價反應，我已經把它刪掉了。可是我現在就覺得說，我可以把它放回來觀察。",
+      "evidence_timestamp": "16:03",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "主持人認為 Palantir 的產品（需深度整合、客製化、信賴關係）不易被 AI 取代，Michael Burry 的做空報告論點不客觀；之前在 80 幾美元賣掉感到後悔，若股價再次回落（烙賽），想要重新介入。",
+      "target_price": null,
+      "evidence_quote": "像 Palantir 我自己在八十幾塊的時候也賣掉蠻多的，那在節目跟大家分享，我其實是很後悔我有賣啦，只是就覺得說你漲到我看不懂的地方啦，那可是後面你沒有想到他可以噴到更高的地方，所以其實如果你再給我一次機會的話，就假設他真的要烙賽一下給大家的話，那我真的會覺得對我來講就是一個可能我也想要重新介入的地方啦。",
+      "evidence_timestamp": "33:27",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

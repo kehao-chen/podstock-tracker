@@ -1,0 +1,19 @@
+# Project dependencies. You do NOT need to pip install these.
+#   - The four standalone scripts (store/fetch_prices/compute_performance/query) declare their
+#     own deps inline (PEP 723); `uv run <script>.py` installs them on demand.
+#   - The dashboard (just dash) launches via `uv run --with-requirements requirements.txt`,
+#     so THIS file is the dashboard's dependency source — uv builds an ephemeral env from it.
+# Nothing is installed into your global Python. Listed here for humans and non-uv users too.
+
+# data layer (all scripts + dashboard)
+duckdb>=1.0
+
+# price fetching (fetch_prices.py) + analysis (compute_performance.py, dashboard)
+pandas>=2.0
+numpy>=1.26
+requests>=2.31
+
+# dashboard (dashboard/app.py)
+streamlit>=1.30
+altair>=5.0
+plotly>=5.18

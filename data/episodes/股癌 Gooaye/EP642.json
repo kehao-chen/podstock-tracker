@@ -1,0 +1,69 @@
+{
+  "episode": {
+    "episode_id": "7405873",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7405873",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP642",
+    "publish_date": "2026-03-07",
+    "language": "Traditional-Chinese",
+    "summary": "本期節目主要圍繞當前股市的波動和蘋果公司的市場策略展開。謝孟恭首先分析了股市的現狀，指出美股市場的輪動特性，並提醒投資者避免過度追漲殺跌。他還分享了自己對光通訊產業的看法，儘管近期光通股出現回調，但他仍看好其長期發展。隨後，謝孟恭深入探討了蘋果公司如何利用記憶體漲價的機會，通過降低入門款產品價格並提升規格來搶佔市場份額，同時通過軟體服務增加長期收益。在 Q&A 環節，他回答了聽眾關於投資策略、職業發展和生活方式等問題，並分享了個人經驗和建議。\n\nTakeaways:\n1. 股市低谷往往是市場犯錯的體現，此時應勇於嘗試，而非盲從市場上的一面倒言論。\n2. 蘋果公司藉由記憶體漲價之際，逆勢推出規格升級但價格不變的產品，旨在犧牲短期毛利以擴大市佔率，並從後續的服務訂閱中獲利。\n3. AI 工具在投資判斷上具有雙面性，一方面有助於獲取資訊，另一方面也可能製造恐慌情緒，導致錯誤決策。\n4. 財富自由不僅取決於賺錢能力，更在於對物慾的有效控制，慾望過高即使收入增加也難以感到滿足。\n5. 蘋果公司降低硬體售價，意在透過 AI 深度綁定軟體服務，提高用戶的終身價值，從長期訂閱中獲取更多收益。\n6. 市場上光進銅退的說法過於極端，數據中心在一段時間內仍會大量使用銅纜，光通訊與銅纜將在一段時間內共同成長。\n7. 蘋果公司透過 A 系列晶片的 Mac Neo 筆電，以低價策略搶佔市場，並藉由 Apple Intelligence 等服務增加用戶黏著度。\n8. 記憶體漲價潮對安卓手機廠商造成毛利率壓力，可能迫使其漲價，而蘋果則可藉此機會搶佔安卓市佔。\n9. 選擇 ETF 時，除了考量配息與稅務因素，也可適度配置與大盤指數關聯性高的產品，以平衡風險。\n10. 應避免過度刺激兒童，特別是在使用手機或接觸螢幕時，應適量控制，以免影響其多巴胺分泌機制。",
+    "keywords": [
+      "NordVPN",
+      "麗木",
+      "Mezastar",
+      "ROG",
+      "Palantir",
+      "Cloudflare",
+      "CrowStrike",
+      "NVIDIA",
+      "TPU",
+      "Lumen",
+      "Apple Intelligence",
+      "即刻灣",
+      "Alloyoga",
+      "Arctic Monkeys"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "AAPL",
+      "company_name": "Apple",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "蘋果趁記憶體漲價之際，以不漲價甚至降價的策略（iPhone 17E、Mac Neo 599~699美元）犧牲短期硬體毛利搶佔安卓市佔，再以服務訂閱（App Store、iCloud、Apple Intelligence）收割更高的 lifetime value；謝孟恭表示想把蘋果做到最大倉位，但等股價有表態後再參與。",
+      "target_price": null,
+      "evidence_quote": "我自己其實想直接把蘋果幹到最大磁場的主因就是，當然，我們都知道說它的背景是因為現在我們在市場上看到的記憶體漲價潮。…最差最差就是等到說，如果接下來它的股價有表態的話再來參與啦。",
+      "evidence_timestamp": "19:26",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "LITE",
+      "company_name": "Lumentum",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "光通訊股近期回檔後估值趨於合理，謝孟恭認為光通長期趨勢未變，給予 Lumentum 2026 年 EPS 約 30~35 倍本益比目標；他正在持股轉換，將部位移往光通相關標的。",
+      "target_price": null,
+      "evidence_quote": "那如果今天是去看 Lumentum 或是 Coherent, 然後跟 XTI 或是臺灣的官方的話，我可能就是給你 26 年的 30 到 35，我會覺得會變成是這樣子。那當然光通漲多的，現在掉下來也合理嘛，因為前面真的噴很兇嘛。",
+      "evidence_timestamp": "40:19",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "COHR",
+      "company_name": "Coherent",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "與 Lumentum 同為美股光通主力標的，謝孟恭給予相同的 2026 年 30~35 倍目標本益比；回檔後認為是進場機會，光通趨勢長期仍優於銅纜。",
+      "target_price": null,
+      "evidence_quote": "那如果今天是去看 Lumentum 或是 Coherent, 然後跟 XTI 或是臺灣的官方的話，我可能就是給你 26 年的 30 到 35，我會覺得會變成是這樣子。",
+      "evidence_timestamp": "40:19",
+      "speaker": "謝孟恭"
+    }
+  ]
+}

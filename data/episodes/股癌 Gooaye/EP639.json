@@ -1,0 +1,56 @@
+{
+  "episode": {
+    "episode_id": "7298837",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7298837",
+    "podcast_name": "股癌 Gooaye",
+    "title": "EP639 | 🐗",
+    "publish_date": "2026-02-25",
+    "language": "Traditional-Chinese",
+    "summary": "本集股癌主要探討了當前股市的現象與投資策略，講者謝孟恭提到時間飛逝，市場不斷變化，投資者應保持彈性，不應過於極端。他分享了自己對美股、台股和日股的看法，指出不同市場的表現差異大，投資配置需謹慎。謝孟恭提醒聽眾，過去的經驗顯示各市場存在輪動，不應盲目追捧當下強勢的市場。此外，他還分析了太陽能產業的潛在機會，儘管該產業長期不被看好，但由於政策變化和供應鏈重組，可能迎來新的發展契機。在 Q&A 環節，他回答了聽眾關於個股、產業趨勢和投資策略的問題，並分享了個人對生活和投資的感悟。",
+    "keywords": [
+      "Goer AI",
+      "烏俄戰爭",
+      "0050",
+      "situation awareness",
+      "GTC 大會",
+      "GROK",
+      "SRAM",
+      "HBM",
+      "45X 法案",
+      "電網",
+      "燃料電池 (fuel cell)",
+      "SMR (小型核能反應爐)",
+      "FSD (Full Self-Driving)",
+      "Anthropic"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "Tesla's FSD end-to-end pure-vision solution is market-leading with no serious near-term competition; robotics is a wildcard where China could narrow the gap, and China TAM risk exists if geopolitical tensions cause mutual market exclusions.",
+      "target_price": null,
+      "evidence_quote": "自駕我認為不是，自駕要是威脅到特斯拉的話是很困難的事情，基本上這個特斯拉的端到端的純視覺解方式目前市面上最屌，我覺得這個是完全沒有任何爭議的，但機器人這個有可能，因為中國這邊的機器人確實是發展得非常好。",
+      "evidence_timestamp": "38:34",
+      "speaker": "謝孟恭"
+    },
+    {
+      "ticker": "6269.TW",
+      "company_name": "臺郡科技",
+      "market": "TW",
+      "stance": "avoid",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "臺郡在資料中心水冷防漏題材未啟動後，已被市場邊緣化很久，目前沒有聽到任何新的現實題材應用；主持人對持有者無法提供正面看法。",
+      "target_price": null,
+      "evidence_quote": "6269 上一次有題材的時間點，好久以前，那時候就在講說因為 Data Center 的這些 NVIDIA Server 要去裝水冷，所以它有一個防漏水的裝置，那時候就是由臺郡所出貨。當時有一波題材，沒有起來，後面就比較沒有聽到這支有什麼在現在題材上的應用，特別是現在大家都在關注 data center，不是那種消費型的相關的東西，所以它其實已經算被邊緣化蠻久了。",
+      "evidence_timestamp": "45:23",
+      "speaker": "謝孟恭"
+    }
+  ]
+}
