@@ -226,15 +226,34 @@ st.dataframe(
 # ===== 單一集數分析 (optional sub-category) =====
 st.divider()
 with st.expander("🎧 單一集數分析（選用）", expanded=False):
-    eps = w[["episode_id", "publish_date", "title", "episode_url"]].drop_duplicates().sort_values("publish_date", ascending=False)
-    eps["label"] = eps["publish_date"].astype(str) + " · " + eps["title"].str.slice(0, 50)
-    pick = st.selectbox("選擇集數", eps["label"])
-    erow = eps[eps["label"] == pick].iloc[0]
-    summ = q("SELECT summary FROM episodes WHERE episode_id = ?", [erow["episode_id"]])
+    # All episodes for this podcast — including ones with 0 recommendations,
+    # so the Podwise summary is still browsable. Rec counts come from w (v_weighted).
+    eps = q(
+        "SELECT episode_id, publish_date, title, episode_url, summary "
+        "FROM episodes WHERE podcast_name = ? ORDER BY publish_date DESC",
+        [podcast],
+    )
+    rec_counts = w.groupby("episode_id").size()
+    eps["n_rec"] = eps["episode_id"].map(rec_counts).fillna(0).astype(int)
+
+    only_with_recs = st.checkbox("只顯示有推薦的集數", value=False)
+    shown = eps[eps["n_rec"] > 0] if only_with_recs else eps
+    if shown.empty:
+        st.info("此節目沒有任何含推薦的集數。")
+        st.stop()
+
+    shown = shown.copy()
+    shown["label"] = (
+        shown["publish_date"].astype(str)
+        + " · " + shown["title"].str.slice(0, 50)
+        + shown["n_rec"].map(lambda n: f"（{n} 推薦）" if n else "（無推薦）")
+    )
+    pick = st.selectbox("選擇集數", shown["label"])
+    erow = shown[shown["label"] == pick].iloc[0]
     st.markdown(f"**{erow['title']}** · {erow['publish_date']} · [Podwise]({erow['episode_url']})")
-    if not summ.empty and summ["summary"][0]:
-        with st.expander("Podwise 摘要"):
-            st.write(summ["summary"][0])
+    if erow["summary"]:
+        with st.expander("Podwise 摘要", expanded=erow["n_rec"] == 0):
+            st.write(erow["summary"])
     er = w[w["episode_id"] == erow["episode_id"]].sort_values("evidence_timestamp")
     st.caption(f"推薦 {len(er)} 筆")
     for _, rr in er.iterrows():
