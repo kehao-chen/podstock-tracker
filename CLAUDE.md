@@ -46,6 +46,15 @@ For an episode: **ingest → track-performance → analyze/dashboard**, in that 
 ingest spawns one extraction subagent per episode (keeps large transcripts out of context);
 each fetches its own transcript via `podwise` and returns structured JSON per the contract.
 
+## Choosing podcasts to track
+
+Not every finance podcast suits this tool. The signal we want is **specific named stock calls**;
+macro/daily-briefing shows produce almost none. Concrete data point: **游庭皓的財經皓角** (daily
+「早晨財經速解讀」) — 20 episodes yielded just **2** stock picks total, the rest pure macro
+(rates, indices, sector themes). **股癌** by contrast averages several specific calls per episode.
+So prefer shows that name individual tickers with a stance; treat daily-macro shows as low-yield
+(and a poor fit for the buy-next-day effectiveness analysis, which needs actual picks).
+
 ## Conventions
 
 - Tickers are Yahoo-style: TW上市 `.TW`, 上櫃 `.TWO`, US bare, HK `.HK`, JP `.T`. 台積電 = `2330.TW` (not `TSM`).
