@@ -1,0 +1,37 @@
+{
+  "episode": {
+    "episode_id": "7852535",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7852535",
+    "podcast_name": "M觀點",
+    "title": "EP298. 英特爾突然爆紅、OpenAI GPT-5.5、創作者該如何用 AI | M觀點",
+    "publish_date": "2026-04-27",
+    "language": "Traditional-Chinese",
+    "summary": "英特爾近期股價大漲，主要受惠於 Agentic AI 爆發帶動伺服器 CPU 需求，其 IDM 2.0 策略與先進封裝業務的潛力亦獲市場認可。OpenAI 推出的 GPT-5.5 模型在 Agentic Workflow 能力上取得突破，重新奪回領先地位，顯示 AI 產業競爭呈現各家輪流領先的動態格局。此外，專訪「無人軍團」作者蕭上農（Fox），探討創作者如何透過 AI 工具建立自動化工作流程，強調 AI 並非取代人類，而是透過漸進式磨合與多模型交叉驗證，大幅提升生產力。創作者應將 AI 視為跨領域導師，透過主動學習與實作，在 AI 浪潮中掌握競爭優勢。\n\nTakeaways:\n1. Agentic AI 改變了軟體的使用模式，由於 AI 代理操作軟體的速度遠超人類，導致軟體使用量大幅增加，進而引發資料中心對 CPU 的需求呈現爆發性成長，使 CPU 與 GPU 的配置比例從傳統的 1:4 趨向 1:1。\n2. 英特爾的 IDM 2.0 策略在市場供需失衡下獲得驗證，其晶圓代工（Foundry）業務的戰略價值已超越傳統 X86 CPU 設計，成為全球半導體供應鏈中不可或缺的產能備援。\n3. AI 模型領域不存在永久的領先者，市場呈現各家模型輪流領先的週期性特徵，投資人應避免單押特定公司，並預期前段班模型的實力將長期保持接近。\n4. AI 輔助創作的核心在於「漸進式優化」，創作者應接受初期僅 50 分的產出，透過不斷迭代與磨合，逐步提升至 90 分的品質，而非追求一步到位。\n5. 將程式開發用的 IDE（如 Cursor）轉化為文字編輯器使用，能有效追蹤 AI 生成內容的變更版本，是提升文字創作生產力與品質控制的關鍵技巧。\n6. 在 AI 應用中，直接付費使用頂尖模型是最高效的投資，因為劣質模型產生的錯誤與「鬼打牆」現象所浪費的時間成本，遠高於訂閱費用。\n7. 針對複雜或不熟悉的題目，透過讓多個 AI 模型互相檢查與交叉驗證，是目前降低 AI 幻覺並確保資訊準確性的最有效實務方法。",
+    "keywords": [
+      "IDM 2.0",
+      "Agentic AI",
+      "18A",
+      "Cursor",
+      "Whisper",
+      "EUV",
+      "《無人軍團》",
+      "Claude Opus"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "INTC",
+      "company_name": "英特爾 (Intel)",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "Agentic AI 帶動資料中心 CPU 供不應求，AMD 與 ARM 廠商產能搶不到臺積電，溢出需求由英特爾撿走，2026–2027 兩年會缺貨爽賺；加上 IDM2.0 的 Foundry／先進封裝路線被這次財報驗證為正確。但 Miula 強調自己已因不認同新 CEO（Lib10）出清持股、目前無部位，並非買進建議。",
+      "target_price": null,
+      "evidence_quote": "所以 CPU 大概 2026、2027 這兩年都會蠻缺的，所以英特爾就爽賺，為什麼呢？因為英特爾這一代使用 6 代，以及預計下一代使用 7 代",
+      "evidence_timestamp": "32:16",
+      "speaker": "Miula"
+    }
+  ]
+}

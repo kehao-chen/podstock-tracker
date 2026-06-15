@@ -1,0 +1,65 @@
+{
+  "episode": {
+    "episode_id": "7579088",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7579088",
+    "podcast_name": "M觀點",
+    "title": "EP288. 美超微偷偷賣中國、馬斯克超級晶圓廠、Palantir 加碼國防 | M觀點",
+    "publish_date": "2026-03-23",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了三則科技財經新聞。首先，美國司法部起訴美超微高管向中國走私輝達 AI 伺服器，揭示了美中科技戰背景下，企業為逐利而無視禁令的現象，以及美國對中國晶片出口管制政策的影響。其次，馬斯克宣布在德州奧斯汀建立 TeraFab 超級晶圓廠，計劃生產大量 AI 晶片，儘管目標宏大，但面臨技術和市場等多重挑戰，引發對其可行性的廣泛討論。最後，Palantir 在開發者大會上公開表態支持美國國防，與其他矽谷科技公司形成對比，強調其核心價值觀是為美軍提供戰場優勢，並闡述了國防業務如何反哺企業 AI 業務的獨特商業模式。\n\nTakeaways:\n1. 美國對中國的晶片管制政策，旨在延緩中國 AI 發展速度，同時透過次級晶片銷售抽取稅收，將利益回流美國政府。\n2. 即使在高階主管身家豐厚的情況下，巨額利潤仍可能驅使他們冒險從事非法活動。\n3. 儘管 Supermicro 聲稱對非法出口 AI 伺服器不知情，但公司股價受影響，暗示市場對公司是否完全清白存疑慮。\n4. 輝達在法律層面可免於 Supermicro 事件的直接責任，但其與 Supermicro 的密切關係，以及黃仁勳本人對中國市場的態度，引發部分人士對其是否真正支持臺灣的質疑。\n5. 馬斯克計劃在 2026 年底小規模生產 AI 晶片，並在 2027 年後擴大產量，但其 ETW 的功耗目標是從科幻角度出發，極為誇張。\n6. 即使特斯拉晶圓廠的良率僅為台積電的十分之一，其晶片成本仍可能與直接向輝達購買相當，這為自產晶片提供了潛在的成本優勢。\n7. Palantir 將國防視為公司核心價值，並將軍事技術能力擴展到企業應用，這種獨特定位使其在企業市場上獲得強勁競爭力。\n8. Palantir 的 AI 平台可被視為組織層級的 AI Harness，旨在強化整個企業或政府組織的 AI 應用能力。\n9. Palantir 在伊朗戰爭後被美國軍方正式採用為統一 AI 系統，證明其 Maven Smart System 在實戰中具有高度價值。",
+    "keywords": [
+      "Supermicro (美超微)",
+      "NVIDIA (輝達)",
+      "H100 晶片",
+      "H20 晶片",
+      "Palantir",
+      "TeraFab",
+      "AI5 晶片",
+      "臺積電",
+      "良率",
+      "卡達夏夫等級 (Kardashev Scale)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "SMCI",
+      "company_name": "美超微 (Super Micro Computer)",
+      "market": "US",
+      "stance": "avoid",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "美超微高階主管被美國司法部起訴走私輝達 AI 伺服器到中國，雖然公司目前未被起訴，但 Miula 認為案件有越滾越大、最後公司層級出事的風險，一旦被禁賣輝達 GPU 其九成以上營收恐瞬間消失，投資人應該擔心。",
+      "target_price": null,
+      "evidence_quote": "所以我想如果你是 Supermicro 投資的，你現在應該是會很擔心的啦",
+      "evidence_timestamp": "23:39",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "輝達 (NVIDIA)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "Miula 認為輝達在法律上對 Supermicro 走私案絕對安全（出貨給 Supermicro 是合法的），加上川普政府已批准 H200 重新銷售中國、消滅走私需求，因此這個事件對輝達不需要擔心。",
+      "target_price": null,
+      "evidence_quote": "如果以 Supermicro 這個案件來看，我覺得輝達現在是不太需要擔心這個問題了。",
+      "evidence_timestamp": "27:11",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "Miula 過去兩年拼命找受惠 AI 的強勢公司，財報上唯一看到超級利多的就只有 Palantir，連 Google 都比不上；其把國防當核心、把戰場級決策能力下放到企業端的差異化讓企業業務勢如破竹，是他最看好的 AI 受惠股。",
+      "target_price": null,
+      "evidence_quote": "我真的很認真找，但是在財報上面唯一可以看到超級超級利多的公司大概就 Palantir，沒有一家公司跟他有同等級的從 AI 過的，連 Google 都沒有。",
+      "evidence_timestamp": "01:01:23",
+      "speaker": "Miula"
+    }
+  ]
+}

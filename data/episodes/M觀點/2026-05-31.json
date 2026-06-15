@@ -1,0 +1,130 @@
+{
+  "episode": {
+    "episode_id": "8111968",
+    "episode_url": "https://podwise.ai/dashboard/episodes/8111968",
+    "podcast_name": "M觀點",
+    "title": "SP2. 輝達 GTC 直播抽顯卡 + 軟體股回神了 | M觀點特別篇",
+    "publish_date": "2026-05-31",
+    "language": "Traditional-Chinese",
+    "summary": "輝達 GTC 主題演講的 Watch Party 活動將透過 Google 表單競賽，贈送黃仁勳親簽 RTX 4080 顯卡以回饋聽眾。針對市場質疑 AI 將摧毀軟體業，Snowflake、Palantir 與 CrowdStrike 等企業的財報成長加速，證實 AI 反而能為基礎建設型軟體帶來新動能。投資策略應堅持「留在跑道上」的長線思維，避免因短期市場波動或硬體股的強勢表現而頻繁轉換賽道。投資人應專注於企業基本面研究，而非盲目追逐動能，透過長線持有具備競爭力的軟體標的，以達成超越指數的報酬目標。\n\nTakeaways:\n1. AI 並不會摧毀軟體產業，反而能為提供基礎建設的 SaaS 公司（如 Snowflake）帶來營收成長加速的契機，因為企業在 AI 時代更依賴跨雲資料平台的整合能力。\n2. 「留在自己的跑道上」（Stay in the lane）是比頻繁追逐熱門賽道更穩健的投資策略，因為市場輪動的時機難以預測，頻繁轉換反而容易錯過核心持股的復甦。\n3. 記憶體產業正經歷結構性的基本面轉變，年需求成長率預計可達 30% 至 40%，這使其逐漸脫離過去單純的景氣循環股特徵，進入長期需求爆發期。\n4. 軟體公司若採用「按使用量付費」的商業模式，比傳統「按席次收費」的模式更能精準捕捉 AI 時代的價值增長。\n5. 投資決策應基於對公司基本面的深度研究，而非股價波動；當研究確認公司競爭力未被顛覆時，即便股價長期橫盤，也應保持耐心持有。\n6. AI 工具能大幅提升研究效率，將資料收集與觀點彙整的繁瑣工作自動化，使研究者能將精力集中於關鍵問題的思考與事實查核。\n7. 投資者應建立「Margin of Error」（容錯空間），在心中設定合理的估值區間，並在股價回檔時分批佈局，而非試圖精準捕捉最低點。\n8. 成功的長期投資者通常具備「左側交易」的心理素質，能夠在市場不看好、股價持續下跌時，基於對公司未來價值的信心持續加碼。",
+    "keywords": [
+      "GTC",
+      "Watch Party",
+      "Computex",
+      "SaaS",
+      "Snowflake",
+      "Palantir",
+      "ETF",
+      "ASIC",
+      "AI 推論",
+      "RTX 4080"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir (帕蘭泰爾)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "他最核心、最有信心的軟體持股，連續多季營收成長加速、AI 浪潮下不會被取代；估值（心中 Fair Value 約 120-130）回檔時逢低分批加碼，並以基本面而非股價決定賣出，已達成長線目標、就算不漲也不賣。",
+      "target_price": null,
+      "evidence_quote": "Parenting 的 200 塊，將近 200 塊的時候，慢慢跌到 180，跌到 150,160，我都沒有買啊。 跌到 150 我的時候我開始買了。",
+      "evidence_timestamp": "39:26",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "連續多季財報漂亮但股價已弱近一年，他認為市場錯誤低估了微軟，是這次軟體股回神中他敢買、且比市場認為更強的標準軟體股。",
+      "target_price": null,
+      "evidence_quote": "可是我覺得這是對微軟的一個很錯誤的認知微軟絕對比市場上認為的更強微軟絕對比市場上認為這樣強",
+      "evidence_timestamp": "34:18",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "NET",
+      "company_name": "Cloudflare",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "他持有的核心軟體股之一，屬於 AI 時代仍能存活、會受惠的基礎建設型軟體，這波軟體反彈他明確表示敢買。",
+      "target_price": null,
+      "evidence_quote": "微軟微軟是我敢買的，微軟我敢買，Parenty 我敢買，Cloudflare 我敢買，那 Cloudstrike 我也敢買，這幾家都是我敢買的，",
+      "evidence_timestamp": "35:25",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "CRWD",
+      "company_name": "CrowdStrike",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "二月因資安事件大跌後最近一兩個月強彈、創歷史新高，是他持有並明確表示敢買的軟體股之一。",
+      "target_price": null,
+      "evidence_quote": "微軟我敢買，Parenty 我敢買，Cloudflare 我敢買，那 Cloudstrike 我也敢買，這幾家都是我敢買的，",
+      "evidence_timestamp": "35:25",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "MU",
+      "company_name": "美光 (Micron)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "他唯一深入研究的 AI Infra 硬體股，認為記憶體正經歷結構性基本面改變、未來十年年需求成長率有 3、40%，以現在看到的未來來說股價不算貴，研究完「嚇死人」所以續抱。",
+      "target_price": null,
+      "evidence_quote": "無論是 MU，特別是記憶體，記憶體真的有可能會好十年。",
+      "evidence_timestamp": "41:46",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "輝達 (NVIDIA)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "今年 YTD 只漲 13%（AI Infra 中最弱），因前三年漲太多加上市場擔心 ASIC 搶市場；但他一直看好輝達、仍續抱。",
+      "target_price": null,
+      "evidence_quote": "第二個我覺得大家還是稍微有點擔心輝達的未來，然後就是會不會被 ASIC 搶市場，那我一直是還蠻看好輝達的。",
+      "evidence_timestamp": "41:21",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "SNOW",
+      "company_name": "Snowflake",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "他自己沒有持有（早期買來研究後賣掉），但極度看好其基本面：財報亮眼、營收連兩季成長加速，屬基礎建設型、按使用量計費的軟體，AI 時代會被用得更多，是「AI 不會殺死軟體」的完美印證。",
+      "target_price": null,
+      "evidence_quote": "所以，你像 Snowflake 就是一個很完美的，在 AI 時代其實會被用得更多的一個東西哦。",
+      "evidence_timestamp": "32:43",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "ADBE",
+      "company_name": "Adobe",
+      "market": "US",
+      "stance": "avoid",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "他比較沒有信心持有，認為 Adobe 的需求會降很多、營收可能明顯衰退（雖不會被消滅、仍能維持高獲利），是這個時代他不見得敢買的軟體股。",
+      "target_price": null,
+      "evidence_quote": "我自己比較沒有信心去持有的可能是 Adobe, 因為我覺得 Adobe 的需求真的會降很多，",
+      "evidence_timestamp": "34:49",
+      "speaker": "Miula"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "episode": {
+    "episode_id": "7983987",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7983987",
+    "podcast_name": "M觀點",
+    "title": "EP303. 川習會能談出什麼、谷歌新筆電系統、主動 ETF 可以投嗎 | M觀點",
+    "publish_date": "2026-05-15",
+    "language": "Traditional-Chinese",
+    "summary": "川習會聚焦於貿易談判、伊朗局勢與臺灣議題，川普試圖以關稅為籌碼要求中國開放市場，但雙方在核心利益上難以達成實質讓步，僅可能在伊朗問題上達成表面共識。Google 計劃推出代號「Aluminum」的新筆電作業系統，將 Android 與 AI 功能深度整合，意圖挑戰 Windows 與 Mac 在中高階筆電市場的地位，但恐面臨軟體相容性與使用者忠誠度挑戰。近期臺股主動型 ETF 因績效亮眼引發熱潮，儘管學術研究顯示主動投資長期難勝大盤，但臺股市場因資訊不對稱性，確實存在部分優秀經理人能創造超額報酬。投資人應採取核心配置策略，將大部分資金投入市值型 ETF 獲取市場報酬，僅以小部分資金參與主動型 ETF 以追求潛在超額收益。\n\nTakeaways:\n1. 台灣市場結構因資訊相對不透明且較易取得企業第一手調研資訊，使得約 25% 的主動型基金能長期打敗大盤，勝率顯著高於美國市場的 10%。\n2. 美國在當前貿易談判中缺乏有效的關稅武器支撐，且中國所提供的波音飛機、農產品與 H200 晶片採購多屬自身剛需，並非實質的談判讓步。\n3. 台灣在美國第一島鏈戰略中具備不可替代性，中國無法提供足夠的籌碼交換美國放棄對台支持，因此台灣並非川習會中可被交易的籌碼。\n4. Google 透過開發基於 Android 的「Aluminum OS」取代 ChromeOS，旨在整合內部開發資源，並將 Gemini AI 深度植入作業系統底層以實現「On-screen Computer Use」。\n5. Google Book 試圖進軍中高階筆電市場，但面臨 Mac 已收割「不滿意 Windows 用戶」的既定市場格局，導致其市佔率擴張將面臨嚴峻挑戰。\n6. 針對無法預測勝負的投資選擇，採取「核心配置市值型 ETF 獲取 Beta，輔以 20% 至 30% 的主動型 ETF 追求 Alpha」的策略，是應對市場不確定性的最佳解法。\n",
+    "keywords": [
+      "川習會",
+      "301調查",
+      "稀土",
+      "H200",
+      "實體清單",
+      "ETF",
+      "Alpha/Beta",
+      "Chrome OS",
+      "Gemini",
+      "0050"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "0050.TW",
+      "company_name": "元大台灣卓越50 ETF",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "把 0050 當核心配置買 Beta，穩健賺到大盤報酬（過去年化約 11-12%），建議將五到八成資金放在市值型，是沒有絕對答案時夠好的策略。",
+      "target_price": null,
+      "evidence_quote": "你如果覺得買 BETA 穩穩的很好，你就買 0050 就好。",
+      "evidence_timestamp": "1:08:59",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "00935.TW",
+      "company_name": "野村臺灣創新科技50 ETF",
+      "market": "TW",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "他自己兩年前剛上市時就買進並蠻喜歡，臺股部位只用 00692 跟 00935 兩檔，且 00935 今年績效超強，續抱滿意。",
+      "target_price": null,
+      "evidence_quote": "00935 我應該是兩年前買的嘛 00935 剛出的時候我就買了嘛，大家記得吧我就還蠻喜歡 00935 所以我買了",
+      "evidence_timestamp": "1:03:15",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "00692.TW",
+      "company_name": "富邦公司治理 ETF",
+      "market": "TW",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "長期持有的臺股市值型部位，績效與 0050 相當（YTD 皆 43%），但因成交量／流動性偏低，他有點想換成 0050，不過目前還是懶得換、續抱。",
+      "target_price": null,
+      "evidence_quote": "我最近有點想換掉 00692,因為我現在開始覺得 00692 的成交量有點太低了，但是也還好啦，",
+      "evidence_timestamp": "1:03:23",
+      "speaker": "Miula"
+    }
+  ]
+}

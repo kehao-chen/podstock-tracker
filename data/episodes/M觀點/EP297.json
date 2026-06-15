@@ -1,0 +1,91 @@
+{
+  "episode": {
+    "episode_id": "7833045",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7833045",
+    "podcast_name": "M觀點",
+    "title": "EP297. 蘋果正式啟動接班、AI 前段班各有動作、SpaceX 合作 Cursor | M觀點",
+    "publish_date": "2026-04-24",
+    "language": "Traditional-Chinese",
+    "summary": "Apple CEO Tim Cook 將於九月轉任執行主席，由硬體資深副總裁 John Ternus 接任，此人事異動標誌著蘋果在經歷 iPhone 銷售飽和與 AI 佈局失誤後，進入產品導向的過渡期。與此同時，AI 產業競爭白熱化，OpenAI 憑藉強大的圖像生成模型重回領先，促使 Google 成立特工小組，全力強化 Gemini 在程式開發與代理人工作流（Agentic Workflow）的競爭力。SpaceX 的上市前夕文件揭露了對 XAI 的鉅額投資與虧損，並宣布與 Cursor 深度合作，旨在整合 AI 代理開發工具。這些動態顯示科技巨頭正集體轉向「代理人執行」與「遞迴自我改進」技術，試圖在 AI 領域爭奪下一個成長引擎。\n\nTakeaways:\n1. 蘋果執行長職位的交接標誌著公司進入硬體穩定導向的時期，新任接班人 John Ternus 作為工程大師，其策略重點在於維持現有產品競爭力，而非開拓如 Apple Car 或 Vision Pro 等具備高成長潛力但風險極高的新業務。\n2. 遞迴自我改進（Recursive Self-Improvement, RSI）已成為 AI 領域的關鍵競爭門檻，能夠利用 AI 輔助研發下一代模型的公司，其產品迭代速度與技術進步幅度將遠超傳統開發模式。\n3. 儘管 Google 的 Gemini 模型在通用智力評比中表現優異，但在企業級應用、程式開發與 Agentic Workflow 的實際執行效率上仍落後於競爭對手，促使 Google 必須成立特攻隊以強化指令遵循與任務執行能力。\n4. AI 圖像生成領域的競爭極為激烈，OpenAI 透過 GPT-4o 等模型在盲測評比中以壓倒性優勢超越 Google 的 Imagen 3，證明在 AI 領域中，領先者優勢極易因對手密集的研發投入而迅速被逆轉。\n5. SpaceX 與 Cursor 的深度合作及潛在的收購協議，反映了 AI 時代下「算力」與「開發工具」的垂直整合需求，透過將 Agentic Coding IDE 與強大算力結合，旨在解決軟體開發效率與物理 AI 執行能力的瓶頸。\n6. SpaceX 的財務結構顯示，儘管 Starlink 業務展現強勁獲利能力，但公司整體的虧損主要源於對 XAI 的併購投入以及 Starship 等高資本支出項目的先期攤提，顯示其正處於從單純太空服務轉型為 AI 與硬體整合帝國的過渡期。\n7. 將個人自尊建立在投資績效上會產生嚴重的心理負擔，長期穩健的投資心態應建立在與自我目標的比較，而非與市場極端獲利者的盲目競爭。",
+    "keywords": [
+      "John Ternus",
+      "Agentic Workflow",
+      "S1 文件",
+      "Cursor",
+      "RSI (遞迴自我改進)",
+      "ELO",
+      "IDE",
+      "Apple Silicon",
+      "Anthropic",
+      "CLI"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "他認為 Palantir 合理估值大約在 120 到 140 美元之間，前陣子跌到 120-130 時他就進場買，並認為後續有機會再漲到 200。",
+      "target_price": 140.0,
+      "evidence_quote": "如果你之前有參加過我們 Parentier 的估值講座，你就知道我一直覺得 Parentier 的合理估值大概就一百四左右，一百二到一百四之間啦，所以跌到這個區間我就很樂意去買啊",
+      "evidence_timestamp": "1:05:11",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "微軟在他科技巨頭組合中是固定比例的核心持股，已經買到滿，並會在微軟大跌時加碼。",
+      "target_price": null,
+      "evidence_quote": "有些人說我會不會加倉微軟，我微軟買到滿啦，我科技巨頭的持股的比例是固定的",
+      "evidence_timestamp": "1:04:45",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "本季財報整體還算 OK，FSD 訂閱數出現量變、數字非常好，給他很大的信心；Optimus 進度符合預期，不必擔心現金流。",
+      "target_price": null,
+      "evidence_quote": "可是我覺得 FSD 突然在這一季的數字，我覺得是非常好的。我覺得這給我們很大的信心。",
+      "evidence_timestamp": "10:15",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "AAPL",
+      "company_name": "蘋果 (Apple)",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "他以投資人角度對蘋果過去五年僅 3.6% 的營收年化成長率不滿意（甚至輸給通膨），質疑新任 CEO John Ternus 偏硬體、反對新業務，難以帶來成長動能。",
+      "target_price": null,
+      "evidence_quote": "我作為一個市場上的投資人，我說蘋果現在過去五年的營收年化成長率 3.5、3.6%，我不能接受啊，你能不能變成 15% 啊？",
+      "evidence_timestamp": "31:46",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "INTC",
+      "company_name": "英特爾 (Intel)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "short",
+      "conviction": "low",
+      "rationale": "Agentic AI 帶動跑軟體的 CPU 需求，Intel 7／Intel 3 產能沒人搶、可滿載出貨甚至漲價，是短期的機會財，但長期競爭力仍待加強。",
+      "target_price": null,
+      "evidence_quote": "那所以我覺得 Intel 這個也是個短期的機會財。那長期還是要有更大的競爭力",
+      "evidence_timestamp": "1:10:26",
+      "speaker": "Miula"
+    }
+  ]
+}

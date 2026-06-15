@@ -1,0 +1,28 @@
+{
+  "episode": {
+    "episode_id": "7494614",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7494614",
+    "podcast_name": "M觀點",
+    "title": "EP285. 微軟推出 Cowork、特斯拉 Digital Optimus、NVIDIA 2026 GTC | M觀點",
+    "publish_date": "2026-03-13",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要討論了科技產業和財經時事的三個重點話題。首先，深入探討微軟推出的 Copilot Cowork，分析其與 Anthropy 的 Cloud Cowork 的差異，以及整合 WorkIQ 和企業安全框架的重要性，強調 Copilot Cowork 在企業級應用上的優勢。其次，解析馬斯克的 Digital Optimus 計畫，討論其快思慢想的架構及其在數位工作流程中的應用，並對其必要性提出疑問。最後，聚焦 NVIDIA GTC 大會，預測 Agentic AI 和 AI Factory 將是重點，並推薦四場值得關注的活動，同時宣布參與活動可抽 RTX5090 顯卡等獎品。此外，節目還簡要評論了美國對多國啟動 301 關稅調查，以及伊朗可能封鎖荷姆茲海峽的局勢。\n\nTakeaways:\n1. 微軟 Copilot Cowork 的核心價值在於整合了企業級管理框架 WorkIQ，得以在企業安全規範下運行，這是獨立 AI Agent 無法比擬的優勢。\n2. 儘管 Anthropic 的 Cloud Core 在 AI Agent 技術上領先，但微軟擁有打入大型企業客戶的關鍵通路，雙方合作是互利共贏的策略。\n3. 輝達的 NVFP4 技術使其在 AI 推論上能以更低的精度實現與 TPU 相似的效能，這打破了 TPU 在 FP8 上的優勢。\n4. 馬斯克將 XAI 的 Microhard 專案與特斯拉的 Digital Optimus 合併，旨在打造一個結合「快思慢想」的 AI 超級大腦，模仿人類的直覺與深度思考能力。\n5. 儘管 AI Agent 在企業應用前景廣闊，但企業領導者如何推動 AI 平台在公司內部落地並創造價值，是當前的重要課題。\n6. 儘管 Google Workspace 在消費者市場取得成功，但在大型企業客戶中，其市佔率遠遜於微軟的 Microsoft 365。\n7. 2026 年將是 AI Agent 大爆發的一年，AI 將從 Copilot 助手升級為 AutoPilot 全自動駕駛員，實現更全面的任務自動化。\n8. 臺灣與美國的貿易談判中，遵守已達成的協議對臺灣最有利，貿然翻臉可能導致更差的條件。\n9. 伊朗若要擺脫當前困境，最佳途徑是建立一個願意與美國合作、放棄核武並停止對以色列威脅的新政權。",
+    "keywords": [
+      "Cowork",
+      "Cloud",
+      "AI Agent",
+      "Digital Optimus",
+      "GTC (NVIDIA GTC)",
+      "301 關稅調查",
+      "荷姆茲海峽",
+      "快思慢想 (Thinking, Fast and Slow)",
+      "WorkIQ",
+      "Agentic AI",
+      "AI Factory",
+      "LPEU",
+      "Nemo Cloud"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": []
+}

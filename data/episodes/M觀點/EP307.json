@@ -1,0 +1,37 @@
+{
+  "episode": {
+    "episode_id": "8089746",
+    "episode_url": "https://podwise.ai/dashboard/episodes/8089746",
+    "podcast_name": "M觀點",
+    "title": "EP307. 華為提出的韜定律、Meta AI 賺錢計畫、SpaceX 併特斯拉？ | M觀點",
+    "publish_date": "2026-05-28",
+    "language": "Traditional-Chinese",
+    "summary": "華為提出的「韜定律」試圖透過 3D 堆疊與高速互聯技術，在缺乏先進製程下提升效能，但此舉多為應對政治需求，難以縮短與歐美技術的實質差距。Meta 推出的 AI 訂閱制若能將 AI 功能深度整合至社群應用，如照片動態化或修圖，將具備獨特競爭力。此外，SpaceX 與特斯拉的潛在合併，核心動機在於利用 SpaceX 的特別股架構，鞏固馬斯克對合併後公司的絕對控制權。此舉不僅能整合機器人與算力基礎設施，更確保了馬斯克在決策中的主導地位，避免股權稀釋風險，是其帝國整合的關鍵策略。\n\nTakeaways:\n1. SpaceX 與特斯拉合併的核心動機在於取得絕對的經營控制權，透過 SpaceX 的雙層股權結構（B 股擁有 10 倍投票權），合併後可將創辦人的投票權鞏固至 70% 以上，從根本上杜絕被董事會撤換的風險。\n2. 華為提出的「韜定律」（Tau Scaling）並非突破先進製程瓶頸的技術革命，而是為了應對無法取得 EUV 微影設備的政治與現實壓力，透過 3D 堆疊與高速互聯等系統級優化，試圖在現有製程限制下維持效能競爭力。\n3. 大型科技公司對 AI 算力的巨額資本支出已具備「備援機制」，若內部 AI 產品需求成長不如預期，企業可隨時轉型為算力租賃服務商（CSP），將過剩的 GPU 產能轉化為現金流，以確保資本效率。\n4. 消費級 AI 訂閱制的成功關鍵在於「工作流整合」，使用者對於額外付費訂閱獨立 AI 工具的意願極低，唯有將 AI 功能無縫嵌入現有社群應用（如直接在 App 內完成修圖或影片生成），才能有效提升用戶的付費轉換率。\n5. 特斯拉與 SpaceX 的合併邏輯已從傳統的產業互補演變為 AI 戰略整合，前者專注於「物理 AI」（機器人與 Optimus），後者則提供「數位 AI」基礎設施與算力，兩者的結合能實現更完整的 AI 生態閉環。\n6. 傳統股權激勵方案在公開市場中難以實現絕對控制，即便透過天價薪酬方案增加持股比例，仍無法達到過半的投票權，因此透過併購具備特殊股權架構的企業，成為創辦人確保長期治理權的唯一有效路徑。\n",
+    "keywords": [
+      "韜定律 (Tau Scaling)",
+      "EUV (極紫外光)",
+      "摩爾定律 (Moore's Law)",
+      "3D 封裝 (3D Packaging)",
+      "NVLink",
+      "多模態 (Multimodal)",
+      "S-1 文件 (S-1 Filing)",
+      "DUV (深紫外光)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "META",
+      "company_name": "Meta Platforms (Meta)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "米勒認為市場過度擔心 Meta 的 AI 資本支出，但這些算力隨時可轉租出去（如同馬斯克出租 Colossus），所以 CapEx 不是問題；先前資本市場給 Meta 的扣分已校正回歸，不需要擔心。",
+      "target_price": null,
+      "evidence_quote": "不要擔心 Meta 的 CapEx 啊，那再怎麼樣再怎麼樣都可以再轉賣出去的",
+      "evidence_timestamp": "42:04",
+      "speaker": "Miula"
+    }
+  ]
+}

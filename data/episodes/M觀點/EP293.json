@@ -1,0 +1,80 @@
+{
+  "episode": {
+    "episode_id": "7728758",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7728758",
+    "podcast_name": "M觀點",
+    "title": "EP293. Anthropic 超強模型 Mythos、特斯拉英特爾合作、Meta 交成績單了 | M觀點",
+    "publish_date": "2026-04-09",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了近期科技產業的三大熱門話題。首先，深入分析了 Anthropic 與 Google 及 Broadcom 深化合作的 TPU 算力交易，以及 Anthropic 營收年增長率超越 OpenAI 的現象，並探討了 Anthropic 最新模型 Mythos 的潛在風險與影響。接著，討論了特斯拉與 Intel 在 TeraFab 晶圓代工廠的合作，分析了此合作對雙方的益處，以及特斯拉垂直整合可能帶來的成本優勢。最後，分析了 Meta 新推出的 Muse Spark 模型，及其在 AI 智能眼鏡市場的戰略意義，以及 Meta 在 AI 領域的最新進展，儘管面臨來自 OpenAI 和 Google 的競爭，Meta 仍有望在 AI 領域保持競爭力。\n\nTakeaways:\n1. Anthropic 之所以還未正式發布其名為 Mythos 的最新模型，是因為該模型強大的程式編碼能力可能被駭客利用，找出並攻擊網路軟體的系統漏洞。\n2. Anthropic 的 ARR（年度經常性收入）已超過 3 億美元，超越 OpenAI，這主要歸功於其在 Agentic Workflow 應用方面的卓越表現。\n3. 儘管 OpenAI 在去年年初積極擴張算力，但 Anthropic 在算力上的謹慎策略，反而使其在 Agentive Workflow 領域獲得了更大的爆發性成長。\n4. 特斯拉與英特爾在 TERRAFAB 上的合作，對雙方而言是雙贏，特斯拉可藉此快速建立 2 奈米晶片生產能力，英特爾則能將其 18A 製程技術的研發成本轉嫁出去。\n5. Meta 最新的 Muse Spark 模型在 AI 評測網站 Artificial Analysis 上排名第四，顯示 Meta 在 AI 研發上已成功追趕上領先者，與前沿模型的差距縮小至三個月左右。\n6. Meta 在 Muse Spark 模型中特別強化了多模態（Multimodal）和健康（Health）能力，這主要是為了其 AI 智能眼鏡的應用場景做優化。\n7. Michael Burry 認為 Anthropic 的模型會威脅到 Palantir 的業務是錯誤的，Anthropic 的模型和 Palantir 的系統更多是互補關係，而非直接競爭。\n8. 儘管輝達的 GPU 在 AI 算力方面表現出色，但 Anthropic 在選擇算力供應商時，可能更傾向於 Google 的 TPU 和亞馬遜的 Trainium，因為它們的成本可能相對較低。\n9. 即使到 2028 年，特斯拉 TERRAFIB 的晶片生產成本高於台積電，但由於特斯拉是垂直整合，可以吸收毛利率的差異，因此總體而言仍然划算。",
+    "keywords": [
+      "Anthropic",
+      "Mythos",
+      "TeraFab",
+      "Annualized Revenue Run Rate (ARR)",
+      "Meta Super Intelligence Lab (NSL)",
+      "Muse Spark",
+      "Agentive Workflow",
+      "GPT-6",
+      "Gemini",
+      "Grok 4.20",
+      "PowerVi",
+      "Multimodal"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir (帕蘭泰爾)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "反駁 Michael Burry 看空 Palantir 的觀點，認為 Anthropic 的模型與 Palantir 系統是互補而非競爭，模型越強 Palantir 反而越受益；他本人在節目前還繼續加碼。",
+      "target_price": null,
+      "evidence_quote": "我知道今天 Palantir 的題很多，剛剛節目前我才繼續加碼一點，",
+      "evidence_timestamp": "06:42",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "INTC",
+      "company_name": "Intel (英特爾)",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "認為 Intel 的晶圓代工 (Foundry) 與 18A 製程是稀有的關鍵資產，價值被低估、甚至比 CPU 部門更有價值；與特斯拉 TeraFab 合作還能帶來技術授權與服務的高毛利收入。",
+      "target_price": null,
+      "evidence_quote": "現在大家開始慢慢看懂，說 intel 的 foundry 的部門可能比他的 cpu 部門可能更有價值。",
+      "evidence_timestamp": "52:14",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "Tesla (特斯拉)",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "看好特斯拉與 Intel 合作打造的 TeraFab 晶圓廠，認為垂直整合能吸收較低良率的成本差異、確保自有先進製程產能，計畫會成功，不認同外界唱衰。",
+      "target_price": null,
+      "evidence_quote": "可是我真的不覺得馬斯克搞不起來，我覺得他搞得起來。",
+      "evidence_timestamp": "45:46",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "逆風看好 Meta，認為其 Muse Spark 模型已成功追上前沿 (Artificial Analysis 排名第四、與 Opus 4.6 分數相近)，可確保其 AI 智能眼鏡市場不被 Google 打趴。",
+      "target_price": null,
+      "evidence_quote": "他當然就做得出模型，所以他現在基本上我覺得他是真的已經追上，他沒有超過，可是他已經追到差不多的位置。",
+      "evidence_timestamp": "1:00:10",
+      "speaker": "Miula"
+    }
+  ]
+}

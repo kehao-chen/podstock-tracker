@@ -1,0 +1,91 @@
+{
+  "episode": {
+    "episode_id": "7931564",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7931564",
+    "podcast_name": "M觀點",
+    "title": "EP301. PLTR 會被打敗嗎、SpaceXAI 算力出租中、輝達台北 GTC | M觀點",
+    "publish_date": "2026-05-08",
+    "language": "Traditional-Chinese",
+    "summary": "Palantir 憑藉深厚的企業實戰經驗與「模型中立性」，在企業 AI 應用領域建立起 OpenAI 與 Anthropic 難以複製的競爭護城河。儘管市場擔憂 AI 模型實驗室的崛起會威脅其地位，但 Palantir 透過 AIP 與 Foundry 平台提供的「Alpha」級決策支援，遠超標準化模型所能達到的水準。同時，馬斯克將 SpaceX 的算力租賃給 Anthropic，不僅是為了挹注 SpaceX IPO 前的營收，更意在透過資源調度牽制 OpenAI 的發展。此外，NVIDIA 即將舉辦的 GTC Taipei 聚焦於 AI 代理、物理 AI 與製造業轉型，為台灣企業提供關鍵的實作經驗與產業交流機會，展現 AI 基礎設施在未來生產力革命中的核心地位。\n\nTakeaways:\n1. Palantir 的核心競爭力在於其「Harness」（駕馭框架）與「Ontology」（本體論）層，這些層面捕捉了企業營運中極其關鍵的邊緣場景與實戰經驗，這是單純依靠 AI 模型與管理顧問公司無法複製的護城河。\n2. 企業 AI 應用市場存在「Alpha」與「Beta」之分：Palantir 專注於解決標準答案之外的複雜問題（Alpha），而大多數 AI 公司與顧問公司則致力於提供符合大眾共識的標準化解決方案（Beta）。\n3. 模型中立性是企業級 AI 平台的關鍵優勢，透過在同一工作流程中針對不同任務調用最適合的模型（如 OpenAI、Anthropic 或本地端模型），能顯著提升決策的精準度與成本效益。\n4. 大規模算力基礎設施的投資具有「下檔保護」特性，當企業內部需求未達預期時，閒置的算力可透過出租給其他 AI 公司獲取高額利潤，將資本支出轉化為穩定的現金流。\n5. 企業 AI 系統的長期競爭力取決於「產品回饋循環」，即系統在實際營運中處理失敗與錯誤的能力，這種透過實戰不斷優化的機制，遠比單純的技術模型領先更難被追趕。\n6. 當前 AI 引發的生產力革命屬於人類文明史等級的變革，其對經濟成長斜率的影響遠超短期市場過熱的擔憂，這預示著未來十年將是生產力驅動的長線大多頭行情。\n7. 「Rule of Forty」（成長率與營業利益率之和）是衡量軟體公司健康度的黃金指標，頂尖 AI 企業目前展現出的數值（如 145）已遠超傳統軟體產業的標準，顯示出極高的營運效率。\n8. 企業導入 AI 的成敗關鍵在於「責任鏈與信任鏈」的建立，當 AI 公司與顧問公司採取雙頭馬車式的合作時，往往會因利益衝突導致產品回饋機制斷裂，進而削弱系統的長期進化能力。",
+    "keywords": [
+      "Palantir",
+      "Ontology",
+      "FDE (Forward Deployed Engineer)",
+      "Rule of Forty",
+      "Alpha",
+      "Beta",
+      "Harness",
+      "Agentive Workflow",
+      "XAI",
+      "OpenAI"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "本季財報極漂亮（營收年增 84.7%、Rule of 40 達 145、淨營收留存率 150%），且憑藉 Harness/Ontology、模型中立性與企業文化等護城河，不會被 OpenAI、Anthropic 打敗；Miula 續抱並認為 PLTR 終究是贏家。",
+      "target_price": null,
+      "evidence_quote": "那 Palantir 我還是比較有信心就抱住他吧，就抱住他，但是我覺得我也可能錯，",
+      "evidence_timestamp": "1:27:17",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "雖被酸微軟股價長期表現差、付出機會成本，但這次財報重新研究後仍認為微軟沒有問題，以價值投資的心態續抱。",
+      "target_price": null,
+      "evidence_quote": "對，可是我跟你講，我這次裁判完之後，我又認真看完一次微軟，我還是覺得微軟沒有問題啊。所以呢，我也只能抱著微軟，我只能抱住它。",
+      "evidence_timestamp": "10:14",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "市場連兩季因 CapEx 加大而看壞 Meta，Miula 認為這種看法是錯的；龐大算力為智能眼鏡與 AI Agent 的成功預留空間，且閒置算力可出租具下檔保護，不必替 Meta 擔心。",
+      "target_price": null,
+      "evidence_quote": "你知道我之前 Meta,Meta 已經連續兩季加大 CAPEX 市場都給他大跌，我就一直給他大跌，這是錯的啦。",
+      "evidence_timestamp": "1:11:39",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "輝達 (NVIDIA)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "即使面對 TPU、Trainium 等 ASIC 競爭，整體 AI 算力市場成長仍高過任何單一廠商能吃下的份額，故 NVIDIA GPU 仍會大幅成長，可繼續抱住。",
+      "target_price": null,
+      "evidence_quote": "那或者是輝達的 GPU 面對 TPU 面對 Trainer，他還是可以成長啊，因為 AC 的確搶市場，可是因為整個市場成長還是高過高過任何一家能夠喫的，所以 NVIDIA GPU 還是大成長。",
+      "evidence_timestamp": "54:18",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "SE",
+      "company_name": "Sea Limited",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "low",
+      "rationale": "順帶提及，雖然 SE 到現在還沒漲回來、願意承擔被罵，但他對這檔仍蠻有信心、續抱。",
+      "target_price": null,
+      "evidence_quote": "就像 SE 到現在還沒漲回來，你要罵，我也摸摸鼻子啊，對不對？可是我我對他是蠻有信心的啊，",
+      "evidence_timestamp": "1:27:43",
+      "speaker": "Miula"
+    }
+  ]
+}

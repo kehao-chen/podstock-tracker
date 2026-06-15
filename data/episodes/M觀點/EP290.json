@@ -1,0 +1,67 @@
+{
+  "episode": {
+    "episode_id": "7656778",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7656778",
+    "podcast_name": "M觀點",
+    "title": "EP290. 美國科技股怎麼看、社群巨頭的兒少責任、Siri 不再只有 GPT | M觀點",
+    "publish_date": "2026-03-30",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了美國科技股近期的下跌原因及未來走向，Miula 認為此波下跌是多重因素疊加的結果，包括市場對 AI 資本支出的擔憂、AI Agent 對軟體產業的潛在顛覆，以及美伊戰爭等地緣政治風險。Miula 分析了美伊戰爭的可能走向，判斷美國將持續對伊朗施壓，直至其放棄威脅。\n針對 AI 的長期影響，Miula 雖看好 AI 帶來的生產力提升，但也對其可能顛覆現有經濟框架表示擔憂，她同時分享了對微軟等科技巨頭在 AI 時代的發展前景的看法，以及個人應對策略。Miula 也談及社群媒體對青少年影響的議題，她反對短影音，並提倡家長應培養孩子多元興趣，而非僅僅管制。最後，Miula 評論蘋果公司在 AI 浪潮下的策略選擇，認為其選擇打「安全牌」，穩守既有優勢。\n\nTakeaways:\n1. 美國科技股的回檔是多重事件疊加造成的，包括 AI 資本支出的憂慮、AI Agent 對軟體產業的潛在顛覆，以及美以伊戰爭等地緣政治風險。\n2. 美國與伊朗的衝突，最終可能需要伊朗在放棄威脅荷姆茲海峽的前提下，以某種形式「投降」才能結束。\n3. 伊朗的飛彈和無人機攻擊能力正在被逐步削弱，因為每次發射都會暴露其發射基地位置，導致基地被摧毀。\n4. 儘管 AI 有潛力提升生產力，但它也可能對產業現狀造成巨大顛覆，為股市帶來不確定性和波動。\n5. 軟體股目前面臨的不確定性，源於投資者難以判斷哪些公司將在 AI 時代受益、哪些將受害。\n6. 即使 AI 技術進步，人類社會仍傾向於將 AI 的生產力壓縮到現有的經濟框架內，以維持社會穩定。\n7. 短影音作為一種娛樂形式，其壞處遠高於好處，父母應嚴格限制孩子接觸。\n8. 傳統社群媒體對青少年有正反兩面的影響，父母應以正面的心理教育引導孩子，而非完全禁止。\n9. 蘋果公司採取安全策略，透過 Siri 整合其他大型語言模型，確保能穩穩賺取通路財，但這並非突破性的創新策略。\n10. 政府應要求社群媒體平台提供更好的機制，讓家長可以管控孩子的使用行為，而非直接規定平台如何運作。",
+    "keywords": [
+      "CAPEX (資本支出)",
+      "S&P 500 (標準普爾500指數)",
+      "NASDAQ (納斯達克指數)",
+      "AI Agent (AI代理)",
+      "Section 230",
+      "WWDC (蘋果全球開發者大會)",
+      "OpenAI",
+      "ChatGPT",
+      "Gemini",
+      "Claude",
+      "霍爾木茲海峽",
+      "00692"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "00692.TW",
+      "company_name": "富邦公司治理 / 標普美國高科技 ETF (00692)",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 表示他自己的帳戶仍持續定期買進 00692 這檔追蹤美股高科技指數的 ETF，作為長期分散持有的配置。",
+      "target_price": null,
+      "evidence_quote": "有人說我還在買 00692，有啊，我還是有買 00692，我自己的帳戶啦，",
+      "evidence_timestamp": "1:14:51",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "0050.TW",
+      "company_name": "元大台灣50 (0050)",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "因女兒的基金平台沒有 00692 可買，Miula 改幫女兒帳戶買進 0050，作為長期持有的指數配置。",
+      "target_price": null,
+      "evidence_quote": "因為我女兒的那個基金平臺沒有 00692 可以買，所以我是幫她買 0050",
+      "evidence_timestamp": "1:14:55",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "微軟雖年初至今跌 26%，但 Miula 認為其生產力業務 (Microsoft 365) 掌握企業 AI 入口、Azure 雲端持續成長，除非經濟框架被顛覆否則競爭優勢難以動搖，故未特別看壞、續抱。",
+      "target_price": null,
+      "evidence_quote": "我覺得除非未來經濟狀況出現巨大的改變，否則微軟的 productivity 部分應該還是會掌握整個企業界的。",
+      "evidence_timestamp": "53:45",
+      "speaker": "Miula"
+    }
+  ]
+}

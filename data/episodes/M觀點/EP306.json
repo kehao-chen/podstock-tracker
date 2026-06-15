@@ -1,0 +1,78 @@
+{
+  "episode": {
+    "episode_id": "8065863",
+    "episode_url": "https://podwise.ai/dashboard/episodes/8065863",
+    "podcast_name": "M觀點",
+    "title": "EP306. 星艦 V3 首飛成功、Anthropic 獲利傳聞、艾克曼看好微軟 | M觀點",
+    "publish_date": "2026-05-25",
+    "language": "Traditional-Chinese",
+    "summary": "SpaceX 的 Starship V3 試射成功標誌著太空運輸成本降低的關鍵里程碑，為太空資料中心業務奠定基礎。Anthropic 憑藉企業級 AI 需求實現營收成長，其高估值反映了市場對其 Agentive Workflow 能力的認可。微軟則憑藉企業軟體生態系統的護城河，結合 Azure 與 Copilot 的整合，展現出強大的市場韌性；即便面對 AI 成本上升質疑，其在企業治理與權限控管上的優勢使其難以被取代。科技產業正從單純的算力競爭，轉向模型效能與企業應用場景的深度整合，企業軟體與基礎設施的長期價值依然穩固。\n\nTakeaways:\n1. Starship 的成功發射不僅是工程突破，更關鍵在於其預期能將發射成本降低至原有的 5%，這是實現「太空資料中心」商業模式的必要前提。\n2. 企業軟體（如 Microsoft 365）的護城河並非單純的功能優勢，而是深植於企業運作中的身份認證、安全規範與合規治理，這些架構極難被單一 AI 模型取代。\n3. AI 企業應用的未來趨勢是「分層模型策略」，即將複雜任務交由頂尖模型處理，其餘 80% 的常規工作則由高 CP 值的輕量模型執行，以優化成本結構。\n4. 微軟的市場競爭邏輯類似麥當勞，其產品未必是技術層面最優，但憑藉強大的企業通路與生態整合能力，使其在長期競爭中始終能穩固市佔。\n5. AI 公司的獲利關鍵在於能否精準切入企業端需求並維持高定價，而非僅依賴燒錢擴張的消費者端 chatbot 業務。\n6. 投資組合中應將 SpaceX 與 Tesla 視為同一風險額度，因為兩者皆屬於馬斯克概念股，且兩家公司在未來極可能發生業務整合。\n7. AI 模型取代軟體的論述存在誤區，AI 的最終價值在於操作軟體而非消滅軟體，這也是為何資料中心對 CPU 的需求依然強勁的根本原因。",
+    "keywords": [
+      "Starship",
+      "Anthropic",
+      "Bill Ackman",
+      "Hot Staging",
+      "Splashdown",
+      "Microsoft 365",
+      "Forward PE",
+      "13F",
+      "Azure",
+      "Copilot"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "認同 Bill Ackman 的看多論點：微軟 forward PE 僅 21 倍（過去平均約 30 倍）明顯偏低；Microsoft 365 的身份認證/權限治理（identity、security、compliance）與 Azure 雲端皆是難被 AI 取代的護城河，市場對 CAPEX 與「AI 取代軟體」的擔憂都是錯的，估值被低估。",
+      "target_price": null,
+      "evidence_quote": "所以現在 21 倍多便宜啊，這個打七折啊，不買嗎？",
+      "evidence_timestamp": "51:22",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "0050.TW",
+      "company_name": "元大台灣50",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "決定把台股 ETF 部位從 00692 換成 0050，未來十到十五天慢慢轉換；理由是 0050 現在費用率已低於 00692、成交量較大流動性較佳，且長期績效兩者幾乎相同。",
+      "target_price": null,
+      "evidence_quote": "我有點考慮要把 0 06 92 換成 00 50，那我最後已經決定要換，所以未來的 maybe 十天十五天，我就會慢慢把我手頭的 0 06、 92 的部分都換成 00 50.",
+      "evidence_timestamp": "09:24",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "00692.TW",
+      "company_name": "富邦公司治理",
+      "market": "TW",
+      "stance": "sell",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "決定賣出手中的 00692，換成 0050；主因 00692 近年交易量下滑、且費用率已不再低於 0050（原本的最大優點消失），長期績效兩者差異在 1% 以內。",
+      "target_price": null,
+      "evidence_quote": "我有點考慮要把 0 06 92 換成 00 50，那我最後已經決定要換，所以未來的 maybe 十天十五天，我就會慢慢把我手頭的 0 06、 92 的部分都換成 00 50.",
+      "evidence_timestamp": "09:24",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "面對市場擔心資金從特斯拉轉去買即將 IPO 的 SpaceX，Miula 認為短期資金進出不影響公司長期價值，長期價值若在股價終會回來，並把特斯拉與 SpaceX 視為同一馬斯克概念股額度續抱（且認為 SpaceX 兩年內會併購特斯拉）。",
+      "target_price": null,
+      "evidence_quote": "但是我覺得你還是要專注看某間公司的價值，短期的這種資金要買或不買，其實都不會影響。這間公司的長期價值，所以長期價值如果在。價格終究還是會回來的",
+      "evidence_timestamp": "33:21",
+      "speaker": "Miula"
+    }
+  ]
+}

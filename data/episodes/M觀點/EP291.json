@@ -1,0 +1,65 @@
+{
+  "episode": {
+    "episode_id": "7681342",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7681342",
+    "podcast_name": "M觀點",
+    "title": "EP291. 微軟推進多模型、OpenAI 最後募資、Claude Code 外洩事件 | M觀點",
+    "publish_date": "2026-04-02",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了科技巨頭的動態與產業趨勢，聚焦於微軟、OpenAI 和 Anthropy 三大公司。首先，分析了微軟 Copilot AI 的新功能，特別是 Critic 和 Console 如何透過多模型協作強化 Deep Research，並引用 Perplexity 的 Benchmark 數據佐證其效能提升。接著，討論 OpenAI 最新一輪募資及其 IPO 前景，揭示其營收高速成長，但也點出與微軟在 AWS 合作上的潛在衝突。最後，分析 Anthropy 的 Claude Code 原始碼外洩事件，強調這可能加速競爭對手在 Agentive Workflow 上的追趕，並以餐廳食譜為例，說明細節資訊的重要性。\n\nTakeaways:\n1. 微軟 Copilot 透過 Critic 功能結合 OpenAI 的 GPT 與 Anthropic 的 Claude 模型，大幅減少 AI 幻覺並增加事實可靠性，從而強化深度研究報告的品質。\n2. 微軟 Copilot 的 Conceal 功能同時使用 GPT 和 Claude 模型，並列呈現報告，比較兩者觀點的異同，協助使用者整合資訊，展現微軟擁有多模型的優勢。\n3. 川普政府對伊朗的策略是透過軍事打擊削弱其海空軍及核設施重建能力，意圖在 60 天內促使伊朗談判或內部出現反對勢力。\n4. OpenAI 的 Frontier 平台允許企業在 AWS 雲端環境中直接使用 OpenAI 模型，無需透過微軟 Azure 的 API，此舉可能引發微軟的不滿。\n5. OpenAI 的 Pre-IPO 募資總額達 1220 億美元，為美國科技史上最大規模，反映市場對其未來成長的高度期望。\n6. Anthropic 的 Claude Code 原始碼外洩事件，雖然不涉及模型本身，但使競爭對手得以加速理解其 Agentive Workflow 的實作細節，從而縮短追趕差距。\n7. OpenAI 年營收雖快速成長，但與 Anthropic 的差距正在縮小，顯示 AI 模型市場競爭激烈，各家公司都在快速發展。\n8. 投資 AI 模型公司應分散投資，同時持有 OpenAI、Anthropic、XAI、Google、微軟及亞馬遜等公司的股份，以降低風險。\n9. 孫正義將其人生下半場的賭注壓在 OpenAI 上，若 OpenAI 成功，他將完美落幕，但若失敗，可能將過去的成功都抹滅。",
+    "keywords": [
+      "Copilot AI",
+      "OpenAI",
+      "Anthropy",
+      "Claude Code",
+      "GPT (Generative Pre-trained Transformer)",
+      "Azure",
+      "Grok",
+      "年益收束率",
+      "Frontier",
+      "Agentive Workflow"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "微軟是他十幾年的主力持股，過去一年股價爛讓他失望；但他認為這次 Copilot 走多模型策略（Critique/Conceal 整合 GPT 與 Claude）方向正確，且公司重整 AI 團隊把產品與研發分開，因此對微軟可以更加期待一點。",
+      "target_price": null,
+      "evidence_quote": "我覺得整體來講是正確的方向啦。 所以我們接下來對微軟可以更加的期待一點點。",
+      "evidence_timestamp": "39:01",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "谷歌 (Alphabet/Google)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "他建議若要押注 AI 大型模型公司就分散都買一點點，在 10% 的 AI 模型部位中 Google 配置約 2%；他認為這些公司他大多本來就有了。",
+      "target_price": null,
+      "evidence_quote": "你可能 OpenAI 放 2%,Android 放 2%,Spaces 放 2%,Google 放 2%，微軟跟亞馬遜各放 1%,",
+      "evidence_timestamp": "58:29",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "亞馬遜 (Amazon)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "在 AI 模型分散配置中亞馬遜約佔 1%（三大雲之一、也有自己的 Nova 模型且可放開源模型），加上亞馬遜這輪投資 OpenAI 並拿到 Frontier 平台獨家，他整體偏正面。",
+      "target_price": null,
+      "evidence_quote": "你可能 OpenAI 放 2%,Android 放 2%,Spaces 放 2%,Google 放 2%，微軟跟亞馬遜各放 1%,",
+      "evidence_timestamp": "58:29",
+      "speaker": "Miula"
+    }
+  ]
+}

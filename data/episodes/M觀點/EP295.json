@@ -1,0 +1,132 @@
+{
+  "episode": {
+    "episode_id": "7773471",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7773471",
+    "podcast_name": "M觀點",
+    "title": "EP295. OpenAI 關鍵抉擇、AI 裁員末日論、美股突然間創新高 | M觀點",
+    "publish_date": "2026-04-17",
+    "language": "Traditional-Chinese",
+    "summary": "科技產業正處於關鍵轉折點，OpenAI 透過內部備忘錄揭露其開發代號為「Spot」的新模型，旨在強化推理能力與指令穩定性，以搶攻企業級代理式工作流（Agentic Workflow）市場，並試圖透過與亞馬遜合作突破微軟的生態限制。與此同時，AI 引發的裁員潮引發經濟崩潰擔憂，學術界提出的「AI 裁員陷阱」模型顯示，企業在自動化軍備競賽中會面臨外部性問題，僅能透過針對自動化任務課徵「庇古稅」（Pigouvian tax）來緩解。儘管 AI 發展帶來失業風險，但市場仍預期 AI 基礎設施將成為未來十年最重要的成長動能，投資人應關注算力需求與生產力革命帶來的長期結構性變革。\n\nTakeaways:\n1. OpenAI 正在透過代號為「Spot」的新模型，將技術重心轉向企業級的「代理式工作流」（Agentic Workflow），試圖在企業 AI 應用市場中奪回被 Anthropic 佔據的份額。\n2. 企業 AI 競爭的核心已從單一模型的效能比拼，轉向「駕馭工程」（Harnessing Engineering）的系統整合能力，即如何將 AI 深度嵌入企業既有的營運決策流程中。\n3. AI 裁員帶來的經濟風險並非單純的失業問題，而是企業在自動化軍備競賽中，因忽視勞工收入減少導致消費力萎縮，進而引發整體經濟崩潰的「裁員陷阱」。\n4. 針對 AI 自動化任務課徵「算力稅」（Pigouvian Tax）是目前理論上唯一能抑制企業過度自動化、防止經濟崩潰的機制，但其在現實執行層面面臨極高的稅務認定與跨國分配挑戰。\n5. OpenAI 與微軟的合作關係正處於微妙的轉折點，OpenAI 為了獲取亞馬遜雲端（AWS）龐大的企業客戶群，正積極尋求在微軟 Azure 以外的平台部署服務，這反映了其對擺脫單一雲端綁定的迫切需求。\n6. AI 時代的消費者端（2C）與企業端（2B）應用在模型訓練需求上存在本質衝突，OpenAI 目前在兩者之間搖擺，尚未能明確定義其核心業務主線。\n7. 人類在 AI 時代的獨特價值在於產生「高商值資料」（High-Value Data），這類具備高變異度與創造力的資料，是 AI 模型突破現有瓶頸、實現持續進化的關鍵燃料。\n8. 未來十年，全球股市可能進入「兩萬點至三萬點」的新常態，AI 引發的生產力革命將使過去的指數上限轉化為未來的市場底線。",
+    "keywords": [
+      "OpenAI",
+      "Agentic Workflow (代理式工作流)",
+      "Anthropic",
+      "Palantir",
+      "GPT-6",
+      "ARR (年度經常性收入)",
+      "主權 AI (Sovereign AI)",
+      "AI 裁員陷阱 (AI Layoff Trap)",
+      "庇古稅 (Pigouvian Tax)",
+      "UBI (全民基本收入)",
+      "CAPEX (資本支出)",
+      "FUD (恐懼、不確定與懷疑)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "SPY",
+      "company_name": "S&P 500 指數 (SPDR S&P 500 ETF)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "對個股沒信心的人就買指數並長期報住，他看好 AI 生產力革命是未來十年最大成長動能，認為 S&P500 長線會從上限變底線、十年內有機會上看兩三萬點。",
+      "target_price": null,
+      "evidence_quote": "那沒關係，有報指數嘛。就報指數好不好，就報指數。",
+      "evidence_timestamp": "1:23:52",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "亞馬遜 (Amazon)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "亞馬遜 CEO 賈西揭露 Graviton CPU 供不應求、自家要用無法外賣，是終結市場對 AI CAPEX 過度投資擔憂的最後一根釘子，四月以來股價已大漲，三大公有雲全部走出來。",
+      "target_price": null,
+      "evidence_quote": "我覺得，第一個，亞馬恩尼傑西這個股東，我覺得是棺材蓋上的最後一釘啊，就是說，不要再擔心 KPEX 買太多",
+      "evidence_timestamp": "1:13:57",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "NBIS",
+      "company_name": "Nebius (節目稱 Navios)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "他自己有買的 NeoCloud 純算力 CAPEX 股，看好 AI 算力供不應求，四月以來已大漲約六成。",
+      "target_price": null,
+      "evidence_quote": "尼歐克拉最有名的兩家，Coldwave 跟 Navios 我自己有買 Navios,所以我知道 Navios 他光四月份到現在就漲 60 %,",
+      "evidence_timestamp": "1:15:11",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "MU",
+      "company_name": "美光 (Micron)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "三月底建倉的 AI Infra 股之一（記憶體），看好建置大量算力對相關硬體的需求，買進後已漲好幾十趴。（逐字稿轉成 NU，實為他先前明講的 MU 美光記憶體。）",
+      "target_price": null,
+      "evidence_quote": "包含像 MU 記憶體，美光嘛，這個是高速的銅傳輸線然後這個 Retieve VRT 這個散熱那 Coherent 這個是光通訊",
+      "evidence_timestamp": "1:16:57",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "CRDO",
+      "company_name": "Credo Technology",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "三月底建倉的 AI Infra 股之一（高速銅傳輸線/互連），看好 AI 算力基建需求，買進後已漲好幾十趴。",
+      "target_price": null,
+      "evidence_quote": "所以這一次就趁三月底的第一天就買了 NU,買 Credo,買了 Retive,買了 Coherent.",
+      "evidence_timestamp": "1:17:50",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "VRT",
+      "company_name": "Vertiv (節目稱 Retive/VRT 散熱)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "三月底建倉的 AI Infra 股之一（資料中心散熱），看好 AI 算力基建需求，買進後已漲好幾十趴。",
+      "target_price": null,
+      "evidence_quote": "所以這一次就趁三月底的第一天就買了 NU,買 Credo,買了 Retive,買了 Coherent.",
+      "evidence_timestamp": "1:17:50",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "COHR",
+      "company_name": "Coherent",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "三月底建倉的 AI Infra 股之一（光通訊），看好 AI 算力基建需求，買進後已漲好幾十趴。",
+      "target_price": null,
+      "evidence_quote": "所以這一次就趁三月底的第一天就買了 NU,買 Credo,買了 Retive,買了 Coherent.",
+      "evidence_timestamp": "1:17:50",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir (節目稱 Parenteer)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "他研究後認為 OpenAI 的 Frontier 平台與 Palantir 的 Foundry/AIP 不是同一等級，對 Palantir 的競爭威脅很有限，藉此安撫擔心 Palantir 被取代的持有人。",
+      "target_price": null,
+      "evidence_quote": "所以我覺得這個 Parenteer 的威脅是很有限的，",
+      "evidence_timestamp": "36:37",
+      "speaker": "Miula"
+    }
+  ]
+}

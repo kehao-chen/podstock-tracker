@@ -1,0 +1,30 @@
+{
+  "episode": {
+    "episode_id": "7712864",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7712864",
+    "podcast_name": "M觀點",
+    "title": "EP292. SpaceX 即將 IPO、微軟與谷歌新模型、阿提米絲二號任務 | M觀點",
+    "publish_date": "2026-04-07",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討 SpaceX 的 IPO、科技巨頭的新模型以及阿提米絲二號任務。節目分析了 SpaceX 的 IPO 估值可能高達 1.75 到 2 兆美元，並預測 SpaceX 可能在上市後併購特斯拉，以解決馬斯克對特斯拉控制權的擔憂。同時，節目也討論了 Google 的 Gemma 4 模型和微軟的 NAI 系列模型，特別是微軟的 NAI Transcribe-1 在語音轉文字方面的優勢。此外，節目還介紹了美國 NASA 的阿提米絲二號任務，儘管 SpaceX 本次沒有參與，但未來將在阿提米絲三號和四號任務中扮演重要角色，並預期 SpaceX 的 Starship V3 將在未來的太空探索中發揮關鍵作用。\n\nTakeaways:\n1. SpaceX 在 IPO 後可能將併購特斯拉，藉由 SpaceX 的雙重股權結構，馬斯克可鞏固對合併後公司的控制權，解決其長期以來對特斯拉控制權的擔憂。\n2. SpaceX 的 IPO 估值可能被高估，目前業務或許僅值一兆美元，其餘估值反映了市場對太空資料中心和太空經濟等未來夢想的期待。\n3. 儘管美伊戰爭可能帶來短期市場波動，但 AI 仍是長期主旋律，不應過度關注戰爭雜訊。\n4. Google 的 Gemma 4 模型雖小，但在開放模型中表現強勁，為不願使用中國模型的企業提供了一個歐美替代方案。\n5. 美國 NASA 的阿提米絲二號任務由波音和洛克希德馬丁主導，反映了政治考量，旨在照顧各州就業，但長期來看，SpaceX 的 Starship 更有可能成為主要太空運輸方案。\n6. 微軟新推出的 MAI Transcribe-1 模型在語音轉文字方面表現出色，在多種語言中超越 OpenAI 的 Whisper 和 Google 的 Gemini，且價格更具競爭力。\n7. SpaceX 的 Starship V3 改版幅度大，引擎推力提升且重量減輕，預計將大幅提升載重能力，但初期試飛可能仍面臨挑戰。\n8. 股票市場的財富可以憑空創造，股價上漲不完全依賴資金流入，一股高價成交即可推高公司市值。",
+    "keywords": [
+      "SpaceX",
+      "IPO (首次公開募股)",
+      "OpenAI",
+      "Databricks",
+      "Stripe",
+      "NordVPN",
+      "F-15E",
+      "NASA 阿提米絲二號任務",
+      "Starlink",
+      "XAI",
+      "EBITDA (息税折旧摊销前利润)",
+      "双重股权结构",
+      "ALL IN PODCAST",
+      "Gemini",
+      "Whisper"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": []
+}

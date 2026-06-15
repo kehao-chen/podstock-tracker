@@ -1,0 +1,52 @@
+{
+  "episode": {
+    "episode_id": "7554176",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7554176",
+    "podcast_name": "M觀點",
+    "title": "EP287. 輝達 GTC 發表重點、OpenAI 砍掉支線、Agent 外殼大戰 | M觀點",
+    "publish_date": "2026-03-19",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了科技產業的最新趨勢與發展。首先深入分析了輝達（NVIDIA）GTC 大會上黃仁勳的主題演講，重點在於 Agentic AI 如何引領 AI 運算需求爆發性成長，並介紹了輝達的 AI 工廠概念及其產品 Vera Rubin 平台。接著，討論了 OpenAI 將重新專注於主線任務，減少支線任務的策略調整，以應對競爭壓力。最後，探討了 Agent Harness（AI 外殼）的崛起，分析了它如何提升 AI 的數位員工能力，並提及 Manus 的 MyComputer 等產品實例，強調了 AI 時代軟體不會被取代，而是與 AI 協同運作的觀點。\n\nTakeaways:\n1. Agentic AI 時代的來臨，將使 AI 在進行推論時的運算需求成長一萬倍，使用次數也將多一百倍，世界所需的運算需求比起幾年前已是一百萬倍的概念。\n2. 輝達正在將其公司從 AI GPU 供應商轉型為全方位的 AI 基礎設施供應商，提供包括 GPU、CPU、DPU、LPU 以及相關的機櫃級解決方案。\n3. 未來的資料中心將以 GPU 為中心，GPU 成為運算的核心，而 CPU、DPU、LPU 等則作為輔助，這與過去以 CPU 為中心的架構有很大的不同。\n4. LPU 適合處理高價值、需要快速回應的 AI 推論需求，透過與 GPU 協同運算，可大幅加速複雜運算並創造更高的營收。\n5. 獨立的 Vera CPU 機櫃並非用於輔助 GPU 運算，而是為了因應 AI Agent 大量操作軟體的需求，因為 AI 需要 CPU 驅動的軟體來完成任務。\n6. 企業級的 Open Cloud（Nemo Cloud）與個人使用的 Open Cloud 的主要區別在於，前者需要具備權限管理和安全性控管，以符合企業的規範。\n7. 輝達的自動駕駛模型 Apameo 雖然是一個良好的基礎模型，但要達到自動駕駛的 99 分以上水準，仍需要數年時間透過實際道路數據進行優化。\n8. OpenAI 正在重新聚焦其主線任務，包括改進 AI 的程式編寫能力和為企業用戶提供更好的價值，並將砍掉一些支線任務，以應對競爭壓力。\n9. OpenAI 的網頁版 ChatGPT 在處理長對話時速度非常慢，原因是網頁版本在記憶體管理和渲染方面存在問題，這是一個長期存在但未解決的問題。\n10. AI Harness 的核心概念是透過在 AI 身上加裝控制系統或運行框架，使其更易於人類控制，並能更好地完成工作任務。\n",
+    "keywords": [
+      "GTC (NVIDIA GTC)",
+      "Agentic AI (代理式 AI)",
+      "Token Factory (算元工廠)",
+      "Vera Rubin 平台",
+      "LPU (Language Processing Unit)",
+      "Nemo Cloud",
+      "Apama (NVIDIA Apama)",
+      "OpenAI Codex",
+      "Cloud Core/Cloud Core Work",
+      "Harness (AI Harness)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "NVDA",
+      "company_name": "輝達 (NVIDIA)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "Agentic AI 將讓推論的算力需求再成長十倍甚至百倍，輝達已從 GPU 晶片公司轉型為全方位 AI 基礎設施供應商；他認為市場還沒 fully price 這個成長，長期看好並表示自己在替小孩準備（持續買進）輝達股票。",
+      "target_price": null,
+      "evidence_quote": "可是我也不知道未來他要什麼東西有用，所以我也不能替他預先準備，我能為他預先準備的東西就是預備一些 NVIDIA 的股票，",
+      "evidence_timestamp": "22:26",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "輝達發表自動駕駛模型 Apameo 後有人唱衰特斯拉，但他認為特斯拉 FSD 已在 99 分水準，輝達合作車廠的模型約 90 分，要追上至少要三到五年，所以不認為特斯拉會被幹掉。",
+      "target_price": null,
+      "evidence_quote": "所以有些人就說特斯拉黑，就說特斯拉完蛋了，要被輝達幹掉，沒有啦，沒這回事啦，",
+      "evidence_timestamp": "24:42",
+      "speaker": "Miula"
+    }
+  ]
+}

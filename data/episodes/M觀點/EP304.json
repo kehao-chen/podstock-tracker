@@ -1,0 +1,39 @@
+{
+  "episode": {
+    "episode_id": "8014702",
+    "episode_url": "https://podwise.ai/dashboard/episodes/8014702",
+    "podcast_name": "M觀點",
+    "title": "EP304. 川習會的結果分析、馬斯克會放棄 Grok 嗎、AI 公司為何狂殺 SaaS？ | M觀點",
+    "publish_date": "2026-05-18",
+    "language": "Traditional-Chinese",
+    "summary": "川習會雖排場盛大，但實質成果有限，雙方在貿易與台灣議題上未達成重大共識，川普維持對台政策的戰略模糊。馬斯克的 Grok 模型並非失敗，其作為對抗覺醒意識形態的工具，並將成為特斯拉自動駕駛與機器人溝通的核心大腦，具備高度戰略價值。AI 產業正進入模型商品化階段，領先的 AI 實驗室為避免未來陷入價格戰，正積極透過開發部署工具與搶攻 SaaS 市場，試圖直接掌握通路與用戶分發權，以確保在模型能力趨於同質化後，仍能維持市場主導地位與獲利能力。\n\nTakeaways:\n1. AI 模型最終將趨向大宗商品化，當技術進步進入高原期，AI 實驗室必須搶先掌握通路與分發層，以避免未來淪為可被隨意替換的底層供應商。\n2. 企業級 AI 的未來核心在於「智慧路由」（Routing Layer），透過將複雜任務拆解並動態分配給不同規模的模型，能有效平衡運算成本與執行效能。\n3. Grok 模型並非市場傳言的失敗品，其以較小的參數量即達到與頂尖開源模型同等的效能，顯示其在模型效率與技術實力上的競爭優勢。\n4. 對馬斯克而言，Grok 的核心價值在於提供「非覺醒意識形態」（Non-woke）的 AI 選擇，並作為特斯拉自動駕駛與機器人產品與人類溝通的關鍵大腦。\n5. 外交語言中的「不支持台獨」與「反對台獨」存在本質差異，前者保留了戰略模糊的空間，後者則意味著明確的干預與阻撓。\n6. 川普的軍售策略將其視為談判籌碼，儘管其言論具備戰略模糊性，但實際軍售規模往往大於口頭支持但缺乏實質動作的政府。\n7. 進行借貸或投資時，應採取「預設資金無法回收」的心理模型，以此評估自己願意承擔的風險上限，而非單純依賴對方的還款承諾。",
+    "keywords": [
+      "川習會",
+      "Grok",
+      "SaaS",
+      "Palantir",
+      "AGI",
+      "FSD",
+      "覺醒意識型態",
+      "六個承諾",
+      "Agentive Workflow",
+      "Routing Layer"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir (帕蘭泰爾)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 認為 Palantir 近期股價被市場錯殺，長期沒有問題；他主張 OpenAI、Anthropic 不會打敗它，因為 Palantir 的 AIP 平台具備模型中立性（可依任務調用最適合的多模型），這正是未來智慧路由層的關鍵優勢。",
+      "target_price": null,
+      "evidence_quote": "因為我很在意 Parenting 的股價一直受到影響嘛，那 Parenting 就是這麼好，沒有問題，然後我認為它長期有沒有問題，這股價其實是不應該這樣跌的，",
+      "evidence_timestamp": "01:11:47",
+      "speaker": "Miula"
+    }
+  ]
+}

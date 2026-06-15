@@ -1,0 +1,52 @@
+{
+  "episode": {
+    "episode_id": "8208833",
+    "episode_url": "https://podwise.ai/dashboard/episodes/8208833",
+    "podcast_name": "M觀點",
+    "title": "EP310. 蘋果 WWDC 重點、Anthropic 最強模型、SpaceX AI 衛星 | M觀點",
+    "publish_date": "2026-06-12",
+    "language": "Traditional-Chinese",
+    "summary": "蘋果在 WWDC 發表的 Apple Foundation Model (AFM) 採取混合式 AI 策略，透過裝置端運算與私有雲端架構，提升 Siri 對個人資料與螢幕內容的理解與操作能力。Anthropic 推出的全新模型 Claude 3.5 在程式編寫與邏輯推理指標上全面超越現有模型，但其強制 30 天數據保留政策引發企業資安疑慮，導致微軟等大廠限制內部使用。此外，SpaceX 正積極開發 AI-1 衛星，計畫將輝達 GB300 等級的機櫃送入太空，透過 70 公尺翼展的太陽能板提供 150kW 電力，預計 2027 年起利用 Starship 的發射能力，在地球軌道建立具備商業規模的太空資料中心，加速太空運算基礎設施的佈局。\n\nTakeaways:\n1. 蘋果透過將混合專家模型（MOE）的權重參數儲存於 NAND Flash，僅在運算時將必要的專家參數載入 DRAM，成功突破了行動裝置記憶體容量的硬體限制。\n2. Claude 3.5 Sonnet（Fable）在程式編寫與 Agentic Workflow 的表現上全面超越現有模型，確立了當前 AI 領域的技術領先地位。\n3. Anthropic 實施的 30 天數據保留政策雖是為了強化安全防護與偵測惡意攻擊，卻與企業追求「零數據保留」的資安需求產生嚴重衝突，成為其大規模商業採用的主要阻礙。\n4. SpaceX 的 AI-1 衛星設計透過 70 公尺翼展的太陽能板與液冷輻射散熱系統，成功將單一 NVIDIA NVL72 機櫃的運算能力部署至太空，證明太空資料中心已從理論轉向工程實踐階段。\n5. 蘋果的 AI 策略核心在於將 Siri 從語音助理轉型為具備「螢幕感知」與跨應用程式操作能力的個人化代理，而非僅僅是聊天機器人。\n6. 隨著 AI 模型發展重心轉向 Agentic Workflow 與自我改進機制，依賴模型蒸餾（Distillation）技術的開源模型將面臨更嚴峻的技術門檻，可能導致與美國前沿模型間的差距進一步拉大。\n7. 投資是一場無限賽局，控管風險以避免在市場修正中遭到重創，遠比準確預測市場波動幅度更具備長期生存價值。\n8. 特斯拉與 SpaceX 在太空衛星散熱與能源效率上的工程突破，顯示出太空運算領域的挑戰本質上是工程問題，而非科學上的不可行。",
+    "keywords": [
+      "WWDC",
+      "AFM (Apple Foundation Model)",
+      "Anthropic",
+      "混合專家模型 (MOE)",
+      "Transformer",
+      "Token",
+      "Agentic Workflow",
+      "SpaceX",
+      "Starship",
+      "基準測試 (Benchmark)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "META",
+      "company_name": "Meta Platforms",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 認為 Meta 財報雖然短線市場反應不佳、股價表現普通，但這間公司長線基本面沒有問題，仍看好。",
+      "target_price": null,
+      "evidence_quote": "因為你看，Meta 財報，我覺得 Meta 很棒，Meta 這間公司長線沒有問題，Meta 財報後也沒有表現很好，迴轉也不好，",
+      "evidence_timestamp": "11:42",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet (Google)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Google 近期股價表現不好，但 Miula 認為公司沒有問題、長線可續抱，不必因短期逆風而擔心。",
+      "target_price": null,
+      "evidence_quote": "連 Google,Google 最近也表現不好了，可是我跟你講，我都真的覺得他們都沒有問題，",
+      "evidence_timestamp": "11:47",
+      "speaker": "Miula"
+    }
+  ]
+}

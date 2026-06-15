@@ -1,0 +1,95 @@
+{
+  "episode": {
+    "episode_id": "7636818",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7636818",
+    "podcast_name": "M觀點",
+    "title": "EP289. OpenAI 砍 Sora、特斯拉 Semi 卡車、谷歌新 AI 技術 | M觀點",
+    "publish_date": "2026-03-27",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了科技產業的三個熱門話題。首先，OpenAI 宣布終止 Sora 影片生成工具的開發，將資源集中於 Agentive Workflow 和機器人技術研究，主持人 Miula 認為此舉是 OpenAI 在競爭壓力下，回歸核心業務的合理決策。接著，節目分析了特斯拉即將量產的電動卡車 Tesla Semi，強調其在美國貨運市場的潛力，並引述華爾街日報的報導，指出卡車司機對此車型評價極高，且長期來看，Semi 的使用成本相較柴油卡車更具優勢。最後，節目探討了 Google 發布的 TurboQuant 記憶體壓縮技術，儘管此技術有助於降低 AI 模型對記憶體的需求，但考量到 AI 應用普及和更大的上下文需求，記憶體供不應求的狀況在短期內難以緩解。\n\nTakeaways:\n1. OpenAI 砍掉 Sora 專案是合理的，因為相較於 AGI 競爭和生產力提升，Sora 短期內無法變現且耗費大量資源。\n2. 特斯拉 Semi 電動卡車因駕駛體驗佳、續航里程長及營運成本低，預計將在美國貨運市場取得成功，並受卡車司機和車隊老闆歡迎。\n3. 儘管華爾街日報對特斯拉 Semi 給予好評，但市場對特斯拉的關注焦點仍在 Robotaxi 和 FSD 上。\n4. Google 公開的 TurboQuant 技術，旨在減少 AI 模型運算時的記憶體用量，同時保持模型智力不下降。\n5. 即使 TurboQuant 能夠降低 AI 模型對記憶體的需求，記憶體供不應求的狀況仍難以緩解，因為 AI 應用普及會推升總需求量。\n6. OpenAI 在 Agentive Workflow 戰場上略遜於 Anthropic，產品更新速度需加快。\n7. AI 模型公司若能提升常任務的執行能力，將更有利於企業採用 AI Agent。\n8. 投資決策不應僅基於短期市場表現，而應著眼於五年、十年的長期價值，並在市場不認同的時候保持獨立思考。\n9. 網紅勇於認錯反而能獲得更多支持，死不認錯並非明智之舉。\n10. OpenAI 必須經歷逆風考驗，才能學習謙虛、專注和調整，並找到長線成功的 DNA。\n",
+    "keywords": [
+      "OpenAI",
+      "Sora",
+      "Tesla Semi",
+      "TurboQuant",
+      "AI Agent",
+      "Roichen",
+      "Manus",
+      "Meta",
+      "傅察",
+      "RE100",
+      "Gemini",
+      "Agentic Workflow",
+      "World Model",
+      "IDFA"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 認為微軟在這波 AI／軟體股的砍盤中被錯殺，基本面沒問題，是市場低估，他維持看好不認錯。",
+      "target_price": null,
+      "evidence_quote": "我從年初的時候，我還有另外一個看法是，我認為現在對於 AI 股或者是軟體股的砂盤是錯殺，我絕對是錯殺。我到現在也沒有改變我的看法，我覺得微軟被殺到這樣是錯殺，",
+      "evidence_timestamp": "18:24",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "谷歌 (Alphabet / Google)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 認為 Google 同樣在 AI／軟體股的砍盤中被錯殺，屬於市場低估，他維持看好的看法。",
+      "target_price": null,
+      "evidence_quote": "我覺得 Google 被殺到這樣是錯殺，我覺得 PayNT 被嚇殺也是錯殺，我真的都覺得是錯殺。",
+      "evidence_timestamp": "18:31",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir (逐字稿誤植為 PayNT／Parenteer／Pentium)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "Miula 是 Palantir 長期死忠支持者，從三四十塊一路跌到六塊都堅持看好，認為它是好公司、對它有五年十年的信心，逆勢續抱。",
+      "target_price": null,
+      "evidence_quote": "我說 Pentium 是好公司，我覺得我對它有信心，二十塊跌到十塊，我繼續講，我覺得 Pentium 是好公司，我對它有信心，十塊再跌到六七塊，我覺得 Pentium 是好公司，我還是對它有信心，",
+      "evidence_timestamp": "19:32",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "SE",
+      "company_name": "Sea Limited (蝦皮母公司)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "SE 股價最近又被打趴，但 Miula 看去年第三、四季財報覺得業務都沒問題、在他預期之內，所以繼續抱著，幾年後應會長成他期待的樣子。",
+      "target_price": null,
+      "evidence_quote": "但是如果以我最近看這兩季的財報，去年第三季，去年第四季的財報，我都覺得沒有問題啊，所以我就繼續報著嘛，",
+      "evidence_timestamp": "22:42",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "high",
+      "rationale": "Miula 認為 Tesla Semi 電動卡車今年正式量產、司機與車隊老闆都會愛、成本比柴油卡車省，是被外界嚴重低估的產品，對特斯拉營收與毛利幫助大。",
+      "target_price": null,
+      "evidence_quote": "第二個主題來聊一下特斯拉的 Semi。那老實講，這臺車我認為是特斯拉今年非常重要的產品，而且是被低估了。",
+      "evidence_timestamp": "38:37",
+      "speaker": "Miula"
+    }
+  ]
+}

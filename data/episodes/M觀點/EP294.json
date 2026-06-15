@@ -1,0 +1,91 @@
+{
+  "episode": {
+    "episode_id": "7746883",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7746883",
+    "podcast_name": "M觀點",
+    "title": "EP294. 美國軟體股又崩潰、特斯拉 FSD 荷蘭過關、亞馬遜最新股東信 | M觀點",
+    "publish_date": "2026-04-13",
+    "language": "Traditional-Chinese",
+    "summary": "科技產業正面臨 AI 代理（AI Agent）技術發展帶來的轉型焦慮，市場擔憂軟體業將因 AI 取代傳統軟體功能而價值崩解。然而，從第一性原理分析，AI 模型具備機率性與不確定性，無法取代軟體作為企業共識層與審計核心的確定性價值，軟體產業反而將在 AI 運算時代掌握關鍵生產力。特斯拉 FSD 獲荷蘭官方認證，顯示其自動駕駛技術在安全性上已具備領先優勢，有望逐步重塑市場信心。亞馬遜執行長 Andy Jassy 於股東信中強調，企業應透過多重路徑嘗試、大膽投資巨大轉折點、適時打掉重練並培養應對波動的文化，以應對 AI 時代的長期競爭，並將機器人技術視為未來與特斯拉抗衡的關鍵戰略資產。\n\nTakeaways:\n1. AI Agent 的本质是概率性运算而非确定性逻辑，这决定了其无法取代需要高度一致性与可审计性的企业核心软件系统。\n2. 在 AI 算力与脑力劳动力趋于过剩的时代，人类的可操作性与可审计性将成为最稀缺的数字化生产力价值。\n3. 软件产业不会因 AI 的崛起而消亡，反而会通过掌握 AI 生产力中的关键价值环节，在优胜劣汰后获取更高的行业总产值。\n4. 企业在面对技术转型时，应采取 “平行路径” 策略，即同时尝试多种不相关方案，最终通过组合最优解来达成目标。\n5. 面对巨大的技术转折点，企业应在可控的负责任范围内进行不成比例的大胆投资，而非仅追求常规的边际收益。\n6. 长期成功的路径并非线性的，而是充满跳跃、停滞与波动的曲折过程，能够承受这种波动是企业与投资者必须具备的核心文化。\n7. 特斯拉 FSD 在欧洲通过严苛的官方测试，证明了其在驾驶辅助领域的安全性与技术领先地位，即便其目前仍处于 Level 2 的合规框架下。\n8. 亚马逊在机器人领域的深厚 IP 资产与实战经验，使其成为科技巨头中唯一具备在物理机器人领域与特斯拉直接抗衡潜力的竞争者。\n9. 软件的规模经济效应（Scale of Economics）使得企业自行开发维护 AI 驱动的内部工具，其长期成本往往远高于直接采购成熟的专业软件。",
+    "keywords": [
+      "AGI (通用人工智慧)",
+      "FSD (全自動輔助駕駛)",
+      "Cloud Managed Agents (雲端託管代理)",
+      "第一性原理 (First Principles)",
+      "邊緣運算 (Edge Computing)",
+      "大型語言模型 (LLM)",
+      "經濟規模 (Scale of Economics)",
+      "自由現金流 (Free Cash Flow)",
+      "《Straight line was a lie》",
+      "Palantir"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "NET",
+      "company_name": "Cloudflare",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Cloudflare 是他兩大持股之一，上週重挫 21%，但他從第一性原理論證 AI Agent 不會取代軟體，認為 Cloudflare 不會被淘汰，續抱看長線。",
+      "target_price": null,
+      "evidence_quote": "Cloudflare 會嗎？那我告訴你，如果我們以這三家公司，我都覺得不會，我都覺得不會",
+      "evidence_timestamp": "39:18",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Palantir 為他兩大持股之一，他反駁 Michael Burry 看空，認為 Anthropic 模型能處理的東西與 Palantir 系統價值是不同區塊，搶不到 Palantir 的午餐。",
+      "target_price": null,
+      "evidence_quote": "你知道，那個 Michael Burry 出來唱衰 Palantir, 我就想說，啊，靠，你到底懂不懂啊，就是說 Android 的模型能夠處理的那些東西，跟 Palantir 現在的系統價值提供的東西，根本是不同區塊的",
+      "evidence_timestamp": "39:22",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "CRWD",
+      "company_name": "CrowdStrike",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "CrowdStrike 是他持股，過去幾個月跌得較慘，但他認為在 AI agent 時代這家資安軟體公司不會被淘汰，續抱。",
+      "target_price": null,
+      "evidence_quote": "請問 Palantir 在 AI agent 這麼厲害的時代會被淘汰嗎？CloudStrike 會嗎？Cloudflare 會嗎？那我告訴你，如果我們以這三家公司，我都覺得不會",
+      "evidence_timestamp": "41:17",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "視特斯拉為信仰股，雖預期本季財報難看，但 FSD 通過荷蘭審查取得歐洲認證、官方背書比其他 L2 系統更安全，續抱不看短期財報。",
+      "target_price": null,
+      "evidence_quote": "特斯拉這屆財報應該會非常難看但是沒關係買特斯拉就不要看財報了，信仰股所以其實 FSD 在歐洲現在傳出好消息，正式通過荷蘭這邊的一個審核",
+      "evidence_timestamp": "01:23",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "亞馬遜 (Amazon)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "雖糾結於亞馬遜雲端在三大雲中較弱，但死守持股沒賣的唯一理由是機器人——他認為亞馬遜在機器人領域的 IP、實戰經驗是科技巨頭第一，是唯一能在實體機器人跟特斯拉抗衡的公司，加上電商無可取代。",
+      "target_price": null,
+      "evidence_quote": "我死守的亞馬遜持股沒有賣的唯一理由就是機器人。我只要每次想到它還有機器人，它有機器人，雖然它現在還在內用，不要賣好了",
+      "evidence_timestamp": "53:40",
+      "speaker": "Miula"
+    }
+  ]
+}
