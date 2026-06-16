@@ -1,0 +1,44 @@
+{
+  "episode": {
+    "episode_id": "6776395",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6776395",
+    "podcast_name": "M觀點",
+    "title": "EP268. All-In 2026 預測、馬斯克無塵室狂想、波士頓動力聯手谷歌 | M觀點",
+    "publish_date": "2026-01-12",
+    "language": "Traditional-Chinese",
+    "summary": "本期《M 觀點》聚焦科技、財經與產業趨勢，解析 All-In Podcast 對 2026 年的政治、經濟預測，其中對美國民主黨及社會主義的影響、川普經濟學的潛力、以及科技產業可能面臨的挑戰提出觀察。節目亦探討馬斯克提議的晶圓廠創新概念，分析其可行性與對傳統晶圓代工的挑戰。此外，節目還討論波士頓動力與 Google DeepMind 在人形機器人上的合作，評估其對 AI 技術及機器人產業的潛在影響，以及與特斯拉 Optimus 競爭的可能性。Miula 同時分享對核能的觀點轉變，並評論 Roichen 穩姿坐墊的產品特色。\n\nTakeaways:\n1. 美國民主黨內部的極左派（如民主社會主義者）可能像川普的 MAGA 派系一樣，透過在黨內初選中勝出，從而主導整個民主黨。\n2. 美國選區劃分方式若傾向保障特定政黨的勝選，將導致溫和派候選人因難以爭取中間選民而在黨內初選中失利，進而加劇政治極端化。\n3. 傳統的軟件即服務（SaaS）公司，其收入可能因人工智能技術的發展而大幅減少，因為 AI 可能取代其部分核心服務。\n4. 馬斯克設想的晶圓廠新模式，旨在僅保護晶圓本身免受污染，從而降低營運成本並提高效率，儘管在實際操作中面臨諸多挑戰。\n5. 波士頓動力與 Google DeepMind 的合作，旨在將 Google 的 Gemini Robotics 模型整合到波士頓動力的人形機器人中，提升機器人的 AI 能力，但其高昂的量產成本和軟硬體整合的挑戰不容忽視。\n6. 人形機器人的模型訓練比自動駕駛更具挑戰性，因為機器人需要處理更多自由度的運動和感測數據，而不僅僅是影像資料。\n7. 預測市場（Prediction Market）的興起，反映了人們對於未來趨勢的投機心理，類似於對未來事件進行賭博。\n8. 川普政府的加速折舊政策，鼓勵企業在短期內大量投資設備，從而減少應繳的所得稅。\n9. 儘管傳統觀點認為應避免核能，但考量到 AI 發展對能源的額外需求，台灣在短期內可能需要額外的能源供應，因此核能的延役值得重新評估。",
+    "keywords": [
+      "All-In Podcast",
+      "MoonShot Podcast",
+      "Roichen",
+      "DSA (Democratic Socialists of America)",
+      "MAGA (Make America Great Again)",
+      "Bernie Sanders",
+      "Gerrymandering",
+      "門羅主義",
+      "Polymarket",
+      "Legacy SaaS",
+      "Palantir",
+      "Databricks",
+      "Capex 概念股",
+      "Gemini Robotics",
+      "Optimus"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "AMZN",
+      "company_name": "亞馬遜 (Amazon)",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "Miula 認同 J.Cal 的預測，認為亞馬遜在 2026 年有機會迎來「企業的起點」（公司內機器人員工帶來的貢獻超過人類員工），是去年七巨頭中股價最弱、今年值得留意的潛在贏家；屬順著別人預測表達的溫和看法。",
+      "target_price": null,
+      "evidence_quote": "他認為 2026 年的大贏家會是亞馬遜，為什麼呢？因為亞馬遜在去年是科技巨頭、七巨頭裡面表現最爛的，股價表現最爛的。我覺得這是蠻有可能的，我其實是我其實是不太反對，我覺得有機會會看到喔",
+      "evidence_timestamp": "28:20",
+      "speaker": "Miula"
+    }
+  ]
+}

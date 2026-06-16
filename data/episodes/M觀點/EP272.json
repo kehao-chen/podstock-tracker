@@ -1,0 +1,52 @@
+{
+  "episode": {
+    "episode_id": "6962240",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6962240",
+    "podcast_name": "M觀點",
+    "title": "EP272. 馬斯克達沃斯專訪、納德拉談微軟與 AI、感謝祭心得分享 | M觀點",
+    "publish_date": "2026-01-26",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了達沃斯論壇上的兩個焦點話題。首先，馬斯克與貝萊德總經理 Larry Fink 的對談，強調了特斯拉對永續能源和人類文明的貢獻，並呼籲歐洲國家將資金投入創新和生產力。馬斯克還分享了他對人類文明未來的看法，認為應最大化人類文明擁有美好未來的機率，並將特斯拉的目標從永續能源進化為永續富足，透過 AI 和機器人來解決人類的生產力問題。其次，微軟 CEO 納德拉在達沃斯論壇上分享了對 AI 發展的看法，他認為 AI agent 將改變未來的工作形態，人類員工將轉變為 AI 的監工和教練，並提出微軟的戰略是成為 AI 代幣工廠，建立 APP server，幫助企業建立中間層來協調不同的 AI 模型。\n\nTakeaways:\n1. 馬斯克認為人類文明在宇宙中非常脆弱，但可能是宇宙中唯一的光明，因此保護人類文明至關重要。\n2. 歐洲在經濟方面放棄了追求創新和生產力，轉而追求分配和管制，導致其在科技發展上落後於美國和中國。\n3. 特斯拉的目標已從永續能源進化為永續富足，透過機器人解決人類的生產力問題，實現資源的無限量供給。\n4. 馬斯克預測，未來人形機器人的數量將超過人類人口數量，並將根本性地解決全球貧困問題。\n5. 卓越的公司能夠持續擴大其 TAM（Total Addressable Market），而不僅僅依賴既有業務的成功。\n6. 儘管歐洲國家試圖監管 AI，美國致力於創新，而中國則專注於複製美國的創新成果。\n7. 納德拉認為，AI 將改變工作模式，人類員工將從實際執行者轉變為 AI 的監督者和引導者。\n8. 未來企業工作者的角色界線將模糊化，產品經理、設計師和工程師都可能跨領域工作，成為全端建構者。\n9. 太陽能發電在太空軌道上的效率是地球上的五倍，且太空環境有助於 GPU 散熱，因此太空資料中心具有巨大潛力。\n10. 保持好奇心和樂觀主義是人類在 AI 時代應具備的重要特質，有助於探索未知和應對挑戰。",
+    "keywords": [
+      "達沃斯論壇 (Davos Forum)",
+      "貝萊德 (BlackRock)",
+      "永續富足 (Sustainable abundance)",
+      "AI Agent",
+      "全端建構者 (Full stack builder)",
+      "代幣工廠 (Token Factory)",
+      "APP Server",
+      "SpaceX 星艦 (Starship)",
+      "彼得·提爾 (Peter Thiel)",
+      "《從零到一》"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 自述持有並持續買進特斯拉；認同馬斯克所講的願景轉型，認為特斯拉真正價值在於能不斷擴大 TAM、跨足機器人等新業務，即使賣車業務連兩年衰退股價仍創新高。他明知有風險仍選擇樂觀續抱。",
+      "target_price": null,
+      "evidence_quote": "我不是那種一切都會講出來，就像我投資特斯拉，我跟你講特斯拉有什麼危險危險危險，可是我還是買哦，我還是抱住它哦",
+      "evidence_timestamp": "53:50",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 看好微軟在 AI 基礎設施上的投資方向：微軟約 80% 押注輝達 GPU、20% 其他硬體，在三大雲端中最重押輝達，而他認同輝達在多數情況下仍比自製晶片更好用，因此看好微軟這樣的投資佈局。",
+      "target_price": null,
+      "evidence_quote": "我覺得微軟就是 80% 押注在輝達這邊，還有 20% 是其他...所以我個人目前，我是看好微軟這樣的投資的方向。",
+      "evidence_timestamp": "1:03:11",
+      "speaker": "Miula"
+    }
+  ]
+}

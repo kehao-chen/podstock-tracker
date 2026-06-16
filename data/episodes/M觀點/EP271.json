@@ -1,0 +1,41 @@
+{
+  "episode": {
+    "episode_id": "6929766",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6929766",
+    "podcast_name": "M觀點",
+    "title": "EP271. 蘋果的 AI 計畫、貝佐斯挑戰星鏈、特斯拉 FSD 保費大降 | M觀點",
+    "publish_date": "2026-01-23",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了蘋果在 AI 領域的最新動向、貝佐斯旗下藍色起源的衛星網路計畫，以及特斯拉的相關新聞。蘋果正積極追趕 AI 浪潮，與 Google 合作改進 Siri，並計劃推出 AI 別針硬體。貝佐斯則透過藍色起源推出名為 Terra Wave 的衛星通訊網路，目標客戶為大型公司和資料中心，與 SpaceX 的星鏈有所區隔。特斯拉方面，Lemonade 公司因 FSD 系統的安全性提高而降低保費，同時，馬斯克宣布重啟 DOJO3 晶片計畫，旨在提升影像模型訓練能力。此外，Miula 還評論了台灣的關稅政策，強調與美國簽訂關稅協議對台灣產業有利。\n\nTakeaways:\n1. 蘋果的 AI 別針產品之所以可能成功，原因在於其產品設計移除了投影模組，能與蘋果生態系統整合，且有更強大的 AI 模型作為後盾。\n2. 藍色起源的 Terra Wave 鎖定的是超大型公司、超大型資料中心以及政府客戶，提供高頻寬高容量的資料傳輸服務，與 Starlink 的個人用戶市場有所區隔。\n3. Lemonade 的數據顯示，使用特斯拉 FSD 駕駛模式的事故發生率顯著下降，因此願意提供 FSD 車主汽車保費五折的優惠。\n4. 馬斯克重啟 DOJO3 計畫，是因為發現車用 AI 晶片與資料中心訓練用 AI 晶片的需求不同，需要專門為影像模型訓練設計晶片。\n5. 貝佐斯在藍色起源推動 Terra Wave 計畫，除了與馬斯克競爭外，也因為在自己完全掌控的公司中發展更有利可圖，且能服務更多元的客戶。\n6. 蘋果與 Google 的合作，早在正式宣佈前就已開始進行工程師之間的合作，以確保 Google 的 Gemini 模型能有效應用於 iPhone 上。\n7. 蘋果在 AI 領域的投資評價已從後段班提升至中段班，代表其在 AI 發展上已開始努力追趕。\n8. 臺灣若否定與美國的關稅協議，將會對整體產業造成不利影響，且將投資視為掏空臺灣是目光短淺的看法。\n",
+    "keywords": [
+      "Gemini",
+      "Blue Origin (藍色起源)",
+      "Starlink (星鏈)",
+      "Terra Wave",
+      "Amazon Leo",
+      "FSD (Full Self-Driving，完全自動駕駛)",
+      "Dojo 3",
+      "Lemonade",
+      "AI PIN",
+      "AirPods",
+      "Apple Intelligence",
+      "《戀愛不可抗力》 (愛情怎麼翻譯)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "AAPL",
+      "company_name": "蘋果 (Apple)",
+      "market": "US",
+      "stance": "watch",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "蘋果與 Google 合作把 Gemini 模型導入 Siri、並計畫推出 AI 別針硬體，Miula 認為蘋果在 AI 上已從後段班追到中段班；原本因 AI 落後而對其估值扣分（B+ 降為 B），現在不再扣分（但仍未到加分）。",
+      "target_price": null,
+      "evidence_quote": "簡單講，我之前把蘋果當成是一個在 AI 浪潮、AI 革命裡面的後段班，它是一個落後者，它是一個明確的落後者，但是現在它已經變成是 AI 浪潮的中段班，",
+      "evidence_timestamp": "29:09",
+      "speaker": "Miula"
+    }
+  ]
+}

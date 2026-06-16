@@ -1,0 +1,52 @@
+{
+  "episode": {
+    "episode_id": "7028973",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7028973",
+    "podcast_name": "M觀點",
+    "title": "EP273. Meta 大動作連連、微軟 MAIA 200 登場、霍諾德挑戰 101 | M觀點",
+    "publish_date": "2026-01-30",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了 Meta 和微軟的最新動向，並延伸討論了攀岩家 Alex Honnold 挑戰台北 101 的事件。首先，節目分析 Meta 如何透過訂閱制整合 Manus AI，將 AI Agent 導入 Facebook、IG 及 WhatsApp，並藉由 Meta Compute 建立強大的 AI 運算集群，以應對未來 AGI 時代的需求。接著，深入探討微軟的 MAIA 200 晶片，強調其在推論效能上的優勢，以及與輝達 GPU 的互補關係。最後，主持人分享了對 Honnold 攀登 101 的看法，認為這種挑戰邊界的精神對人類文明進步至關重要，並鼓勵聽眾在生活中勇於冒險。\n\nTakeaways:\n1. Meta 透過將 Manus AI 整合進 Facebook、IG 和 WhatsApp，旨在將 AI 助手融入用戶的日常生活，而非僅限於生產力工具。\n2. Meta 計劃推出的訂閱制服務，其核心在於推廣 Manus AI 的代理能力，而非僅提供 Facebook 和 IG 的額外功能。\n3. Meta 打造數十 GW 等級的資料中心，是為了支持其 AI 助手 Manus 在社群網路和智能眼鏡上的廣泛應用，從而成為 AGI 時代的領先者。\n4. 微軟的 MAIA 200 晶片專注於推論優化，與輝達的 GPU 形成互補關係，而非全面競爭，此策略有助於維持與輝達的良好合作關係。\n5. 人類文明的進步往往需要挑戰邊界的精神，即使是保守派也應偶爾挑戰安全邊際，嘗試以前做不到的事情。\n6. 企業主學習連鎖經營的哲學，本質上是學習如何利用槓桿，透過與他人合作來擴大自身的力量。\n7. 101 願意冒險讓 Alex Honnold 攀爬，體現了一種挑戰精神，這種精神對於激發社會的勇氣至關重要。\n8. 儘管 OpenAI 在模型互操作性方面較弱，但其持續推出前沿模型的能力及其潛在的被微軟收購的可能性，使其在 AI 領域仍具有強大的競爭力。",
+    "keywords": [
+      "Meta Compute",
+      "MAIA ASIC 晶片",
+      "Manus AI",
+      "Alex Honnold",
+      "《愛情，可以翻譯嗎》",
+      "兆瓦 (Megawatt)",
+      "吉瓦 (Gigawatt)",
+      "LLM (Large Language Model)",
+      "寶島眼鏡",
+      "FP4/FP8"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "META",
+      "company_name": "Meta",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "看好 Meta 在這一局 AI 的佈局（社群與智能眼鏡入口、併購 Manus 取得強大 AI agent、Meta Compute 算力），認為有機會成為 AGI 時代王者；市場仍偏看衰，當前股價是不錯的買入機會。",
+      "target_price": null,
+      "evidence_quote": "我真的還蠻看好 Meta 在 AI 這一局的表現啦，那今天股價應該是漲的啦，但是我覺得市場還是有點看衰他，所以這不就讓我們有一些，我跟你講不是投資建議，但對我來講我覺得這是一個還不錯的買入的一個機會。",
+      "evidence_timestamp": "39:38",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "認為微軟財報沒有想像中爛（給 75 分以上）、AI 佈局完整（MAIA 200 推論晶片與輝達互補），過去半年股價已弱、未被高估，今天卻大跌 10%，個人習慣會把這種大跌當成不錯的進場機會。",
+      "target_price": null,
+      "evidence_quote": "既然大跌了，我覺得以我自己個人的習慣，我反而會把它當成是一個很好的進場的機會，當然這個不是投資建議，我不是說你們現在要繼續買微軟",
+      "evidence_timestamp": "54:50",
+      "speaker": "Miula"
+    }
+  ]
+}

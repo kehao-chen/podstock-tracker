@@ -1,0 +1,104 @@
+{
+  "episode": {
+    "episode_id": "7115662",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7115662",
+    "podcast_name": "M觀點",
+    "title": "EP275. SpaceX 併 xAI、谷哥財報超級強、軟體產業會被消滅嗎 | M觀點",
+    "publish_date": "2026-02-06",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了馬斯克企業帝國的最新動態、Google 的財報表現以及 AI 對軟體產業的影響。首先，節目分析了 SpaceX 併購 xAI 的戰略意義，指出這一步是馬斯克整合其 AI 帝國的重要舉措，並探討了 SpaceX 未來可能發展的太空資料中心業務。接著，深入解讀 Google 超強的財報，儘管股價下跌，但其雲端服務 Google Cloud 的強勁成長不容忽視。最後，節目以第一性原理出發，探討 AI 是否會消滅軟體產業，認為 AI 不會完全取代軟體，但會帶來產業結構的巨大轉變，並以炸雞排攤為例，生動地解釋了 AI 如何在軟體產業中實現效率與客製化的重新平衡。\n\nTakeaways:\n1. SpaceX 的估值暴漲，核心原因是市場找到了太空資料中心這個故事，將其視為比火箭發射和星鏈更具潛力的核心基礎建設。\n2. 太空資料中心在發電、散熱和通訊方面具有優勢，特別是太陽能效率是地面的五倍，且不受天氣影響，有望降低算力成本。\n3. 軟體的核心價值在於透過固定化和自動化來確保效率和結果的確定性，而 AI 因其運算方式的本質，難以完全取代軟體。\n4. AI 時代，軟體不會被消滅，但會出現大地震，提供核心功能和組件的軟體公司將持續發展，而提供操作層或客製化服務的公司可能被取代。\n5. 未來軟體的商業模式應轉向用量計費或成效計費，以適應 AI 普及化帶來的運算需求增長。\n6. 企業選擇軟體考量經濟效率性、交付成果確定性、安全性和可解釋性以及系統完整性，這些都是 AI 目前難以完全滿足的。\n7. Google Cloud 在第四季的強勁成長，主要受益於 Gemini 3.0 模型的成功和 Nanobot、Nanopro 在消費者端的廣受歡迎。\n8. 馬斯克帝國的最終完整體是：xAI 是大腦，X (Twitter) 是耳朵和嘴巴，特斯拉是手和腳，而 SpaceX 是提供算力的心臟。\n9. 降低每公斤發射成本是太空資料中心能否實現的關鍵，若能降至 200 美元以下，該計畫將具備可行性。",
+    "keywords": [
+      "SpaceX",
+      "xAI",
+      "Starlink",
+      "Tesla",
+      "OpenAI",
+      "Gemini",
+      "Claude",
+      "Palantir",
+      "第一性原理",
+      "SaaS (Software as a Service)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "2330.TW",
+      "company_name": "台積電 (TSMC)",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "研究後決定加碼台積電，視為核心持股；認為這些科技龍頭基本面沒問題，不必擔心近期股市震盪。",
+      "target_price": null,
+      "evidence_quote": "我後來決定說我要加碼臺積電。所以我接下來就要加碼我們的臺積電了齁。",
+      "evidence_timestamp": "09:09",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "00692.TW",
+      "company_name": "富邦公司治理 ETF",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "在台股加碼台積電的方式就是多買一點 00692；不過因為近期配息太多而有點不喜歡。",
+      "target_price": null,
+      "evidence_quote": "我在臺股加碼臺積電的方法就是多買一點這個 0 06 92，我最近有點不太喜歡 0 06 92，因為他們現在配息太多了，真的令人討厭齁其實。",
+      "evidence_timestamp": "09:16",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "谷歌 (Alphabet / Google)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "Google 第四季財報超強、Google Cloud 成長率反超微軟，已是核心持股一年；市場因 CAPEX 太高而砍股價是犯蠢，打算趁回檔加倉。",
+      "target_price": null,
+      "evidence_quote": "我可能會去對 Google 加倉，我也會對 Palantir 加倉，大概就這樣，還有臺積電啦，我真的很想加臺積電",
+      "evidence_timestamp": "41:54",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Palantir 財報很好（評為全壘打），且採用成效計費的商業模式在 AI 時代不受席次制衝擊，打算直播後加倉。",
+      "target_price": null,
+      "evidence_quote": "我可能會去對 Google 加倉，我也會對 Palantir 加倉，大概就這樣",
+      "evidence_timestamp": "41:54",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "明確表態看好並吹捧特斯拉；認為馬斯克不會放棄特斯拉，且特斯拉握有機器人、晶片與能源，是 AI、太空與火星藍圖中不可或缺的一環。",
+      "target_price": null,
+      "evidence_quote": "因為我會吹捧的公司就是特斯拉、Meta、Wismar、馬斯克",
+      "evidence_timestamp": "50:14",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "順帶把 Meta 列為自己看好、會吹捧的公司之一，本集未展開個股論述。",
+      "target_price": null,
+      "evidence_quote": "因為我會吹捧的公司就是特斯拉、Meta、Wismar、馬斯克",
+      "evidence_timestamp": "50:14",
+      "speaker": "Miula"
+    }
+  ]
+}

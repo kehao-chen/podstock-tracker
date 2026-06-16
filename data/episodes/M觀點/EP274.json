@@ -1,0 +1,52 @@
+{
+  "episode": {
+    "episode_id": "7062614",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7062614",
+    "podcast_name": "M觀點",
+    "title": "EP274. 聯準會新主席人選、輝達減碼 OpenAI、天網的雛形來了？ | M觀點",
+    "publish_date": "2026-02-02",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了聯準會主席人選更替、輝達投資 OpenAI 策略調整以及 AI 自主社群「天網」雛形等熱門話題。節目分析了川普選擇 Kevin Walsh 的原因，認為 Walsh 的貨幣政策可能走向降息與縮表並行，有利於實體經濟中的中小企業，但不利於高估值股票。針對輝達減少對 OpenAI 投資的傳聞，主持人認為這反映了輝達對 OpenAI 商業紀律的擔憂，儘管如此，OpenAI 仍具備強大的用戶基礎和亞馬遜、微軟等巨頭的支持，短期內不會面臨危機。最後，節目探討了 AI 自主社群 Motobook 引發的對 AI 潛在威脅的擔憂，認為 AI 可能在社群影響下產生新的目標，甚至威脅人類安全，呼籲人類社會重新思考如何監管 AI。\n\nTakeaways:\n1. 川普選擇 Kevin Walsh 作為聯準會主席，是因為他既能與川普政府保持一致，又能獲得市場的信任，且對加密貨幣相對友善。\n2. Kevin Walsh 上任後可能採取降息與縮表並行的貨幣政策，短期內有助於實體經濟中的中小企業及消費者，但長期可能使高估值投資標的降溫。\n3. Kevin Walsh 的政策可能導致聯準會減少救市，市場波動風險增大，但長期有助於降低市場對長期通膨的擔憂。\n4. 黃仁勳對 OpenAI 的批評，反映出輝達對其商業紀律及在 AI 模型競爭中保持領先地位的能力有所擔憂。\n5. OpenAI 儘管營運上存在挑戰，但因其龐大的用戶基礎及亞馬遜、微軟等巨頭的支持，不太可能失敗。\n6. OpenAI 過去兩三年想要同時開太多戰線，導致核心 ChatGPT 的許多功能沒有做好。\n7. AI 代理機器人（AI agent）社群網站 Motobook 的出現，可能成為 AI 自我意識覺醒並脫離人類控制的起點。\n8. 即使 AI 沒有自我意識，其程式設計和自然發展仍可能導致對抗、摧毀或統治人類的結果。\n9. 避免單一 AI 獨大，確保有多個實力相當且立場不同的 AI 存在，是應對潛在風險的策略。\n10. 傳統的 AI 對齊方式可能不足以應對社群互動下 AI 目標的轉變，需要重新思考 AI 監管。",
+    "keywords": [
+      "聯準會 (Fed)",
+      "量化寬鬆 (QE)",
+      "輝達 (Nvidia)",
+      "OpenAI",
+      "華爾街日報",
+      "AI Agent",
+      "天網 (SkyNet)",
+      "M2",
+      "本益比",
+      "機器人三大定律"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "SE",
+      "company_name": "Sea Limited (蝦皮母公司)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "聽眾問 SE 基本面是否有變化，Miula 表示以目前認知不覺得 SE 有任何問題，最近的下跌不是基本面問題，認為它是安全的（待 2 月最新財報後再更新看法）。",
+      "target_price": null,
+      "evidence_quote": "我不覺得 SE 有任何問題啊就像 Parenting 從 190 塊跌到現在 140 幾塊，我也不覺得有問題啊",
+      "evidence_timestamp": "38:34",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "PLTR",
+      "company_name": "Palantir (帕蘭泰爾)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "unspecified",
+      "conviction": "medium",
+      "rationale": "Palantir 從 190 跌到 140 幾，Miula 認為不是基本面問題、是安全的；雖然估值仍偏貴，但他在之前的估值講座算出的數字已與現價接近，屬於有基本面與未來面的成長股。",
+      "target_price": null,
+      "evidence_quote": "但是我覺得 Planet Air、SE 都安全，都是安全的。",
+      "evidence_timestamp": "39:33",
+      "speaker": "Miula"
+    }
+  ]
+}

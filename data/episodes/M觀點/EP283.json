@@ -1,0 +1,65 @@
+{
+  "episode": {
+    "episode_id": "7391248",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7391248",
+    "podcast_name": "M觀點",
+    "title": "EP283. 蘋果推出低價 Mac、美國也有低價無人機、ARK 2026 Big Ideas | M觀點",
+    "publish_date": "2026-03-05",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了科技與財經產業的三個重要主題。首先，分析了蘋果公司推出低價 MacBook Neo 的策略意圖，指出蘋果可能希望藉此擴大 Mac 產品線的市場佔有率，挑戰 Chromebook 在教育市場的地位，並與谷歌生態系統競爭。接著，討論了美國在對伊朗的軍事行動中首次使用的低價無人機 LUCAS，強調其在未來戰爭中的潛在作用，以及對中國軍事戰略的影響。最後，分享了方舟投資（ARK Investment）2026 年的 Big Ideas 報告，重點介紹了 AI 加速時代、AI 基礎設施、AI 消費者作業系統、AI 生產力以及自主物流等趨勢，並對全球 GDP 增長、資料中心資本支出、電池儲能系統安裝量等進行了預測。\n\nTakeaways:\n1. 蘋果推出平價 MacBook Neo 的主要目的是擴大 Mac 的市場佔有率，進入過去未觸及的低價筆電市場，而非直接挑戰 Windows 筆電的企業及遊戲用戶。\n2. 美國開發低價無人機 LUCAS 不僅是為了應對伊朗，更重要的戰略意圖在於向中國展示其機海戰術能力，以應對潛在的臺海衝突。\n3. 儘管蘋果 M 系列晶片在效能上有所提升，但 Mac 的市場佔有率在過去四年仍停滯不前，主要受限於企業系統綁定及遊戲玩家對 Windows 的偏好。\n4. 習近平可能因委內瑞拉和伊朗使用中國製雷達和防空系統在實戰中表現不佳，而對解放軍武器的實際效能產生質疑，降低了對武力攻臺的信心。\n5. ARK Investment 預測，AI 將加速各產業發展，推動全球 GDP 實質成長率在 2030 年達到超過 7%，遠高於過去幾十年的平均 3%。\n6. 資料中心資本支出在 AI 推動下將大幅成長，預計到 2030 年的年化成長率將達 23%，遠超雲端運算興起時期的成長速度。\n7. 未來 AI 將深度介入消費者數位生活，預計到 2030 年，人類有 50% 的數位使用將由 AI 代理完成，大幅改變傳統的交易流程。\n8. 軟體產業不會因 AI 而衰退，ARK Investment 預測未來軟體業的年化成長率將達到 19% 至 56%，但許多軟體公司將面臨被淘汰的風險。\n9. 美國未來對臺灣的戰略預想是將臺灣海峽變成充滿無人機和飛彈的地獄火海，阻止中國船團登陸。\n10. 儲能系統的總安裝量預計到 2030 年將比現在多 19 倍，年化成長率達 80%，為相關產業帶來巨大的投資機會。",
+    "keywords": [
+      "MacBook Neo",
+      "Lucas (FLN-136)",
+      "ARK Investment (方舟投資)",
+      "Big Ideas (大想法)",
+      "Chromebook",
+      "M系列晶片",
+      "A系列晶片",
+      "Hellscape (地獄火海)",
+      "Tokenized Asset (資產代幣)",
+      "Multi-omics (多體學)"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "SE",
+      "company_name": "蝦皮母公司 (Sea Limited)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 長期看好 SEA，認為蝦皮是巴西、印尼、臺灣等人口大國的第一大電商，電商重點看交易量持續成長；補貼戰是常態不必過度在意短期獲利，長線仍能獲利，近期股價是市場不理性亂殺。",
+      "target_price": null,
+      "evidence_quote": "你知道為什麼 SEA 我一直算是看好它？",
+      "evidence_timestamp": "08:38",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "AAPL",
+      "company_name": "蘋果 (Apple)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "medium",
+      "conviction": "medium",
+      "rationale": "iPhone17 世代確定大賣（累積三代換機潮、又多了低價 iPhone17e），營收估計比 iPhone16 至少成長 15%，加上服務業務穩健，今年蘋果每季財報都會很漂亮。",
+      "target_price": null,
+      "evidence_quote": "不過，如果你是蘋果的股東，今年蘋果的裁判該會每一季都會讓你覺得不錯，",
+      "evidence_timestamp": "36:07",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "輝達 (NVIDIA)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "即使 ARK 預測 GPU 在 AI 運算佔比從 90% 降到 60 幾%、ASIC 升到 30%，但整體 AI 運算市場放大 5 到 10 倍，輝達營收不會縮小、反而會翻約 3 倍。",
+      "target_price": null,
+      "evidence_quote": "但是你不要覺得輝達從 90% 變成 60 幾% 是縮小，它不會縮小好嗎？因為整個市場會放大 10 倍好嗎？",
+      "evidence_timestamp": "1:02:45",
+      "speaker": "Miula"
+    }
+  ]
+}

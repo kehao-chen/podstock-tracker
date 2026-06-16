@@ -1,0 +1,28 @@
+{
+  "episode": {
+    "episode_id": "7356593",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7356593",
+    "podcast_name": "M觀點",
+    "title": "EP282. 美國政府大戰 Anthropic、OpenAI 千億美元募資、Meta 再戰穩定幣 | M觀點",
+    "publish_date": "2026-03-02",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了科技巨頭在人工智慧和金融支付領域的最新動態。首先，分析了 Anthropic 與美國政府在 AI 應用上的衝突，指出 Anthropic 對 AI 武器和監控的嚴格限制，與美國國防部的實際需求存在差距。接著，討論 OpenAI 最新一輪的 1100 億美元融資，以及亞馬遜、輝達和軟銀等巨頭的參與，這代表市場對 OpenAI 的持續看好，並可能影響 AI 領域的競爭格局。最後，聚焦 Meta 重新進軍加密貨幣支付領域的計劃，這次 Meta 採取更務實的策略，與 Stripe 合作推出穩定幣支付功能，旨在掌握更多用戶數據和交易，並可能進一步擴展到投資理財等金融服務。\n\nTakeaways:\n1. 美國國防部與 AI 公司在 AI 武器應用上的主要衝突點在於，AI 公司希望加入超出法律規範的額外規則，以限制 AI 在軍事上的應用，但國防部認為政策制定權應由國家而非個別公司掌握。\n2. Anthropic 堅持 AI 武器的每一次擊殺都要有人類負責，但這種做法在實際戰爭中可能導致決策速度過慢，從而增加戰敗的風險。\n3. OpenAI 獲得亞馬遜投資，代表 AI 領域的所有其他參與者不希望 Google 一家獨大，因此會盡力扶持 OpenAI 與其他頂尖模型公司，以維持市場競爭。\n4. Anthropic 在企業市場的成功，並非因其模型更聰明，而是因為其在 AI Agent 長時間工作和環境優化方面有更認真的努力，但這些並非核心技術落差，容易被其他公司模仿。\n5. Meta 重新開始支持穩定幣支付計劃，旨在將用戶的交易盡量留在 Meta 的平臺上，從而更精確地掌握用戶資料，並為未來發展投資理財等金融服務鋪路。\n6. 企業在財稅規劃上，不僅要了解法律規定要繳哪些稅，更要了解在什麼情況下可以不用繳，並具備足夠的專業知識來判斷會計師處理的正確性。\n7. OpenAI 與美國國防部達成協議，在 AI 自動武器的擊殺鏈中，只要有一個人類的確認授權，就不算百分之百的純自動 AI 武器。\n8. 川普政府若將 Anthropic 列為供應鏈風險，可能對 Anthropic 造成巨大影響，因為這意味著所有與美國政府做生意的廠商都不能使用 Anthropic 的產品。",
+    "keywords": [
+      "Anthropic",
+      "Claude",
+      "OpenAI",
+      "Palantir Gotham",
+      "Pete Heges",
+      "Fully Autonomous Lethal Weapons (全自動AI武器)",
+      "GuardRail (護欄)",
+      "Gemini",
+      "Meta",
+      "Libra",
+      "Stripe",
+      "Super App",
+      "USDC"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": []
+}

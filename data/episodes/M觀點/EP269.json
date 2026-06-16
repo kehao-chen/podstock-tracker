@@ -1,0 +1,103 @@
+{
+  "episode": {
+    "episode_id": "6839892",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6839892",
+    "podcast_name": "M觀點",
+    "title": "EP269. 蘋果谷歌正式結盟、特斯拉自駕訂閱制、主動被動投資吵翻 | M觀點",
+    "publish_date": "2026-01-16",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了科技巨頭在人工智慧領域的最新動態與商業策略。首先，節目分析了蘋果與 Google 在 AI 領域的合作，蘋果選擇採用 Google 的 Gemini 模型，為其 Apple Foundation Model 提供技術基礎，儘管這可能意味著蘋果在某種程度上承認自身在 AI 研發上的不足，但從長遠來看，這一步是合理的。接著，節目討論了特斯拉將 FSD（完全自動駕駛）改為訂閱制的決策，認為這是商業模式上的正確轉變，有助於提供更穩定的收入，並降低消費者的入門門檻。最後，主持人評論了主動投資與被動投資之爭，強調投資者應充分了解兩者的優缺點，並找到最適合自己的方法，不應浪費時間在無謂的爭論上。\n\nTakeaways:\n1. 蘋果與 Google 簽署多年合作協議，代表蘋果承認在 AI 領域靠自身難以追趕領先者，短期內恐難以讓自家 AI 模型趕上其他競爭對手。\n2. 儘管蘋果在 AI 模型研發上受限於企業文化與花費，但為避免 iPhone 在 AI 手機競賽中落後，引進外部 AI 技術是必然選擇。\n3. 特斯拉將 FSD 改為訂閱制是正確且必要的商業模式轉變，有助於提供消費者更彈性的選擇，並為公司帶來更穩定的長線收入。\n4. 臺灣政府對 FSD 及自動駕駛的開放進度落後，應以更開放的態度擁抱新科技，並給予計程車司機更多時間適應轉變。\n5. 主動投資與被動投資各有優缺點，投資人應充分了解其特性，並找到最適合自己的投資方式，不應互相貶低。\n6. 蘋果選擇與 Google 合作，除了兩者長久以來的友好關係外，Gemini 模型在手機端運算、雲端 TPU 成本及授權金方面都更具優勢。\n7. Google 與蘋果的合作，除了能讓 Gemini 模型在大量場域中實戰，還能排除任何競爭對手進入蘋果手機的可能性。\n8. 蘋果與 Google 的合作模式，可能是 Google 提供 Gemini 模型作為 IP 授權，蘋果再進行後續訓練與微調，打造出適用於蘋果裝置的版本。\n9. 儘管馬斯克一直希望蘋果採用其 XAI 的 Glock 模型，但 Glock 沒有像 Gemini 一樣針對手機端進行優化，因此錯失了合作機會。\n10. 蘋果的 AI 架構分為端點小模型、私有雲中模型及外部大模型三層，目標是讓絕大多數 AI 需求能在端點小模型與私有雲中模型解決。",
+    "keywords": [
+      "Gemini",
+      "Apple Foundation Model",
+      "FSD (Full Self-Driving)",
+      "Level 2 輔助駕駛",
+      "SPY & QQQ",
+      "0050",
+      "槓鈴策略",
+      "《我的新創時代》&《海岸村恰恰恰》",
+      "福利蓮"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 把微軟列為自己槓鈴策略中的「安穩/保守部位」，長期持有的核心科技股之一。",
+      "target_price": null,
+      "evidence_quote": "那對我來講，我的安穩的部位，就是我的保守的部位是像微軟啦，像 Meta 啦，像 Google 這種公司啦，那我的風險部位就是比特幣嘛，",
+      "evidence_timestamp": "1:17:07",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta (臉書母公司)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 把 Meta 列為自己槓鈴策略中的「保守/安穩部位」，長期持有的核心科技股之一。",
+      "target_price": null,
+      "evidence_quote": "那對我來講，我的安穩的部位，就是我的保守的部位是像微軟啦，像 Meta 啦，像 Google 這種公司啦，那我的風險部位就是比特幣嘛，",
+      "evidence_timestamp": "1:17:07",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Alphabet (Google)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 把 Google 列為自己保守部位的長期持股；同時認為這次蘋果採用 Gemini 的合作對 Google 是「一大勝利」、是大贏家。",
+      "target_price": null,
+      "evidence_quote": "那對我來講，我的安穩的部位，就是我的保守的部位是像微軟啦，像 Meta 啦，像 Google 這種公司啦，那我的風險部位就是比特幣嘛，",
+      "evidence_timestamp": "1:17:07",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "SPY",
+      "company_name": "SPDR S&P 500 ETF",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 說明自己美股有 4 成被動配置在 SPY 跟 QQQ，作為穩定的市場報酬部位。",
+      "target_price": null,
+      "evidence_quote": "我臺股全部被動，美股也有 4 成放在 SPY 跟 QQQ，所以差不多就是 50%,",
+      "evidence_timestamp": "1:04:40",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "QQQ",
+      "company_name": "Invesco QQQ Trust (那斯達克100 ETF)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 說明自己美股有 4 成被動配置在 SPY 跟 QQQ，作為穩定的市場報酬部位。",
+      "target_price": null,
+      "evidence_quote": "我臺股全部被動，美股也有 4 成放在 SPY 跟 QQQ，所以差不多就是 50%,",
+      "evidence_timestamp": "1:04:40",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "0050.TW",
+      "company_name": "元大台灣卓越50 ETF",
+      "market": "TW",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 認同（並引述股癌）的建議：進市場可先把約 90% 資金放在指數，臺股就放 0050 作為被動核心部位。",
+      "target_price": null,
+      "evidence_quote": "你可以把你 90% 的資金都放在指數啊，你臺股就放在 0050 啊，那你把 10% 的資金去做主動投資嘛，",
+      "evidence_timestamp": "1:12:53",
+      "speaker": "Miula"
+    }
+  ]
+}

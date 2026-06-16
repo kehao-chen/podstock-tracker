@@ -1,0 +1,56 @@
+{
+  "episode": {
+    "episode_id": "7138498",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7138498",
+    "podcast_name": "M觀點",
+    "title": "EP276. 專訪 Vincent 談投資心法、AI泡沫、2026看法、中等收入陷阱、重大決策該怎麼做？Feat. 曼報Pro 共同創辦人 Vincent",
+    "publish_date": "2026-02-09",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點專訪漫報 Pro 共同創辦人 Vincent，深入探討其投資心法與對市場的獨到見解。Vincent 分享了他如何透過 ROIC（投資回報率）、企業發展機會及管理團隊誠信來評估優質公司，並強調在評估股價時，應反向思考市場價格所隱含的增長預期是否合理。他建議投資者應將時間精力投入於有信心的標的上，並著重風險控管，維持投資部位在能安心入睡的範圍內。針對 2026 年市場，Vincent 雖看好 AI 資本支出的持續投入，但也提醒需關注應用端能否有效提升企業生產力，以及企業內部轉型可能面臨的阻力。此外，兩人也討論了主動投資與被動投資的選擇，強調了解自身風險承受能力和投資目標的重要性。\n\nTakeaways:\n1. 評估公司是否值得投資，除了 ROIC，還需考量其將盈餘再投資以產生複利的能力，以及在既有市場及新市場的成長空間。\n2. 投資決策應基於對公司內在價值的評估，而非盲目追隨市場共識或熱點，並在內在價值與市場價格存在顯著差異時加大投資部位。\n3. 投資組合部位大小的決定因素在於投資者對標的確定性及價格的信心程度，並以「晚上睡得著覺」為最高指導原則。\n4. 投資的最終目的是提升生活品質，不應過度追求績效而承擔超出自身承受範圍的風險。\n5. 企業導入 AI 工具若要真正提升生產力，需對現有 SOP 及工作流程進行大幅度調整，否則難以充分發揮 AI 的潛力。\n6. 職涯發展的不同階段需要不同的能力，若持續優化早期成功的技能，反而可能難以突破瓶頸，應適時轉型。\n7. 人生重大決策應優先考慮「最小後悔原則」，而非過度追求潛在利益，並在決策過程中保留彈性及選擇權。\n8. 應深入理解投資標的的基礎數值，而非僅憑表面資訊或市場傳言進行判斷。\n9. 投資策略的選擇應基於對自身風險承受能力及投資目標的充分理解，不盲目跟從他人或追求不適合自己的高風險高回報。",
+    "keywords": [
+      "漫報 Pro",
+      "ROIC (Return on Invested Capital)",
+      "Buy Side",
+      "Sell Side",
+      "Hedge Fund",
+      "JPMorgan",
+      "EPS (Earnings Per Share)",
+      "Consensus",
+      "VTI",
+      "S&P 500",
+      "AI CapEx",
+      "LLM (Large Language Model)",
+      "Base Rate",
+      "最小後悔法"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "VTI",
+      "company_name": "Vanguard Total Stock Market ETF (VTI)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "Vincent 自己的投資組合核心，約 60%~70% 都放在 VTI 全市場大盤，做被動指數投資、長期穩定複利；屬於他要投資四五十年的核心配置。",
+      "target_price": null,
+      "evidence_quote": "我現在大概 60%、70% 就是 VTI，全球大盤，剩下一點。",
+      "evidence_timestamp": "29:55",
+      "speaker": "Vincent"
+    },
+    {
+      "ticker": "SPY",
+      "company_name": "標普500指數 (S&P 500)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "medium",
+      "conviction": "low",
+      "rationale": "對 2026 年態度相對保守，認為估值已偏高（20~22 倍）、EPS 增長 15% 上修空間有限，預期指數年底只有約 5% 漲幅、中間可能有 5~10% 回檔；不放空、不看空，維持曝險並保留現金以便回檔加碼。",
+      "target_price": null,
+      "evidence_quote": "如果像我對於 S&P 今年的指數的話，我可能覺得年底有 5% 就很好了。",
+      "evidence_timestamp": "45:54",
+      "speaker": "Vincent"
+    }
+  ]
+}

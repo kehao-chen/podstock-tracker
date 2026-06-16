@@ -1,0 +1,39 @@
+{
+  "episode": {
+    "episode_id": "7427860",
+    "episode_url": "https://podwise.ai/dashboard/episodes/7427860",
+    "podcast_name": "M觀點",
+    "title": "EP284. OpenAI GPT-5.4、再談 Anthropic 爭議、Robotaxi 的擴張速度 | M觀點",
+    "publish_date": "2026-03-09",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要探討了 OpenAI 最新模型 GPT-5.4 的推出及其市場反應，主持人認為 GPT-5.4 在工作能力方面大幅進化，有望挑戰 Anthropic 的 Cloud Opus 4.6 在 AI 代理工作流程中的領先地位。節目亦深入分析了 Anthropic 與美國國防部之間的爭議，指出 Anthropic 對於其 AI 模型使用用途的嚴格限制，可能對美國國防安全構成潛在風險，因此將其列為供應鏈風險是合理的。此外，節目還討論了特斯拉 Robotaxi 的擴張速度問題，儘管面臨一些質疑，但特斯拉仍以安全為優先，謹慎地推進 Robotaxi 的發展。\n\nTakeaways:\n1. OpenAI 的 GPT-5.4 模型在工作能力方面大幅進化，尤其在幫助知識型工作者的代理式 AI 工作流程上能力顯著加強，甚至超越了之前的領先者 Cloud Opus 4.6。\n2. Anthropic 與美國國防部的爭議核心在於，Anthropic 試圖對其模型的使用用途保有過高的控制權，這與美國政府對於國家安全決策應由民選政府掌握的原則相悖。\n3. 美國國防部將 Anthropic 視為供應鏈風險是合理的，因為 Anthropic 對其模型用途的嚴格限制，可能導致在關鍵時刻，與國防相關的供應商或武器系統因模型限制而失效。\n4. 核武器在特定歷史情境下，儘管造成平民傷亡，但可能因加速戰爭結束，從而減少總體傷亡人數。\n5. 儘管特斯拉 Robotaxi 在奧斯汀的擴張速度受到質疑，但其安全記錄良好，大多數事故為輕微且非主動造成，與人類駕駛的事故率相近。\n6. AI 模型的發展速度極快，一個月內市場領先地位的更迭，在使用者體感上如同經歷了數月甚至數年。\n7. Anthropic 主動聯絡政府尋求模型安全協助，使其在早期即成為美國政府機密網路中唯一的 AI 系統。\n8. 美國國防部未來將採取多模型策略，以避免被單一家 AI 科技公司綁架，並確保在不同情境下有更多選擇。",
+    "keywords": [
+      "OpenAI",
+      "GPT-5.4",
+      "Anthropic",
+      "Robotaxi",
+      "NordVPN",
+      "大谷祥平",
+      "核母之海峽",
+      "Emile Michael",
+      "Palantir",
+      "奧本海默"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "Miula 自陳是重壓的特斯拉股東，雖然 Robotaxi 在奧斯汀擴張緩慢（仍停留在個位數車輛），但他認同特斯拉現階段安全優先的策略，看好四月 CyberCab 量產後加速擴張，長線續抱不賣。",
+      "target_price": null,
+      "evidence_quote": "我是特斯拉股東，重壓，雖然今天晚上可能特斯拉也會大跌，今晚美股應該會大跌吧。我其實希望看到更快，可是我也可以理解特斯拉在目前階段一定是安全優先",
+      "evidence_timestamp": "01:14:38",
+      "speaker": "Miula"
+    }
+  ]
+}

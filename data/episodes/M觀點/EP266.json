@@ -1,0 +1,143 @@
+{
+  "episode": {
+    "episode_id": "6704681",
+    "episode_url": "https://podwise.ai/dashboard/episodes/6704681",
+    "podcast_name": "M觀點",
+    "title": "EP266. 川普抓了馬杜羅、2026 投資展望、楊立昆唱衰 Meta | M觀點",
+    "publish_date": "2026-01-05",
+    "language": "Traditional-Chinese",
+    "summary": "本期 M 觀點主要分析了近期國際政治、經濟及科技產業的重要事件。首先，節目深入探討了川普政府對委內瑞拉總統馬杜羅採取軍事行動的影響，並分析了此舉對國際關係及中國可能產生的戰略影響。接著，針對 2026 年美國經濟與股市的展望，Miula 分享了她對通膨、就業率及 GDP 增長的預測，並探討了這些經濟因素如何影響美股投資策略，同時提醒聽眾注意潛在的黑天鵝事件如關稅判決和中美貿易戰。最後，節目評論了前 Meta 首席科學家楊立昆對 Meta AI 發展方向的批評，Miula 認為楊立昆的觀點實際上驗證了 Meta 在 AI 領域選擇 LLM 路線的正確性，並預期 Meta 在 AI 領域將取得顯著成功。\n\nTakeaways:\n1. 川普政府對委內瑞拉總統馬杜羅的軍事行動，反而可能讓中國領導人習近平感到不安，因為這顯示美國有能力癱瘓他國的防空系統並進行斬首行動。\n2. 儘管美國左派和部分臺灣人士批評美國干預委內瑞拉，但多數委內瑞拉人對馬杜羅被捕感到欣喜，反映國際政治現實與部分人士的道德觀存在落差。\n3. 臺灣不應過度依賴國際法的道德譴責來防止中國的武力威脅，因為中國更看重實際的軍事能力和地緣政治利益。\n4. 美國經濟在 2026 年預計將穩健成長，受益於再工業化投資潮和穩定的消費支出，但股市已連續三年大漲，可能面臨修正壓力。\n5. 楊立昆對 Meta AI 發展路線的批評，反而印證 Meta 將全力發展大型語言模型（LLM），這與當前業界主流趨勢一致。\n6. 即使 AI 並未達到人類對「真正智慧」的定義，大型語言模型（LLM）在創造經濟價值方面可能遠勝於人類。\n7. 美國聯準會可能因通膨受到控制及失業率略微上升，在 2026 年有降息空間，此舉將有助於支撐實體經濟。\n8. 川普政府的關稅政策，短期內雖可能引發市場恐慌，但長期而言，若能促使企業將生產移回美國，反而有助於美國經濟的再工業化。\n9. 美國若能確保稀土供應鏈的穩定，可能在 2026 年下半年再次對中國發起新一輪的關稅戰，這將對市場造成短期波動。\n10. 評估美股是否過熱，應關注微軟、亞馬遜、Google 等穩健科技巨頭的估值，而非受迷因影響較大的特斯拉。",
+    "keywords": [
+      "馬杜羅 (Nicolás Maduro)",
+      "絕對的決心行動 (Operation Absolute Resolve)",
+      "楊立昆 (Yann LeCun)",
+      "大型語言模型 (Large Language Model, LLM)",
+      "元大點精靈",
+      "NordVPN",
+      "CPI (Consumer Price Index)",
+      "Core CPI",
+      "S&P 500",
+      "QQQ"
+    ],
+    "duration_sec": null
+  },
+  "recommendations": [
+    {
+      "ticker": "MSFT",
+      "company_name": "微軟 (Microsoft)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 用自己的估值公式判斷市場是否過熱，微軟合理股價區間 580–620 美元，現價 473，比區間下緣還低約 100 美元，屬於被低估、仍有上漲空間的穩健標的。",
+      "target_price": null,
+      "evidence_quote": "首先我們先看微軟，微軟在我的估值公式裡面，它的合理股價在 580 到 620 的區間，微軟現在股價在 473，它比我的合理股價區間的下緣還低了 100 塊美元",
+      "evidence_timestamp": "54:39",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "AMZN",
+      "company_name": "亞馬遜 (Amazon)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "亞馬遜合理估值 290–310，現價只有 226，約有三成的上漲空間，是 Miula 用來佐證股市未過熱的穩健低估標的。",
+      "target_price": null,
+      "evidence_quote": "亞馬遜的合理估值在 290-310 之間，但現在股價才 226，也就是說，他現在股價 226 比我的估值低 290，也差了 70 塊，這差了 70 塊等於他還有三成左右的上漲空間。",
+      "evidence_timestamp": "54:44",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "GOOGL",
+      "company_name": "Google (Alphabet)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Google 合理區間約 420–450 美元，現價只有 315，落差約 100 美元，屬於明顯被低估的穩健科技巨頭。",
+      "target_price": null,
+      "evidence_quote": "那 Google,Google 也差很多，Google 的合理的區間大概在 420 塊到 450 塊的區間，Google 現在股價才 315 塊而已，它的合理股價也差 100 塊",
+      "evidence_timestamp": "55:15",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "AAPL",
+      "company_name": "蘋果 (Apple)",
+      "market": "US",
+      "stance": "hold",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "蘋果合理估值 270–290，現價 271，是五大科技巨頭中唯一股價看起來合理的；Miula 認為蘋果常態性被高估，沒有明顯上漲空間。",
+      "target_price": null,
+      "evidence_quote": "因為蘋果我給它合理估值大概在 270 到 290 塊之間，那蘋果現在股價 271,所以蘋果是五大科技巨頭裡面唯一股價看起來合理的。",
+      "evidence_timestamp": "55:30",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "META",
+      "company_name": "Meta (Meta Platforms)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "high",
+      "rationale": "Meta 合理估值 920–1000 元，現價才 650，要反映合理股價得漲 50%，常態性被低估；Miula 並大膽看好 2026 年 Meta 的 AI 會讓外界驚艷、市場尚未理解。",
+      "target_price": null,
+      "evidence_quote": "最後看 Meta,Meta 的合理估值大概在 900-1000 元的距離，920-1000 元。但是 Meta 現在股價才 650 元，所以如果要反映合理股價，要漲 50%。Meta 就是常態性被離骨的",
+      "evidence_timestamp": "55:57",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "TSLA",
+      "company_name": "特斯拉 (Tesla)",
+      "market": "US",
+      "stance": "avoid",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 蠻有把握特斯拉被高估，認為它某個程度是半個迷因股，不適合拿來判斷股市是否過熱。",
+      "target_price": null,
+      "evidence_quote": "我個人覺得特斯拉被高估了，那特斯拉我蠻有把握一定高估，因為我上一次算的時候是高估，那本質上沒有太大的改變，特斯拉某個程度是半個迷因股了",
+      "evidence_timestamp": "56:37",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "NVDA",
+      "company_name": "輝達 (NVIDIA)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "medium",
+      "rationale": "Miula 認為輝達應該是被低估的，相信實際算出來會低估一定程度，只是市場對 AI 泡沫信心不足；屬尚未正式估值的偏多看法。",
+      "target_price": null,
+      "evidence_quote": "那輝達則是應該是被低估了，可是市場現在對於 AI 的泡沫，對於 AZ 這部分的確也沒有很多信心，我相信輝達算出來應該我也會覺得他低估一定程度了",
+      "evidence_timestamp": "56:39",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "SPY",
+      "company_name": "SPDR S&P 500 ETF",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "Miula 對 2026 年比高盛、JP Morgan 更樂觀一點，認為 S&P 500（SPY）全年至少會漲 12%，但強調僅供參考、非投資建議。",
+      "target_price": null,
+      "evidence_quote": "我覺得今年 SPY SP500 應該可以至少漲 12% 吧，那 QQQ 我認為漲更多啦，我覺得漲 15% 應該可能，那以上是我個人的看法，不是投資建議好不好",
+      "evidence_timestamp": "57:50",
+      "speaker": "Miula"
+    },
+    {
+      "ticker": "QQQ",
+      "company_name": "Invesco QQQ (納斯達克 100 ETF)",
+      "market": "US",
+      "stance": "buy",
+      "horizon": "long",
+      "conviction": "low",
+      "rationale": "Miula 認為 2026 年 QQQ（納斯達克 100）會漲更多，估計約 15%，但強調只是個人看法、for fun、非投資建議。",
+      "target_price": null,
+      "evidence_quote": "那 QQQ 我認為漲更多啦，我覺得漲 15% 應該可能，那以上是我個人的看法，不是投資建議好不好，存檔有趣的點來參考",
+      "evidence_timestamp": "57:54",
+      "speaker": "Miula"
+    }
+  ]
+}
